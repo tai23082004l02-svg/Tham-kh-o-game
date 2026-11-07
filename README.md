@@ -10,6 +10,9 @@ Bắt đầu tại **[Bàn giao Eternal Senia 2](research/eternal-senia-2/START_
 - `apk-extracted/com.superplanet.swordmaster_2.0.0`: APK Sword Master Story trước đó;
   **không thuộc các kết luận Eternal Senia 2**.
 
+**Người dùng đã cho phép chatbot chủ động xuất/xem tài nguyên để tham khảo**,
+không hỏi lại từng bước. Ưu tiên [chất lượng đồ họa và frame](research/eternal-senia-2/GRAPHICS_WORKFLOW.md).
+
 Nghiên cứu tĩnh; không phải project Unity gốc hoặc phục hồi100% logic.
 Xem [bằng chứng và giới hạn](research/eternal-senia-2/EVIDENCE.md),
 [riêng tư và quyền sử dụng](research/eternal-senia-2/PRIVACY_AND_RIGHTS.md).

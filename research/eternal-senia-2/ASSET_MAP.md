@@ -19,6 +19,11 @@ Các filename băm trong Data không nói lên loại nội dung. Dùng TextAsse
 để đi từ tên bảng tới file chứa nó. Luôn lấy resource stream đi kèm, không chép
 mỗi serialized header rồi kết luận texture/audio bị mất.
 
+## Chủ động mở tài nguyên để tham khảo
+Người dùng đã cho phép chatbot tự giải nén và xuất ảnh/clip cần thiết để xem
+cục bộ, không phải chỉ đọc danh mục rồi dừng. Dựng preview theo GRAPHICS_WORKFLOW,
+đối chiếu hình thực tế và metadata trước khi đề xuất cách làm đồ họa mới.
+
 ## Tra cứu nhanh bằng Python
 ```python
 import json

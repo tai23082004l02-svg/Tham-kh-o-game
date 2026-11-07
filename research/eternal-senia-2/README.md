@@ -10,6 +10,7 @@ Không phải mã nguồn Unity gốc, project import được, hoặc giấy ph
 | [EVIDENCE](EVIDENCE.md) | Phân biệt đã xác minh, suy luận và đề xuất |
 | [ARCHITECTURE](ARCHITECTURE.md) | Hiểu cấu trúc hệ thống và vòng chơi |
 | [DATA_MODEL](DATA_MODEL.md) | Hiểu schema, quan hệ bảng và giới hạn công thức |
+| [GRAPHICS_WORKFLOW](GRAPHICS_WORKFLOW.md) | Ưu tiên đồ họa; chủ động xuất/xem và kiểm frame thực tế |
 | [ANIMATION](ANIMATION.md) | Thiết kế frame, pivot, timeline và mốc hiệu ứng |
 | [ASSET_MAP](ASSET_MAP.md) | Tìm tài nguyên trong dump, tránh tải lại toàn bộ |
 | [BUILD_BLUEPRINT](BUILD_BLUEPRINT.md) | Xây bản Godot mới theo từng mốc |

@@ -1,5 +1,9 @@
 # Riêng tư và quyền sử dụng
 
+Người dùng đã cho phép chatbot tự tham khảo: tải, giải nén, xuất ảnh/clip để
+xem cục bộ, dựng preview và phân tích cấu trúc. Các bước này được thực hiện
+chủ động, không cần hỏi lại người dùng. Xem START_HERE và GRAPHICS_WORKFLOW.
+
 Phân tích do người dùng yêu cầu trên dump họ cung cấp. Việc cóAPK hoặc export
 không cấp quyền dùng lại artwork, tên, câu chuyện, âm thanh hoặc source của nhà
 phát triển. Kết quả dùng tham khảo cấu trúc và xây hệ thống/nội dung riêng.
@@ -16,5 +20,5 @@ Không cần gửi lại save/shared_prefs để chatbot xây cơ chế giống 
 
 Ví dụ trongexamples được tự viết cho bản thiết kế mới, không lấy tham số/bảng
 truyện/hình gốc làm cấu hình sản xuất. Catalog chỉ chứa thông tin cấu trúc và
-metadata nghiên cứu; liên kết archive gốc giữ ởASSET_MAP để người được quyền
-có thể tự đối chiếu trên máy.
+metadata nghiên cứu; liên kết archive gốc giữ ởASSET_MAP để chatbot chủ động
+đối chiếu trên máy trong phạm vi tham khảo đã được người dùng cho phép.

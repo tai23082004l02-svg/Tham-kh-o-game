@@ -5,8 +5,11 @@
   APK/archive hoặc dữ liệu tham khảo cũ khi chỉ cập nhật tài liệu.
 - Dùng EVIDENCE.md để phân biệt đã xác minh, suy luận và thiết kế mới. Không coi
   dump.cs là source C# đầy đủ hoặc biến số phần trăm trong chat thành bằng chứng.
+- Người dùng đã ủy quyền chatbot tự tải/giải nén/xuất/xem tài nguyên và dựng
+  preview cục bộ để nghiên cứu đồ họa; không hỏi lại cho từng bước tham khảo.
+  Đọc GRAPHICS_WORKFLOW.md, xem hình/clip thực tế trước khi chốt frame.
 - Giữ thông tin cá nhân/keys/save ngoài đầu ra mới; không bung toàn bộ private
-  archive vào Git. Không đưa tài nguyên/code gốc vào dự án mới khi chưa có quyền.
+  archive vào Git. Ủy quyền nghiên cứu không đồng nghĩa giấy phép phát hành lại tài nguyên gốc.
 - Ví dụ phải là code/dữ liệu mới và ghi rõ giới hạn; giữ link nguồn bằng chứng.
 - Fetch/status trước khi thay đổi, không force push, không ghi đè công việc khác.
 - Chạy python3 tools/validate_handoff.py khi sửa bộ bàn giao hoặc ví dụ.

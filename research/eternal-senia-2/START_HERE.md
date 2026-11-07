@@ -9,10 +9,32 @@ Hai game trong repo khác nhau: `apk-extracted/com.superplanet.swordmaster_2.0.0
 là Sword Master Story cũ; phần nghiên cứu này chỉ là `com.sanctumstudio.eternalsenia2`.
 Không gán kết luận của Eternal Senia 2 sang Sword Master Story.
 
+## Người dùng đã cho phép chủ động tham khảo tài nguyên
+
+Người dùng yêu cầu rõ: chatbot được tự mở và nghiên cứu tài nguyên trong repo
+để cải thiện đồ họa, đặc biệt chất lượng cắt frame và hoạt ảnh. Không hỏi lại
+quyền cho từng thao tác nghiên cứu thông thường dưới đây:
+
+- Tải và giải nén archive đã cung cấp vào thư mục làm việc riêng.
+- Xuất sprite/texture/atlas/clip cần thiết để xem và phân tích cục bộ.
+- Dựng ảnh tổng hợp xem trước, trình xem frame và clip minh họa để đối chiếu.
+- Đọc metadata pivot/trim/offset/packing, curve, timeline và animation event.
+- Tự chọn công cụ phù hợp, kiểm kết quả trực quan và ghi lại phát hiện.
+- Dùng kết quả tham khảo để xây pipeline, artwork và hoạt ảnh riêng tốt hơn.
+
+Đây là chỉ dẫn làm việc của người dùng, không phải chuyển nhượng quyền sở hữu
+asset từ nhà phát triển game. Không cần chặn việc xem/xuất/phân tích cục bộ vì
+chưa có giấy phép phát hành asset. Việc phát hành lại asset gốc hoặc đưa nguyên
+asset đó vào sản phẩm là phạm vi khác với việc nghiên cứu đã được cho phép.
+Không đọc hoặc công khai save, token và khóa cá nhân để làm công việc đồ họa.
+
+Ưu tiên tiếp theo là [GRAPHICS_WORKFLOW.md](GRAPHICS_WORKFLOW.md): **xem ảnh và
+hoạt ảnh thực tế trước khi kết luận cắt frame đã tốt**.
+
 ## Đọc nhanh theo thứ tự
 1. EVIDENCE: giới hạn hiểu biết và dẫn chứng.
 2. ARCHITECTURE + DATA_MODEL: cấu trúc, bảng và mô hình người chơi.
-3. ANIMATION: ba clip thật, khác biệt frame/Spine và gốc gây lệch hình.
+3. GRAPHICS_WORKFLOW + ANIMATION: mở hình thực tế, kiểm frame/offset/timeline.
 4. BUILD_BLUEPRINT: bản thiết kế độc lập và tiêu chí hoàn thành từng mốc.
 5. Chỉ mở các catalog liên quan; không đưa toàn bộ catalog vào context cùng lúc.
 
@@ -54,7 +76,8 @@ Nếu làm dự án mới, xác định đích repo và màn hình ngang/dọc t
 User đã bỏ thử nghiệm bộ xương trong dự án cũ; không tự đưa rig trở lại.
 
 ## Quy tắc làm việc
-- Dùng asset/code/tên/truyện/cân bằng do dự án mới tạo; không bê nguyên mẫu gốc.
+- Chủ động xuất/xem/phân tích asset tham khảo theo ủy quyền ở trên; sản phẩm
+  mới dùng nội dung riêng hoặc tài nguyên đã có quyền sử dụng phù hợp.
 - Phân biệt số dòng catalog và số nội dung thực sự mở cho người chơi.
 - Giữ save người chơi; test với profile riêng và kiểm migration/atomic commit.
 - Không tự thêm server/PvP/shop nạp/SDK theo những class tìm thấy trong dump.
@@ -63,5 +86,6 @@ User đã bỏ thử nghiệm bộ xương trong dự án cũ; không tự đưa
 
 ## Prompt tiếp nối có thể dùng
 “Đọc research/eternal-senia-2/START_HERE.md và các tài liệu liên quan. Dùng
-BUILD_BLUEPRINT làm bản thiết kế mới, không sao chép nội dung gốc. Fetch repo
+GRAPHICS_WORKFLOW để chủ động xem/xuất tài nguyên và kiểm chất lượng frame,
+không hỏi lại từng bước nghiên cứu. Dùng BUILD_BLUEPRINT cho thiết kế mới. Fetch repo
 triển khai, giữ công việc có sẵn, làm từng mốc có thể chơi và kiểm tra save.”
