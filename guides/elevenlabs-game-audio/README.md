@@ -3,7 +3,11 @@
 **Chatbot bắt đầu tại [START_HERE.md](START_HERE.md).** Mục này độc lập với
 nghiên cứu Eternal Senia 2; không cần giải nén game gốc để tạo âm thanh mới.
 
-- [Quy trình và ví dụ API](WORKFLOW.md)
+Khóa API dùng qua **GitHub Actions của repo
+[Live-Youtube-American](https://github.com/tai23082004l02-svg/Live-Youtube-American)**,
+secret `ELEVENLABS_API_KEY`; không cần lấy giá trị khóa ra để chép vào game.
+
+- [Quy trình, đường dùng khóa và ví dụ API](WORKFLOW.md)
 - [Kế hoạch dùng credit sắp hết hạn](CREDIT_PLAN.md)
 - [Bộ prompt mẫu](prompt_pack.json), trạng thái **planned**, chưa gọi API
 - [Manifest mẫu](manifest.template.json) để lưu nguồn, xử lý và chi phí

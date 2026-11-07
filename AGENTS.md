@@ -5,6 +5,9 @@
   riêng, không chạy workflow trả phí chỉ vì mở tài liệu. Người dùng có credit
   sắp hết hạn nhưng chưa chỉ định ngân sách/số dư cho một lô mới trong lượt này.
   Khi đã có yêu cầu tạo và budget rõ, làm đủ lô đã giao, không hỏi từng âm.
+  Theo chỉ dẫn người dùng, ưu tiên dùng secret ELEVENLABS_API_KEY qua Actions
+  của tai23082004l02-svg/Live-Youtube-American. Kiểm quyền/workflow trước khi
+  xin khóa mới; không đọc/in secret hoặc chuyển khóa vào repo game.
 - Repo này là tài liệu nghiên cứu, không phải repo triển khai Godot. Không thay
   APK/archive hoặc dữ liệu tham khảo cũ khi chỉ cập nhật tài liệu.
 - Dùng EVIDENCE.md để phân biệt đã xác minh, suy luận và thiết kế mới. Không coi

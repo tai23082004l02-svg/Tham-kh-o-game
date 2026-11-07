@@ -1,5 +1,25 @@
 # Quy trình tạo và đưa âm vào Godot
 
+## 0. Đường dùng khóa: Live-Youtube-American
+Vào [repo hỗ trợ](https://github.com/tai23082004l02-svg/Live-Youtube-American)
+và đọc workflow/script tạo âm trước. Nơi cấu hình: Settings → Secrets and
+variables → Actions → `ELEVENLABS_API_KEY` (chỉ người có quyền mới quản lý được).
+Secret đã lưu không có nút đọc lại giá trị; dùng trực tiếp trong job:
+
+```yaml
+# Đoạn minh họa trong một job của repo có secret, không phải workflow tự chạy.
+- name: Generate the authorized audio batch
+  env:
+    ELEVENLABS_API_KEY: ${{ secrets.ELEVENLABS_API_KEY }}
+  run: python tools/<script-cua-batch-da-chuan-bi>.py
+```
+
+Đây là snippet hướng dẫn, không phải file workflow để copy chạy ngay. Script
+phải tồn tại và batch/budget phải được chuẩn bị trước. Không in biến môi trường.
+Sau run, kiểm manifest rồi lấy audio từ artifact hoặc đường dẫn đã cấu hình.
+Chỉ clone repo không đem secret về máy; job fork hoặc workflow tái sử dụng cũng
+không mặc nhiên nhận secret. Khi thiếu quyền, dùng kết nối GitHub/Actions phù hợp.
+
 ## 1. Chuẩn bị
 - Âm gameplay: một event rõ, onset nhanh, ít đuôi, khôngvoice/music/ambience lẫn.
 - Ambience: không cố nhét tiếngđòn đánh vào nền. Nhạc menu/combat tách asset.
