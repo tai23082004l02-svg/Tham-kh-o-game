@@ -16,8 +16,6 @@ Bắt đầu tại **[Bàn giao Eternal Senia 2](research/eternal-senia-2/START_
 - [Mẫu cấu hình và mô phỏng tự viết](research/eternal-senia-2/examples/README.md).
 - [Gói Eternal Senia 2 gốc](eternal%20senia/EternalSenia2/README.md): archive có sẵn,
   không phải tài nguyên được cấp phép đưa vào game khác.
-- `apk-extracted/com.superplanet.swordmaster_2.0.0`: APK Sword Master Story trước đó;
-  **không thuộc các kết luận Eternal Senia 2**.
 
 **Người dùng đã cho phép chatbot chủ động xuất/xem tài nguyên để tham khảo**,
 không hỏi lại từng bước. Ưu tiên [chất lượng đồ họa và frame](research/eternal-senia-2/GRAPHICS_WORKFLOW.md).

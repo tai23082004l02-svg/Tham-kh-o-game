@@ -5,9 +5,9 @@ Người dùng muốn xây một game tương tự Eternal Senia 2 cho dễ tri�
 khảo cách tổ chức tài nguyên, hoạt ảnh, tiến trình và vòng chơi. Nghiên cứu tĩnh
 đã được thực hiện; dùng kết quả ở đây trước khi tải lại archive hoặc chạy tool.
 
-Hai game trong repo khác nhau: `apk-extracted/com.superplanet.swordmaster_2.0.0`
-là Sword Master Story cũ; phần nghiên cứu này chỉ là `com.sanctumstudio.eternalsenia2`.
-Không gán kết luận của Eternal Senia 2 sang Sword Master Story.
+Repo tham khảo hiện tập trung vào `com.sanctumstudio.eternalsenia2`.
+Bộ APK Sword Master Story cũ đã được xóa theo yêu cầu người dùng.
+Không gán kết luận nghiên cứu Eternal Senia 2 sang game khác.
 
 ## Người dùng đã cho phép chủ động tham khảo tài nguyên
 
