@@ -27,7 +27,8 @@ def main():
     assert len(catalogues['verified_clip_samples']) == 3
     for record in catalogues['provenance']['inputs']:
         assert len(record['sha256']) == 64 and record['size'] > 0
-    docs = [ROOT/'README.md', ROOT/'AGENTS.md', *BASE.rglob('*.md')]
+    docs = [ROOT/'README.md', ROOT/'AGENTS.md', *BASE.rglob('*.md'),
+            *(ROOT/'guides'/'elevenlabs-game-audio').glob('*.md')]
     links = 0
     for path in docs:
         content = path.read_text()

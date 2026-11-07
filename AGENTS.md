@@ -1,6 +1,10 @@
 # Hướng dẫn cho chatbot trong repo tham khảo
 
-- Đọc README.md và research/eternal-senia-2/START_HERE.md trước khi làm.
+- Đọc README.md trước. Với nghiên cứu game: research/eternal-senia-2/START_HERE.md.
+  Với âm thanh ElevenLabs: guides/elevenlabs-game-audio/START_HERE.md; đây là mục
+  riêng, không chạy workflow trả phí chỉ vì mở tài liệu. Người dùng có credit
+  sắp hết hạn nhưng chưa chỉ định ngân sách/số dư cho một lô mới trong lượt này.
+  Khi đã có yêu cầu tạo và budget rõ, làm đủ lô đã giao, không hỏi từng âm.
 - Repo này là tài liệu nghiên cứu, không phải repo triển khai Godot. Không thay
   APK/archive hoặc dữ liệu tham khảo cũ khi chỉ cập nhật tài liệu.
 - Dùng EVIDENCE.md để phân biệt đã xác minh, suy luận và thiết kế mới. Không coi

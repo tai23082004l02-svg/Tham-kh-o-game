@@ -1,5 +1,14 @@
 # Kho tham khảo game
 
+## Tạo âm thanh game bằng ElevenLabs
+
+**[Chatbot đọc hướng dẫn tại đây](guides/elevenlabs-game-audio/START_HERE.md)** ·
+[Tải hướng dẫn ZIP](downloads/elevenlabs-game-audio-guide.zip).
+Có quy trình API/GitHub Actions, kế hoạch credit sắp hết hạn,28prompt mẫu và
+manifest. Đây là mục riêng, chưa chạy tạo âm hoặc sử dụng credit trong lần bàn giao.
+
+## Tham khảo cấu trúc và tài nguyên game
+
 Bắt đầu tại **[Bàn giao Eternal Senia 2](research/eternal-senia-2/START_HERE.md)**.
 
 - [Mục lục nghiên cứu và catalog](research/eternal-senia-2/README.md): kết quả đã đọc,

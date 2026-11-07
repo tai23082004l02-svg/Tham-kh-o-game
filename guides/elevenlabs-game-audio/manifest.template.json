@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "status": "template_not_executed",
+  "batch_id": "replace_with_unique_batch_id",
+  "budget_credit_cap": null,
+  "expiry_at_with_timezone": null,
+  "provider": "ElevenLabs",
+  "model": null,
+  "usage_before": null,
+  "usage_after": null,
+  "response_cost_header_total": null,
+  "billing_note": "Historical counters and response headers can differ; record observations without claiming final settlement.",
+  "assets": [
+    {
+      "id": "example_id",
+      "status": "planned",
+      "variant": 1,
+      "prompt": null,
+      "duration_requested": null,
+      "loop": false,
+      "attempt_record": null,
+      "request_id": null,
+      "response_cost_header": null,
+      "original_file": null,
+      "original_sha256": null,
+      "processed_file": null,
+      "duration_decoded": null,
+      "peak_dbfs": null,
+      "rms_dbfs": null,
+      "gain_db": null,
+      "trim_and_fade": null,
+      "listening_review": "not_performed",
+      "game_event": null
+    }
+  ]
+}

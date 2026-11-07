@@ -1,0 +1,259 @@
+{
+  "status": "planned_not_generated",
+  "notice": "Original prompt suggestions. No cost estimate or permission to execute all assets implied. Check existing audio and choose an authorized budgeted batch.",
+  "suggested_model": "eleven_text_to_sound_v3",
+  "assets": [
+    {
+      "id": "ui_click",
+      "status": "planned",
+      "category": "ui",
+      "duration_seconds": 0.5,
+      "loop": false,
+      "variants": 1,
+      "prompt": "One soft tactile crystal UI click, concise and subtle. Single event, immediate onset. No voice, no music, no background ambience, no long reverb."
+    },
+    {
+      "id": "ui_confirm",
+      "status": "planned",
+      "category": "ui",
+      "duration_seconds": 0.6,
+      "loop": false,
+      "variants": 1,
+      "prompt": "One warm two-note magical confirmation chime, confident and short. Single event, immediate onset. No voice, no music, no background ambience, no long reverb."
+    },
+    {
+      "id": "ui_back",
+      "status": "planned",
+      "category": "ui",
+      "duration_seconds": 0.5,
+      "loop": false,
+      "variants": 1,
+      "prompt": "One soft low wooden menu back click, restrained. Single event, immediate onset. No voice, no music, no background ambience, no long reverb."
+    },
+    {
+      "id": "ui_error",
+      "status": "planned",
+      "category": "ui",
+      "duration_seconds": 0.6,
+      "loop": false,
+      "variants": 1,
+      "prompt": "One gentle muted error cue, brief and readable, not harsh. Single event, immediate onset. No voice, no music, no background ambience, no long reverb."
+    },
+    {
+      "id": "reward_coins",
+      "status": "planned",
+      "category": "reward",
+      "duration_seconds": 0.8,
+      "loop": false,
+      "variants": 1,
+      "prompt": "A small handful of coins collected, delicate metal clinks and a soft sparkle. Single event, immediate onset. No voice, no music, no background ambience, no long reverb."
+    },
+    {
+      "id": "chest_open",
+      "status": "planned",
+      "category": "reward",
+      "duration_seconds": 1.2,
+      "loop": false,
+      "variants": 1,
+      "prompt": "One wooden fantasy chest opening with a short hinge creak and bright magical reveal. Single event, immediate onset. No voice, no music, no background ambience, no long reverb."
+    },
+    {
+      "id": "level_up",
+      "status": "planned",
+      "category": "reward",
+      "duration_seconds": 1.5,
+      "loop": false,
+      "variants": 1,
+      "prompt": "One uplifting fantasy level-up flourish, bright crystal rise and clean finish. Single event, immediate onset. No voice, no music, no background ambience, no long reverb."
+    },
+    {
+      "id": "victory",
+      "status": "planned",
+      "category": "reward",
+      "duration_seconds": 2.0,
+      "loop": false,
+      "variants": 1,
+      "prompt": "A short original fantasy victory sting, warm heroic resolution. No voices or vocals, no background noise. Short standalone musical sting."
+    },
+    {
+      "id": "defeat",
+      "status": "planned",
+      "category": "reward",
+      "duration_seconds": 1.5,
+      "loop": false,
+      "variants": 1,
+      "prompt": "A short restrained fantasy defeat sting, soft descending tone, no dramatic boom. No voices or vocals, no background noise. Short standalone musical sting."
+    },
+    {
+      "id": "sword_slash",
+      "status": "planned",
+      "category": "combat",
+      "duration_seconds": 0.7,
+      "loop": false,
+      "variants": 1,
+      "prompt": "One fast sword swing with a clean metallic air whoosh, dry and close. Single event, immediate onset. No voice, no music, no background ambience, no long reverb."
+    },
+    {
+      "id": "sword_hit",
+      "status": "planned",
+      "category": "combat",
+      "duration_seconds": 0.5,
+      "loop": false,
+      "variants": 1,
+      "prompt": "One crisp steel impact against armor, a short body thud underneath. Single event, immediate onset. No voice, no music, no background ambience, no long reverb."
+    },
+    {
+      "id": "arrow_release",
+      "status": "planned",
+      "category": "combat",
+      "duration_seconds": 0.5,
+      "loop": false,
+      "variants": 1,
+      "prompt": "One bowstring snap and fast arrow release, close and immediate. Single event, immediate onset. No voice, no music, no background ambience, no long reverb."
+    },
+    {
+      "id": "arrow_hit",
+      "status": "planned",
+      "category": "combat",
+      "duration_seconds": 0.5,
+      "loop": false,
+      "variants": 1,
+      "prompt": "One arrow striking a wooden shield with a compact punch. Single event, immediate onset. No voice, no music, no background ambience, no long reverb."
+    },
+    {
+      "id": "spell_cast",
+      "status": "planned",
+      "category": "combat",
+      "duration_seconds": 0.8,
+      "loop": false,
+      "variants": 1,
+      "prompt": "One concentrated magical projectile launch, a small rising energy snap. Single event, immediate onset. No voice, no music, no background ambience, no long reverb."
+    },
+    {
+      "id": "fire_burst",
+      "status": "planned",
+      "category": "combat",
+      "duration_seconds": 1.0,
+      "loop": false,
+      "variants": 1,
+      "prompt": "One compact fire spell burst, sharp ignition and short airy flame decay. Single event, immediate onset. No voice, no music, no background ambience, no long reverb."
+    },
+    {
+      "id": "ice_strike",
+      "status": "planned",
+      "category": "combat",
+      "duration_seconds": 0.9,
+      "loop": false,
+      "variants": 1,
+      "prompt": "One icy magical impact, crisp crystal crack and brief frost shimmer. Single event, immediate onset. No voice, no music, no background ambience, no long reverb."
+    },
+    {
+      "id": "thunder_strike",
+      "status": "planned",
+      "category": "combat",
+      "duration_seconds": 0.8,
+      "loop": false,
+      "variants": 1,
+      "prompt": "One focused lightning strike, fast electrical crack and short low impact. Single event, immediate onset. No voice, no music, no background ambience, no long reverb."
+    },
+    {
+      "id": "shield_block",
+      "status": "planned",
+      "category": "combat",
+      "duration_seconds": 0.6,
+      "loop": false,
+      "variants": 1,
+      "prompt": "One firm shield block, metallic ring over a short heavy thud. Single event, immediate onset. No voice, no music, no background ambience, no long reverb."
+    },
+    {
+      "id": "heal",
+      "status": "planned",
+      "category": "combat",
+      "duration_seconds": 1.2,
+      "loop": false,
+      "variants": 1,
+      "prompt": "One soft restorative magic pulse, airy warm shimmer with a gentle finish. Single event, immediate onset. No voice, no music, no background ambience, no long reverb."
+    },
+    {
+      "id": "player_hurt",
+      "status": "planned",
+      "category": "combat",
+      "duration_seconds": 0.5,
+      "loop": false,
+      "variants": 1,
+      "prompt": "One restrained cloth and body impact cue, no human vocalization. Single event, immediate onset. No voice, no music, no background ambience, no long reverb."
+    },
+    {
+      "id": "enemy_death",
+      "status": "planned",
+      "category": "combat",
+      "duration_seconds": 0.8,
+      "loop": false,
+      "variants": 1,
+      "prompt": "One small fantasy creature dissolving into dust, dry thump and soft airy decay, no voice. Single event, immediate onset. No voice, no music, no background ambience, no long reverb."
+    },
+    {
+      "id": "footstep_stone",
+      "status": "planned",
+      "category": "movement",
+      "duration_seconds": 0.4,
+      "loop": false,
+      "variants": 1,
+      "prompt": "One light leather boot step on worn stone, dry and close. Single event, immediate onset. No voice, no music, no background ambience, no long reverb."
+    },
+    {
+      "id": "boss_arrival",
+      "status": "planned",
+      "category": "boss",
+      "duration_seconds": 2.0,
+      "loop": false,
+      "variants": 1,
+      "prompt": "One ominous fantasy boss arrival cue, deep restrained pulse and dark metallic texture. Single event, immediate onset. No voice, no music, no background ambience, no long reverb."
+    },
+    {
+      "id": "boss_warning",
+      "status": "planned",
+      "category": "boss",
+      "duration_seconds": 0.8,
+      "loop": false,
+      "variants": 1,
+      "prompt": "One distinctive urgent magical attack warning, two clear rising pulses. Single event, immediate onset. No voice, no music, no background ambience, no long reverb."
+    },
+    {
+      "id": "boss_attack",
+      "status": "planned",
+      "category": "boss",
+      "duration_seconds": 1.2,
+      "loop": false,
+      "variants": 1,
+      "prompt": "One heavy monster weapon impact, strong low punch and short stone debris. Single event, immediate onset. No voice, no music, no background ambience, no long reverb."
+    },
+    {
+      "id": "boss_defeat",
+      "status": "planned",
+      "category": "boss",
+      "duration_seconds": 2.0,
+      "loop": false,
+      "variants": 1,
+      "prompt": "One large magical guardian collapsing, heavy brief impact then fading energy. Single event, immediate onset. No voice, no music, no background ambience, no long reverb."
+    },
+    {
+      "id": "menu_loop",
+      "status": "planned",
+      "category": "loop",
+      "duration_seconds": 8.0,
+      "loop": true,
+      "variants": 1,
+      "prompt": "An original seamless fantasy menu instrumental loop, gentle plucked strings and warm soft pads, sparse and calm. No voices or vocals, no background noise, seamless transition back to the beginning."
+    },
+    {
+      "id": "battle_loop",
+      "status": "planned",
+      "category": "loop",
+      "duration_seconds": 8.0,
+      "loop": true,
+      "variants": 1,
+      "prompt": "An original seamless fantasy battle instrumental loop, restrained hand percussion and repeating strings, leave room for effects. No voices or vocals, no background noise, seamless transition back to the beginning."
+    }
+  ]
+}
