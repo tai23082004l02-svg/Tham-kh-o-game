@@ -1,0 +1,484 @@
+[
+  {
+    "name": "anim_pt_hugo_atk",
+    "source_file": "72cfb0d7ed39bf74f869dfca57c01c5c",
+    "path_id": 1,
+    "sample_rate": 30.0,
+    "duration": 2.200000047683716,
+    "bindings": {
+      "genericBindings": [
+        {
+          "path": 0,
+          "attribute": 0,
+          "script": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "typeID": 212,
+          "customType": 23,
+          "isPPtrCurve": 1,
+          "isIntCurve": 0,
+          "isSerializeReferenceCurve": 0
+        },
+        {
+          "path": 0,
+          "attribute": 304273561,
+          "script": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "typeID": 212,
+          "customType": 0,
+          "isPPtrCurve": 0,
+          "isIntCurve": 0,
+          "isSerializeReferenceCurve": 0
+        },
+        {
+          "path": 0,
+          "attribute": 2526845255,
+          "script": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "typeID": 212,
+          "customType": 0,
+          "isPPtrCurve": 0,
+          "isIntCurve": 0,
+          "isSerializeReferenceCurve": 0
+        },
+        {
+          "path": 0,
+          "attribute": 4215373228,
+          "script": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "typeID": 212,
+          "customType": 0,
+          "isPPtrCurve": 0,
+          "isIntCurve": 0,
+          "isSerializeReferenceCurve": 0
+        },
+        {
+          "path": 0,
+          "attribute": 2334886179,
+          "script": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "typeID": 212,
+          "customType": 0,
+          "isPPtrCurve": 0,
+          "isIntCurve": 0,
+          "isSerializeReferenceCurve": 0
+        }
+      ],
+      "pptrCurveMapping": [
+        {
+          "m_FileID": 1,
+          "m_PathID": 2
+        },
+        {
+          "m_FileID": 2,
+          "m_PathID": 2
+        },
+        {
+          "m_FileID": 3,
+          "m_PathID": 2
+        },
+        {
+          "m_FileID": 4,
+          "m_PathID": 2
+        },
+        {
+          "m_FileID": 5,
+          "m_PathID": 2
+        },
+        {
+          "m_FileID": 6,
+          "m_PathID": 2
+        },
+        {
+          "m_FileID": 3,
+          "m_PathID": 2
+        },
+        {
+          "m_FileID": 4,
+          "m_PathID": 2
+        },
+        {
+          "m_FileID": 5,
+          "m_PathID": 2
+        },
+        {
+          "m_FileID": 6,
+          "m_PathID": 2
+        },
+        {
+          "m_FileID": 3,
+          "m_PathID": 2
+        },
+        {
+          "m_FileID": 4,
+          "m_PathID": 2
+        },
+        {
+          "m_FileID": 2,
+          "m_PathID": 2
+        },
+        {
+          "m_FileID": 7,
+          "m_PathID": 2
+        },
+        {
+          "m_FileID": 8,
+          "m_PathID": 2
+        },
+        {
+          "m_FileID": 9,
+          "m_PathID": 2
+        },
+        {
+          "m_FileID": 10,
+          "m_PathID": 2
+        },
+        {
+          "m_FileID": 7,
+          "m_PathID": 2
+        },
+        {
+          "m_FileID": 1,
+          "m_PathID": 2
+        },
+        {
+          "m_FileID": 1,
+          "m_PathID": 2
+        }
+      ]
+    },
+    "events": [
+      {
+        "time": 0.0,
+        "function": "OnAnimPlayParticle",
+        "argument": "patk_spell_b",
+        "float_parameter": 0.0,
+        "int_parameter": 0
+      },
+      {
+        "time": 0.0,
+        "function": "OnAnimPlayParticle",
+        "argument": "patk_absoluteZero",
+        "float_parameter": 0.0,
+        "int_parameter": 0
+      },
+      {
+        "time": 1.0666667222976685,
+        "function": "OnAnimPlaySound",
+        "argument": "Magic_ice",
+        "float_parameter": 0.0,
+        "int_parameter": 0
+      },
+      {
+        "time": 1.0666667222976685,
+        "function": "OnAnimAtkMultiple",
+        "argument": "",
+        "float_parameter": 0.20000000298023224,
+        "int_parameter": 0
+      },
+      {
+        "time": 2.0,
+        "function": "OnAnimAtkMultiple",
+        "argument": "",
+        "float_parameter": 0.800000011920929,
+        "int_parameter": 0
+      },
+      {
+        "time": 2.0,
+        "function": "OnAnimPlaySound",
+        "argument": "Magic_ice",
+        "float_parameter": 0.0,
+        "int_parameter": 0
+      },
+      {
+        "time": 2.0,
+        "function": "OnAnimShakeCamera",
+        "argument": "",
+        "float_parameter": 0.0,
+        "int_parameter": 0
+      },
+      {
+        "time": 2.200000047683716,
+        "function": "OnAnimAtkEnd",
+        "argument": "",
+        "float_parameter": 0.0,
+        "int_parameter": 0
+      }
+    ],
+    "scope": "Three inspected examples, not every clip; sample rate is not a count of unique pictures."
+  },
+  {
+    "name": "anim_senia_none_tapatk_1",
+    "source_file": "1201511d14bd42b47957156f12f3dac0",
+    "path_id": 1,
+    "sample_rate": 30.0,
+    "duration": 0.6333333849906921,
+    "bindings": {
+      "genericBindings": [
+        {
+          "path": 0,
+          "attribute": 1,
+          "script": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "typeID": 4,
+          "customType": 0,
+          "isPPtrCurve": 0,
+          "isIntCurve": 0,
+          "isSerializeReferenceCurve": 0
+        },
+        {
+          "path": 1970700845,
+          "attribute": 1,
+          "script": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "typeID": 4,
+          "customType": 0,
+          "isPPtrCurve": 0,
+          "isIntCurve": 0,
+          "isSerializeReferenceCurve": 0
+        },
+        {
+          "path": 643263810,
+          "attribute": 1,
+          "script": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "typeID": 4,
+          "customType": 0,
+          "isPPtrCurve": 0,
+          "isIntCurve": 0,
+          "isSerializeReferenceCurve": 0
+        },
+        {
+          "path": 643263810,
+          "attribute": 2086281974,
+          "script": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "typeID": 1,
+          "customType": 0,
+          "isPPtrCurve": 0,
+          "isIntCurve": 0,
+          "isSerializeReferenceCurve": 0
+        },
+        {
+          "path": 643263810,
+          "attribute": 2526845255,
+          "script": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "typeID": 212,
+          "customType": 0,
+          "isPPtrCurve": 0,
+          "isIntCurve": 0,
+          "isSerializeReferenceCurve": 0
+        },
+        {
+          "path": 643263810,
+          "attribute": 4215373228,
+          "script": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "typeID": 212,
+          "customType": 0,
+          "isPPtrCurve": 0,
+          "isIntCurve": 0,
+          "isSerializeReferenceCurve": 0
+        },
+        {
+          "path": 643263810,
+          "attribute": 2334886179,
+          "script": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "typeID": 212,
+          "customType": 0,
+          "isPPtrCurve": 0,
+          "isIntCurve": 0,
+          "isSerializeReferenceCurve": 0
+        },
+        {
+          "path": 643263810,
+          "attribute": 304273561,
+          "script": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "typeID": 212,
+          "customType": 0,
+          "isPPtrCurve": 0,
+          "isIntCurve": 0,
+          "isSerializeReferenceCurve": 0
+        },
+        {
+          "path": 0,
+          "attribute": 0,
+          "script": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "typeID": 212,
+          "customType": 23,
+          "isPPtrCurve": 1,
+          "isIntCurve": 0,
+          "isSerializeReferenceCurve": 0
+        },
+        {
+          "path": 643263810,
+          "attribute": 0,
+          "script": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "typeID": 212,
+          "customType": 23,
+          "isPPtrCurve": 1,
+          "isIntCurve": 0,
+          "isSerializeReferenceCurve": 0
+        }
+      ],
+      "pptrCurveMapping": [
+        {
+          "m_FileID": 1,
+          "m_PathID": 2
+        },
+        {
+          "m_FileID": 2,
+          "m_PathID": 2
+        },
+        {
+          "m_FileID": 3,
+          "m_PathID": 2
+        },
+        {
+          "m_FileID": 4,
+          "m_PathID": 2
+        },
+        {
+          "m_FileID": 5,
+          "m_PathID": 2
+        },
+        {
+          "m_FileID": 6,
+          "m_PathID": 2
+        },
+        {
+          "m_FileID": 7,
+          "m_PathID": 2
+        },
+        {
+          "m_FileID": 8,
+          "m_PathID": 2
+        },
+        {
+          "m_FileID": 9,
+          "m_PathID": 2
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        {
+          "m_FileID": 10,
+          "m_PathID": 2
+        },
+        {
+          "m_FileID": 11,
+          "m_PathID": 2
+        }
+      ]
+    },
+    "events": [
+      {
+        "time": 0.0,
+        "function": "OnAnimInstantiateParticle",
+        "argument": "slash7",
+        "float_parameter": 0.0,
+        "int_parameter": 0
+      },
+      {
+        "time": 0.0,
+        "function": "OnAnimPlaySound",
+        "argument": "Sword_hit",
+        "float_parameter": 0.0,
+        "int_parameter": 0
+      }
+    ],
+    "scope": "Three inspected examples, not every clip; sample rate is not a count of unique pictures."
+  },
+  {
+    "name": "anim_senia_run",
+    "source_file": "6b1f9bb6f672414448f7dc5ae95ff7a4",
+    "path_id": 1,
+    "sample_rate": 30.0,
+    "duration": 0.3333333432674408,
+    "bindings": {
+      "genericBindings": [
+        {
+          "path": 0,
+          "attribute": 0,
+          "script": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "typeID": 212,
+          "customType": 23,
+          "isPPtrCurve": 1,
+          "isIntCurve": 0,
+          "isSerializeReferenceCurve": 0
+        },
+        {
+          "path": 1970700845,
+          "attribute": 1,
+          "script": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "typeID": 4,
+          "customType": 0,
+          "isPPtrCurve": 0,
+          "isIntCurve": 0,
+          "isSerializeReferenceCurve": 0
+        }
+      ],
+      "pptrCurveMapping": [
+        {
+          "m_FileID": 1,
+          "m_PathID": 2
+        },
+        {
+          "m_FileID": 2,
+          "m_PathID": 2
+        },
+        {
+          "m_FileID": 3,
+          "m_PathID": 2
+        },
+        {
+          "m_FileID": 3,
+          "m_PathID": 2
+        }
+      ]
+    },
+    "events": [],
+    "scope": "Three inspected examples, not every clip; sample rate is not a count of unique pictures."
+  }
+]

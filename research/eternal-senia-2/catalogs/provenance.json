@@ -1,0 +1,48 @@
+{
+  "source_commit": "0b67b56bff375da5660f425d269529c67f688744",
+  "examined_date": "2026-11-07",
+  "package": "com.sanctumstudio.eternalsenia2",
+  "tools": {
+    "UnityPy": "1.25.4",
+    "Il2CppDumper": "6.7.46",
+    "py7zr": "used to join/extract split archive; version in local environment"
+  },
+  "inputs": [
+    {
+      "file": "eternal senia/EternalSenia2/EternalSenia2_dump.7z.001",
+      "size": 94371840,
+      "sha256": "1d60744c5a7bc719a96596be9694b9a005d2add698b272ccc2ee8ceeece4a8b8"
+    },
+    {
+      "file": "eternal senia/EternalSenia2/EternalSenia2_dump.7z.002",
+      "size": 94371840,
+      "sha256": "0dbb6e8029731190544b4719e52ed1f05641eb2f3a6cf7e693fd223ce80fbe83"
+    },
+    {
+      "file": "eternal senia/EternalSenia2/EternalSenia2_dump.7z.003",
+      "size": 30745724,
+      "sha256": "ab6dbbe0e51ee6841dd0bcdaba4c662a2d511698bda6694b93da7254d8fde5b2"
+    },
+    {
+      "file_in_local_extraction": "base.apk",
+      "size": 176368762,
+      "sha256": "d9d3a11ab169450b0e93a25e68d5d50ad04f4112a4dec6b5fc4b39ce697c6eab"
+    },
+    {
+      "file_in_local_extraction": "split_config.arm64_v8a.apk",
+      "size": 21890095,
+      "sha256": "7f90ca9b1fcfa766c070d9f1c724215c39c76166ab6be2265b05dee9ab447179"
+    },
+    {
+      "file_in_local_extraction": "files/il2cpp/Metadata/global-metadata.dat",
+      "size": 7784216,
+      "sha256": "5bfb60999bda2d64b6a910f9fd44b1980c988e83a79527e1978a9f87e1aac960"
+    },
+    {
+      "file_in_local_extraction": "apk/lib/arm64-v8a/libil2cpp.so",
+      "size": 42722336,
+      "sha256": "8f855c9f6edcaf8ce851256197a04f096eef08e011afb685faea2f79ffdd78eb"
+    }
+  ],
+  "excluded": "No game.sav, shared_prefs, tool keys, login values, private archive contents, native binaries, dummy DLLs, raw dialogue/localization or decoded original gameplay tables copied into this handoff."
+}

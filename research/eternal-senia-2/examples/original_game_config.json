@@ -1,0 +1,181 @@
+{
+  "notice": "Original illustrative data for a new game; no parameters/assets copied from the reference. Not final balance or a complete game.",
+  "schema_version": 1,
+  "simulation_hz": 60,
+  "offline": {
+    "cap_seconds": 7200,
+    "coins_per_minute": 2
+  },
+  "heroes": {
+    "wanderer": {
+      "hp": 160,
+      "attack": 12,
+      "attack_interval_ticks": 48
+    },
+    "lantern_keeper": {
+      "hp": 110,
+      "attack": 8,
+      "attack_interval_ticks": 60
+    }
+  },
+  "enemies": {
+    "reedling": {
+      "hp": 32,
+      "attack": 5,
+      "attack_interval_ticks": 72
+    },
+    "stone_shell": {
+      "hp": 70,
+      "attack": 8,
+      "attack_interval_ticks": 90
+    },
+    "gate_warden": {
+      "hp": 145,
+      "attack": 12,
+      "attack_interval_ticks": 108
+    }
+  },
+  "skills": {
+    "arc": {
+      "owner": "wanderer",
+      "power": 26,
+      "cooldown_ticks": 420,
+      "clip": "slash"
+    },
+    "lantern": {
+      "owner": "lantern_keeper",
+      "power": 18,
+      "cooldown_ticks": 540,
+      "clip": "slash"
+    }
+  },
+  "items": {
+    "reed_blade": {
+      "slot": "weapon",
+      "attack": 3,
+      "hp": 0
+    },
+    "linen_coat": {
+      "slot": "armor",
+      "attack": 0,
+      "hp": 22
+    },
+    "stone_blade": {
+      "slot": "weapon",
+      "attack": 5,
+      "hp": 0
+    },
+    "warden_coat": {
+      "slot": "armor",
+      "attack": 0,
+      "hp": 36
+    }
+  },
+  "stages": [
+    {
+      "id": 1,
+      "enemies": [
+        "reedling"
+      ],
+      "coins": 20,
+      "first_bonus": 25,
+      "loot": [
+        "reed_blade",
+        "linen_coat"
+      ]
+    },
+    {
+      "id": 2,
+      "enemies": [
+        "reedling",
+        "reedling"
+      ],
+      "coins": 25,
+      "first_bonus": 25,
+      "loot": [
+        "reed_blade",
+        "linen_coat"
+      ]
+    },
+    {
+      "id": 3,
+      "enemies": [
+        "stone_shell"
+      ],
+      "coins": 30,
+      "first_bonus": 25,
+      "loot": [
+        "reed_blade",
+        "linen_coat"
+      ]
+    },
+    {
+      "id": 4,
+      "enemies": [
+        "reedling",
+        "stone_shell"
+      ],
+      "coins": 35,
+      "first_bonus": 25,
+      "loot": [
+        "stone_blade",
+        "warden_coat"
+      ]
+    },
+    {
+      "id": 5,
+      "enemies": [
+        "gate_warden"
+      ],
+      "coins": 40,
+      "first_bonus": 25,
+      "loot": [
+        "stone_blade",
+        "warden_coat"
+      ]
+    }
+  ],
+  "clips": {
+    "slash": {
+      "loop": false,
+      "anchor": "feet",
+      "frames": [
+        {
+          "image": "original/slash_01.png",
+          "duration_ticks": 5,
+          "offset": [
+            0,
+            0
+          ]
+        },
+        {
+          "image": "original/slash_02.png",
+          "duration_ticks": 4,
+          "offset": [
+            -2,
+            0
+          ]
+        },
+        {
+          "image": "original/slash_03.png",
+          "duration_ticks": 6,
+          "offset": [
+            -3,
+            0
+          ]
+        }
+      ],
+      "markers": [
+        {
+          "id": "hit",
+          "tick": 8
+        },
+        {
+          "id": "sound",
+          "tick": 8
+        }
+      ]
+    }
+  },
+  "art_status": "Image paths are placeholders for new artwork, not included files."
+}

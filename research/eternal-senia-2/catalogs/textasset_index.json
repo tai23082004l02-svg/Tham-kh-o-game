@@ -1,0 +1,524 @@
+[
+  {
+    "name": "platinumTrial",
+    "file": "990de9c30906d4a1fafde6cd7a9938e7",
+    "path_id": 1,
+    "size": 6809
+  },
+  {
+    "name": "map",
+    "file": "513c4504ba8fdbf4e869338b866b9d62",
+    "path_id": 1,
+    "size": 11495
+  },
+  {
+    "name": "skeleton",
+    "file": "sharedassets2.assets.split4",
+    "path_id": 104,
+    "size": 31017
+  },
+  {
+    "name": "Senia",
+    "file": "sharedassets2.assets.split4",
+    "path_id": 105,
+    "size": 155325
+  },
+  {
+    "name": "Senia.atlas",
+    "file": "sharedassets2.assets.split4",
+    "path_id": 106,
+    "size": 4132
+  },
+  {
+    "name": "skeleton.atlas",
+    "file": "sharedassets2.assets.split4",
+    "path_id": 107,
+    "size": 2311
+  },
+  {
+    "name": "passive",
+    "file": "49fc4504cfde1a747b704abffaf6b282",
+    "path_id": 1,
+    "size": 71948
+  },
+  {
+    "name": "dropgroup",
+    "file": "d03086cf2ace6fc4e942c7919a20930d",
+    "path_id": 1,
+    "size": 49056
+  },
+  {
+    "name": "partner_collect",
+    "file": "68e9c3966f8e2964fa3f13d75065e9e0",
+    "path_id": 1,
+    "size": 1819
+  },
+  {
+    "name": "story",
+    "file": "dacb1aeda4e49984cbb8bc9a52589127",
+    "path_id": 1,
+    "size": 2783
+  },
+  {
+    "name": "exchange",
+    "file": "2d142988b6b404412b37340a7cb89b57",
+    "path_id": 1,
+    "size": 16303
+  },
+  {
+    "name": "section",
+    "file": "ba4f1083aae91d843a67cd4690a73266",
+    "path_id": 1,
+    "size": 27933
+  },
+  {
+    "name": "partnerclass",
+    "file": "ea1eb9284a803c748b7879db3102cb18",
+    "path_id": 1,
+    "size": 2362
+  },
+  {
+    "name": "flag",
+    "file": "4b92fca0fad304466825bf5f042db70e",
+    "path_id": 1,
+    "size": 28606
+  },
+  {
+    "name": "skeleton",
+    "file": "sharedassets2.assets.split0",
+    "path_id": 104,
+    "size": 31017
+  },
+  {
+    "name": "Senia",
+    "file": "sharedassets2.assets.split0",
+    "path_id": 105,
+    "size": 155325
+  },
+  {
+    "name": "Senia.atlas",
+    "file": "sharedassets2.assets.split0",
+    "path_id": 106,
+    "size": 4132
+  },
+  {
+    "name": "skeleton.atlas",
+    "file": "sharedassets2.assets.split0",
+    "path_id": 107,
+    "size": 2311
+  },
+  {
+    "name": "partnerdata",
+    "file": "c1c6a237be5881e4f8a1b3a8573e33bc",
+    "path_id": 1,
+    "size": 222
+  },
+  {
+    "name": "character",
+    "file": "f1de7bdcb9420944a99a4eec30223f8d",
+    "path_id": 1,
+    "size": 19986
+  },
+  {
+    "name": "skeleton",
+    "file": "sharedassets2.assets.split6",
+    "path_id": 104,
+    "size": 31017
+  },
+  {
+    "name": "Senia",
+    "file": "sharedassets2.assets.split6",
+    "path_id": 105,
+    "size": 155325
+  },
+  {
+    "name": "Senia.atlas",
+    "file": "sharedassets2.assets.split6",
+    "path_id": 106,
+    "size": 4132
+  },
+  {
+    "name": "skeleton.atlas",
+    "file": "sharedassets2.assets.split6",
+    "path_id": 107,
+    "size": 2311
+  },
+  {
+    "name": "partner_rankup",
+    "file": "2530667ec9d22af47a7708c70c4517cf",
+    "path_id": 1,
+    "size": 1376
+  },
+  {
+    "name": "RankBox",
+    "file": "7b5f3d12c57c63b43a6b6d781df9b9be",
+    "path_id": 1,
+    "size": 62586
+  },
+  {
+    "name": "exp",
+    "file": "f1fde65b5cbcbc6459330462c767b9ac",
+    "path_id": 1,
+    "size": 4716
+  },
+  {
+    "name": "item",
+    "file": "bdf29bfc9d4caab43931a6b0a60d2743",
+    "path_id": 1,
+    "size": 13853
+  },
+  {
+    "name": "rankReward",
+    "file": "a7fd43bc814b2452b8228301ed7a9b41",
+    "path_id": 1,
+    "size": 1062
+  },
+  {
+    "name": "ability",
+    "file": "d4e296ad92eaf24439072eb3e937a3fa",
+    "path_id": 1,
+    "size": 6145
+  },
+  {
+    "name": "weapon",
+    "file": "2c614e2b8e1bf5347b1a8d2b3a148700",
+    "path_id": 1,
+    "size": 115870
+  },
+  {
+    "name": "skeleton",
+    "file": "sharedassets2.assets.split3",
+    "path_id": 104,
+    "size": 31017
+  },
+  {
+    "name": "Senia",
+    "file": "sharedassets2.assets.split3",
+    "path_id": 105,
+    "size": 155325
+  },
+  {
+    "name": "Senia.atlas",
+    "file": "sharedassets2.assets.split3",
+    "path_id": 106,
+    "size": 4132
+  },
+  {
+    "name": "skeleton.atlas",
+    "file": "sharedassets2.assets.split3",
+    "path_id": 107,
+    "size": 2311
+  },
+  {
+    "name": "platinumTrial_reward",
+    "file": "26ffe3ac4f32b4bf58a23b1d8c35ef6c",
+    "path_id": 1,
+    "size": 1205
+  },
+  {
+    "name": "statspoint",
+    "file": "cbadf4dda7d50324c8e2b39ec168522d",
+    "path_id": 1,
+    "size": 5018
+  },
+  {
+    "name": "source",
+    "file": "854a93f7c3a36ab47b219c086ec26974",
+    "path_id": 1,
+    "size": 44
+  },
+  {
+    "name": "skill",
+    "file": "427ab0b14af7afa4091503345c6299e1",
+    "path_id": 1,
+    "size": 7912
+  },
+  {
+    "name": "skeleton",
+    "file": "sharedassets2.assets.split5",
+    "path_id": 104,
+    "size": 31017
+  },
+  {
+    "name": "Senia",
+    "file": "sharedassets2.assets.split5",
+    "path_id": 105,
+    "size": 155325
+  },
+  {
+    "name": "Senia.atlas",
+    "file": "sharedassets2.assets.split5",
+    "path_id": 106,
+    "size": 4132
+  },
+  {
+    "name": "skeleton.atlas",
+    "file": "sharedassets2.assets.split5",
+    "path_id": 107,
+    "size": 2311
+  },
+  {
+    "name": "RankBox.atlas",
+    "file": "4ee92a90090c4684ca78d9268b948c9a",
+    "path_id": 1,
+    "size": 8018
+  },
+  {
+    "name": "level",
+    "file": "040f04d299f6cf14a8497e624eee20d5",
+    "path_id": 1,
+    "size": 11452
+  },
+  {
+    "name": "mob",
+    "file": "d5b5e498bd7e33b4abb20dd7d09fc2a1",
+    "path_id": 1,
+    "size": 189185
+  },
+  {
+    "name": "weapon_stat",
+    "file": "2e9ac1270352edc488dc28f6a7d2f80e",
+    "path_id": 1,
+    "size": 4533
+  },
+  {
+    "name": "tutorial",
+    "file": "64df9946dfa21694f80b1d9e076e3d44",
+    "path_id": 1,
+    "size": 8431
+  },
+  {
+    "name": "interval",
+    "file": "37a596d7d7e328e4fbfd848533d9bdbd",
+    "path_id": 1,
+    "size": 4091
+  },
+  {
+    "name": "chest",
+    "file": "8421ef83c49efbc4793643c5bfca5898",
+    "path_id": 1,
+    "size": 61597
+  },
+  {
+    "name": "shop",
+    "file": "ef1d813dfd31a57498f155a941dae034",
+    "path_id": 1,
+    "size": 2549
+  },
+  {
+    "name": "AssetBundleServerURL",
+    "file": "412195e63b8901646adb12ef3f33f415",
+    "path_id": 1,
+    "size": 25
+  },
+  {
+    "name": "quest",
+    "file": "5a558e369d0d1314da874fda3024ad78",
+    "path_id": 1,
+    "size": 10236
+  },
+  {
+    "name": "shop_violet",
+    "file": "993d8f0febae5fb44934316e741a1fcb",
+    "path_id": 1,
+    "size": 1405
+  },
+  {
+    "name": "indexSet",
+    "file": "8ca1734624bb0bd49978ade8e8dfeb46",
+    "path_id": 1,
+    "size": 9022
+  },
+  {
+    "name": "localization",
+    "file": "63a160a3cb95e2e4dbf5054a743f5738",
+    "path_id": 1,
+    "size": 465104
+  },
+  {
+    "name": "IAPProductCatalog",
+    "file": "64b6c65eaddfa4d81a3fa6812758b2aa",
+    "path_id": 1,
+    "size": 416
+  },
+  {
+    "name": "skillclass",
+    "file": "78c8a69664df3174586d3e43cb3e594c",
+    "path_id": 1,
+    "size": 2444
+  },
+  {
+    "name": "offline_reward",
+    "file": "a1d8523c1e35f2f4389435617155c991",
+    "path_id": 1,
+    "size": 9089
+  },
+  {
+    "name": "skeleton",
+    "file": "sharedassets2.assets.split7",
+    "path_id": 104,
+    "size": 31017
+  },
+  {
+    "name": "Senia",
+    "file": "sharedassets2.assets.split7",
+    "path_id": 105,
+    "size": 155325
+  },
+  {
+    "name": "Senia.atlas",
+    "file": "sharedassets2.assets.split7",
+    "path_id": 106,
+    "size": 4132
+  },
+  {
+    "name": "skeleton.atlas",
+    "file": "sharedassets2.assets.split7",
+    "path_id": 107,
+    "size": 2311
+  },
+  {
+    "name": "mob_group",
+    "file": "259a9cd94a99c5e4ea0e644e977d9be2",
+    "path_id": 1,
+    "size": 86386
+  },
+  {
+    "name": "chest_event",
+    "file": "15419255934d9477d9bff5d255b79cbf",
+    "path_id": 1,
+    "size": 394
+  },
+  {
+    "name": "mob_stats",
+    "file": "54819bc4b657b0f4ea0f09a23fe67c9c",
+    "path_id": 1,
+    "size": 9654
+  },
+  {
+    "name": "indexDialog",
+    "file": "ae41d16754c341b4182811942cc6ea9c",
+    "path_id": 1,
+    "size": 41139
+  },
+  {
+    "name": "font_damage_number_water",
+    "file": "51391a0540288fb4fb7db96fa26e376c",
+    "path_id": 1,
+    "size": 1617
+  },
+  {
+    "name": "skeleton",
+    "file": "sharedassets2.assets.split1",
+    "path_id": 104,
+    "size": 31017
+  },
+  {
+    "name": "Senia",
+    "file": "sharedassets2.assets.split1",
+    "path_id": 105,
+    "size": 155325
+  },
+  {
+    "name": "Senia.atlas",
+    "file": "sharedassets2.assets.split1",
+    "path_id": 106,
+    "size": 4132
+  },
+  {
+    "name": "skeleton.atlas",
+    "file": "sharedassets2.assets.split1",
+    "path_id": 107,
+    "size": 2311
+  },
+  {
+    "name": "BillingMode",
+    "file": "407da15498bae414c90b7193e496655d",
+    "path_id": 1,
+    "size": 29
+  },
+  {
+    "name": "godRealm",
+    "file": "fce449d934012724fb3652f3fc258805",
+    "path_id": 1,
+    "size": 7911
+  },
+  {
+    "name": "partner",
+    "file": "eb72c282cee5eb646adfda71e7773196",
+    "path_id": 1,
+    "size": 40153
+  },
+  {
+    "name": "dialog",
+    "file": "08bdab810c2f905409baec4dd42ba2ad",
+    "path_id": 1,
+    "size": 5989985
+  },
+  {
+    "name": "skeleton",
+    "file": "sharedassets2.assets.split2",
+    "path_id": 104,
+    "size": 31017
+  },
+  {
+    "name": "Senia",
+    "file": "sharedassets2.assets.split2",
+    "path_id": 105,
+    "size": 155325
+  },
+  {
+    "name": "Senia.atlas",
+    "file": "sharedassets2.assets.split2",
+    "path_id": 106,
+    "size": 4132
+  },
+  {
+    "name": "skeleton.atlas",
+    "file": "sharedassets2.assets.split2",
+    "path_id": 107,
+    "size": 2311
+  },
+  {
+    "name": "chapter",
+    "file": "101666e9c50412b4897ee2ef6165a788",
+    "path_id": 1,
+    "size": 4804
+  },
+  {
+    "name": "skeleton",
+    "file": "sharedassets2.assets.split8",
+    "path_id": 104,
+    "size": 31017
+  },
+  {
+    "name": "Senia",
+    "file": "sharedassets2.assets.split8",
+    "path_id": 105,
+    "size": 155325
+  },
+  {
+    "name": "Senia.atlas",
+    "file": "sharedassets2.assets.split8",
+    "path_id": 106,
+    "size": 4132
+  },
+  {
+    "name": "skeleton.atlas",
+    "file": "sharedassets2.assets.split8",
+    "path_id": 107,
+    "size": 2311
+  },
+  {
+    "name": "realm",
+    "file": "92348b64bb22732499224c1bcdd4e1ef",
+    "path_id": 1,
+    "size": 12732
+  },
+  {
+    "name": "area",
+    "file": "e4992312312c1334cb2ef9e81b5e428d",
+    "path_id": 1,
+    "size": 325362
+  }
+]

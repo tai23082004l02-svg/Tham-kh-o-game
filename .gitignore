@@ -1,2 +1,4 @@
-﻿obsolete/
-
+obsolete/
+__pycache__/
+*.pyc
+.local-analysis/

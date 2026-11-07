@@ -1,0 +1,7837 @@
+[
+  {
+    "class": "GoogleMobileAdsSettings",
+    "namespace": "GoogleMobileAds.Editor",
+    "assembly": "GoogleMobileAds.Editor"
+  },
+  {
+    "class": "TemplateAsset",
+    "namespace": "UnityEngine.UIElements",
+    "assembly": "UnityEngine"
+  },
+  {
+    "class": "VisualTreeAsset",
+    "namespace": "UnityEngine.UIElements",
+    "assembly": "UnityEngine"
+  },
+  {
+    "class": "StyleSheet",
+    "namespace": "UnityEngine.UIElements",
+    "assembly": "UnityEngine"
+  },
+  {
+    "class": "GUISkin",
+    "namespace": "UnityEngine",
+    "assembly": "UnityEngine"
+  },
+  {
+    "class": "Tile",
+    "namespace": "UnityEngine.Tilemaps",
+    "assembly": "UnityEngine"
+  },
+  {
+    "class": "TileBase",
+    "namespace": "UnityEngine.Tilemaps",
+    "assembly": "UnityEngine"
+  },
+  {
+    "class": "TextSettings",
+    "namespace": "UnityEngine.TextCore.Text",
+    "assembly": "UnityEngine"
+  },
+  {
+    "class": "FontAsset",
+    "namespace": "UnityEngine.TextCore.Text",
+    "assembly": "UnityEngine"
+  },
+  {
+    "class": "SpriteAsset",
+    "namespace": "UnityEngine.TextCore.Text",
+    "assembly": "UnityEngine"
+  },
+  {
+    "class": "TextColorGradient",
+    "namespace": "UnityEngine.TextCore.Text",
+    "assembly": "UnityEngine"
+  },
+  {
+    "class": "TextStyleSheet",
+    "namespace": "UnityEngine.TextCore.Text",
+    "assembly": "UnityEngine"
+  },
+  {
+    "class": "VectorImage",
+    "namespace": "UnityEngine.UIElements",
+    "assembly": "UnityEngine"
+  },
+  {
+    "class": "PanelSettings",
+    "namespace": "UnityEngine.UIElements",
+    "assembly": "UnityEngine"
+  },
+  {
+    "class": "UIDocument",
+    "namespace": "UnityEngine.UIElements",
+    "assembly": "UnityEngine"
+  },
+  {
+    "class": "PanelTextSettings",
+    "namespace": "UnityEngine.UIElements",
+    "assembly": "UnityEngine"
+  },
+  {
+    "class": "ThemeStyleSheet",
+    "namespace": "UnityEngine.UIElements",
+    "assembly": "UnityEngine"
+  },
+  {
+    "class": "FacebookSettings",
+    "namespace": "Facebook.Unity.Settings",
+    "assembly": "Facebook.Unity.Settings.dll"
+  },
+  {
+    "class": "FacebookGameObject",
+    "namespace": "Facebook.Unity",
+    "assembly": "Facebook.Unity.dll"
+  },
+  {
+    "class": "GameroomFacebookLoader",
+    "namespace": "Facebook.Unity.Gameroom",
+    "assembly": "Facebook.Unity.dll"
+  },
+  {
+    "class": "EditorFacebookLoader",
+    "namespace": "Facebook.Unity.Editor",
+    "assembly": "Facebook.Unity.dll"
+  },
+  {
+    "class": "MobileAdsEventExecutor",
+    "namespace": "GoogleMobileAds.Common",
+    "assembly": "GoogleMobileAds.Common.dll"
+  },
+  {
+    "class": "AppStateEventClient",
+    "namespace": "GoogleMobileAds.Common",
+    "assembly": "GoogleMobileAds.Common.dll"
+  },
+  {
+    "class": "AnalyticsEventTracker",
+    "namespace": "UnityEngine.Analytics",
+    "assembly": "Unity.Analytics.Tracker.dll"
+  },
+  {
+    "class": "IOSFacebookLoader",
+    "namespace": "Facebook.Unity.Mobile.IOS",
+    "assembly": "Facebook.Unity.dll"
+  },
+  {
+    "class": "AndroidFacebookLoader",
+    "namespace": "Facebook.Unity.Mobile.Android",
+    "assembly": "Facebook.Unity.dll"
+  },
+  {
+    "class": "MockShareDialog",
+    "namespace": "Facebook.Unity.Editor.Dialogs",
+    "assembly": "Facebook.Unity.dll"
+  },
+  {
+    "class": "AndroidFacebookGameObject",
+    "namespace": "Facebook.Unity.Mobile.Android",
+    "assembly": "Facebook.Unity.dll"
+  },
+  {
+    "class": "IOSFacebookGameObject",
+    "namespace": "Facebook.Unity.Mobile.IOS",
+    "assembly": "Facebook.Unity.dll"
+  },
+  {
+    "class": "CodelessUIInteractEvent",
+    "namespace": "Facebook.Unity",
+    "assembly": "Facebook.Unity.dll"
+  },
+  {
+    "class": "GameroomFacebookGameObject",
+    "namespace": "Facebook.Unity.Gameroom",
+    "assembly": "Facebook.Unity.dll"
+  },
+  {
+    "class": "CanvasFacebookGameObject",
+    "namespace": "Facebook.Unity.Canvas",
+    "assembly": "Facebook.Unity.dll"
+  },
+  {
+    "class": "AppStoreSettings",
+    "namespace": "UnityEngine.UDP",
+    "assembly": "UDP.dll"
+  },
+  {
+    "class": "MobileFacebookGameObject",
+    "namespace": "Facebook.Unity.Mobile",
+    "assembly": "Facebook.Unity.dll"
+  },
+  {
+    "class": "DictionaryExtensions",
+    "namespace": "Unity.Services.Core.Internal",
+    "assembly": "Unity.Services.Core.Internal"
+  },
+  {
+    "class": "BattleBoss_Smash01",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "EveryUpdate",
+    "namespace": "Cysharp.Threading.Tasks.Linq",
+    "assembly": "UniTask.Linq"
+  },
+  {
+    "class": "ObscuredFloat",
+    "namespace": "CodeStage.AntiCheat.ObscuredTypes",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "LayoutRebuilder",
+    "namespace": "UnityEngine.UI",
+    "assembly": "UnityEngine.UI"
+  },
+  {
+    "class": "ProductMetadata",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "Color",
+    "namespace": "UnityEngine.Advertisements.Utilities",
+    "assembly": "UnityEngine.Advertisements"
+  },
+  {
+    "class": "UnityWebRequestException",
+    "namespace": "Cysharp.Threading.Tasks",
+    "assembly": "UniTask"
+  },
+  {
+    "class": "LocalizationTable",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "UIManager",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "AsyncLazy",
+    "namespace": "Cysharp.Threading.Tasks",
+    "assembly": "UniTask"
+  },
+  {
+    "class": "AnimationPreviewUtilities",
+    "namespace": "UnityEngine.Timeline",
+    "assembly": "Unity.Timeline"
+  },
+  {
+    "class": "UniTaskAsyncEnumerable",
+    "namespace": "Cysharp.Threading.Tasks.Linq",
+    "assembly": "UniTask.Linq"
+  },
+  {
+    "class": "PositionAsUV1",
+    "namespace": "UnityEngine.UI",
+    "assembly": "UnityEngine.UI"
+  },
+  {
+    "class": "GooglePlayStoreConnectionService",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing.Stores"
+  },
+  {
+    "class": "PolygonImage",
+    "namespace": "UnityEngine.UI",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "SeniaInfiniteScroll",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "AsyncMethodBuilderAttribute",
+    "namespace": "System.Runtime.CompilerServices",
+    "assembly": "UniTask"
+  },
+  {
+    "class": "SkeletonGhost",
+    "namespace": "Spine.Unity.Modules",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "AnimationPlayableAsset",
+    "namespace": "UnityEngine.Timeline",
+    "assembly": "Unity.Timeline"
+  },
+  {
+    "class": "BoundingBoxFollower",
+    "namespace": "Spine.Unity",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "ChapterTable",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "WeaponIconUI",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "UniTaskAsyncEnumerable",
+    "namespace": "Cysharp.Threading.Tasks.Linq",
+    "assembly": "UniTask.Linq"
+  },
+  {
+    "class": "ExtensibleStoreService",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "IPersonName",
+    "namespace": "AppleAuth.Interfaces",
+    "assembly": "AppleAuth"
+  },
+  {
+    "class": "IHttpClient",
+    "namespace": "Unity.Services.Core.Networking.Internal",
+    "assembly": "Unity.Services.Core.Internal"
+  },
+  {
+    "class": "ToDictionary",
+    "namespace": "Cysharp.Threading.Tasks.Linq",
+    "assembly": "UniTask.Linq"
+  },
+  {
+    "class": "MathUtils",
+    "namespace": "Spine",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "RemoteTestResultData",
+    "namespace": "UnityEngine.TestRunner.TestLaunchers",
+    "assembly": "UnityEngine.TestRunner"
+  },
+  {
+    "class": "ICredentialStateResponse",
+    "namespace": "AppleAuth.Interfaces",
+    "assembly": "AppleAuth"
+  },
+  {
+    "class": "IStoreConnectionStateService",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "UniTaskExtensions",
+    "namespace": "Cysharp.Threading.Tasks",
+    "assembly": "UniTask"
+  },
+  {
+    "class": "IStoreServiceExtension",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "UIFakeStoreWindow",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing.Stores"
+  },
+  {
+    "class": "TMP_SubMeshUI",
+    "namespace": "TMPro",
+    "assembly": "Unity.TextMeshPro"
+  },
+  {
+    "class": "IAnalyticsServiceWrapper",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing.Stores"
+  },
+  {
+    "class": "Attachment",
+    "namespace": "Spine",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "GooglePlayStoreExtendedPurchaseService",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "IndexSetUI",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "IRetryableRequestFailureDescription",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "RankingRankRewardUI",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "IStoreCheckEntitlementCallback",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "ExtensiblePurchaseService",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "TMP_SubMesh",
+    "namespace": "TMPro",
+    "assembly": "Unity.TextMeshPro"
+  },
+  {
+    "class": "GooglePurchaseStateEnumProvider",
+    "namespace": "UnityEngine.Purchasing.Models",
+    "assembly": "Unity.Purchasing.Stores"
+  },
+  {
+    "class": "ScheduledInvocation",
+    "namespace": "Unity.Services.Core.Scheduler.Internal",
+    "assembly": "Unity.Services.Core.Scheduler"
+  },
+  {
+    "class": "AdImpressionEvent",
+    "namespace": "Unity.Services.Analytics",
+    "assembly": "Unity.Services.Analytics"
+  },
+  {
+    "class": "IDetailedStoreListener",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "ObscuredBool",
+    "namespace": "CodeStage.AntiCheat.ObscuredTypes",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "SkeletonBounds",
+    "namespace": "Spine",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "UnityBindingExtensions",
+    "namespace": "Cysharp.Threading.Tasks",
+    "assembly": "UniTask"
+  },
+  {
+    "class": "UIHandler",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "UnifiedReceipt",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "HttpServiceConfig",
+    "namespace": "Unity.Services.Core.Networking",
+    "assembly": "Unity.Services.Core.Networking"
+  },
+  {
+    "class": "FairyAnimController",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "StoryReviewSubUI",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "TMP_FontAssetUtilities",
+    "namespace": "TMPro",
+    "assembly": "Unity.TextMeshPro"
+  },
+  {
+    "class": "ProductDescription",
+    "namespace": "UnityEngine.Purchasing.Extension",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "UIBehaviour",
+    "namespace": "UnityEngine.EventSystems",
+    "assembly": "UnityEngine.UI"
+  },
+  {
+    "class": "AppleAppStoreCartValidator",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "ItemDropout",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "GooglePlayStore",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing.Stores"
+  },
+  {
+    "class": "RequestFailedException",
+    "namespace": "Unity.Services.Core",
+    "assembly": "Unity.Services.Core"
+  },
+  {
+    "class": "UniTaskAsyncEnumerable",
+    "namespace": "Cysharp.Threading.Tasks.Linq",
+    "assembly": "UniTask.Linq"
+  },
+  {
+    "class": "IDs",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "ShopChestUIAnimEvent",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "GoogleSignInConfiguration",
+    "namespace": "Google",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "LogEvent",
+    "namespace": "UnityEngine.TestTools.Logging",
+    "assembly": "UnityEngine.TestRunner"
+  },
+  {
+    "class": "AndroidInitializationListener",
+    "namespace": "UnityEngine.Advertisements",
+    "assembly": "UnityEngine.Advertisements"
+  },
+  {
+    "class": "CanvasScaler",
+    "namespace": "UnityEngine.UI",
+    "assembly": "UnityEngine.UI"
+  },
+  {
+    "class": "IGooglePlayStoreConnectionUseCase",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "Dropdown",
+    "namespace": "UnityEngine.UI",
+    "assembly": "UnityEngine.UI"
+  },
+  {
+    "class": "MinimumBinaryHeap",
+    "namespace": "Unity.Services.Core.Scheduler.Internal",
+    "assembly": "Unity.Services.Core.Scheduler"
+  },
+  {
+    "class": "OuterUnityTestActionCommand",
+    "namespace": "UnityEngine.TestTools",
+    "assembly": "UnityEngine.TestRunner"
+  },
+  {
+    "class": "AudioClipProperties",
+    "namespace": "UnityEngine.Timeline",
+    "assembly": "Unity.Timeline"
+  },
+  {
+    "class": "SkeletonUtilityEyeConstraint",
+    "namespace": "Spine.Unity.Modules",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "ISetStorePromotionVisibilityUseCase",
+    "namespace": "UnityEngine.Purchasing.UseCases.Interfaces",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "ProductServiceFactoryManager",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "TaskQueue",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing.Utilities"
+  },
+  {
+    "class": "DebugManager",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "SettingsLoginUI",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "TelemetryDiagnosticParams",
+    "namespace": "UnityEngine.Purchasing.Telemetry",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "SkillIconUI",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "PersonNameExtensions",
+    "namespace": "AppleAuth.Extensions",
+    "assembly": "AppleAuth"
+  },
+  {
+    "class": "VisibilityAttribute",
+    "namespace": "Unity.Services.Core.Internal",
+    "assembly": "Unity.Services.Core.Internal"
+  },
+  {
+    "class": "INativeStore",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "PlaymodeTestsController",
+    "namespace": "UnityEngine.TestTools.TestRunner",
+    "assembly": "UnityEngine.TestRunner"
+  },
+  {
+    "class": "CheckEntitlementRequest",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "CompositeWorkItem",
+    "namespace": "UnityEngine.TestRunner.NUnitExtensions.Runner",
+    "assembly": "UnityEngine.TestRunner"
+  },
+  {
+    "class": "PermissionRequest",
+    "namespace": "Unity.Notifications.Android",
+    "assembly": "Unity.Notifications.Android"
+  },
+  {
+    "class": "ITransactionLog",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing.Stores"
+  },
+  {
+    "class": "UnityWebRequestResultExtensions",
+    "namespace": "Cysharp.Threading.Tasks.Internal",
+    "assembly": "UniTask"
+  },
+  {
+    "class": "UniTaskAsyncEnumerable",
+    "namespace": "Cysharp.Threading.Tasks.Linq",
+    "assembly": "UniTask.Linq"
+  },
+  {
+    "class": "ProductService",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "WeaponChangeUI",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "IConstraint",
+    "namespace": "Spine",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "MaterialReferenceManager",
+    "namespace": "TMPro",
+    "assembly": "Unity.TextMeshPro"
+  },
+  {
+    "class": "RankingFlagUnit",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "Skeleton",
+    "namespace": "Spine",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "UniTaskAsyncEnumerable",
+    "namespace": "Cysharp.Threading.Tasks.Linq",
+    "assembly": "UniTask.Linq"
+  },
+  {
+    "class": "IAssemblyLoadProxy",
+    "namespace": "UnityEngine.TestTools.Utils",
+    "assembly": "UnityEngine.TestRunner"
+  },
+  {
+    "class": "RetryService",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "RawImage",
+    "namespace": "UnityEngine.UI",
+    "assembly": "UnityEngine.UI"
+  },
+  {
+    "class": "ObscuredInt",
+    "namespace": "CodeStage.AntiCheat.ObscuredTypes",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "AppleStoreExtendedService",
+    "namespace": "UnityEngine.Purchasing.Services",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "GoogleSignIn",
+    "namespace": "Google",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "DescriptionWeaponIconUI",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "FontData",
+    "namespace": "UnityEngine.UI",
+    "assembly": "UnityEngine.UI"
+  },
+  {
+    "class": "UniTask",
+    "namespace": "Cysharp.Threading.Tasks",
+    "assembly": "UniTask"
+  },
+  {
+    "class": "ObscuredLong",
+    "namespace": "CodeStage.AntiCheat.ObscuredTypes",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "LogUI",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "DropgroupTable",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "Dispatcher",
+    "namespace": "Unity.Services.Analytics.Internal",
+    "assembly": "Unity.Services.Analytics"
+  },
+  {
+    "class": "BaseInput",
+    "namespace": "UnityEngine.EventSystems",
+    "assembly": "UnityEngine.UI"
+  },
+  {
+    "class": "AppleFetchProductsService",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing.Stores"
+  },
+  {
+    "class": "ExtensibleProductService",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "RankingRewardUnit",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "SeniaDefineScriptableObject",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "SignalEmitter",
+    "namespace": "UnityEngine.Timeline",
+    "assembly": "Unity.Timeline"
+  },
+  {
+    "class": "ScheduledInvocationComparer",
+    "namespace": "Unity.Services.Core.Scheduler.Internal",
+    "assembly": "Unity.Services.Core.Scheduler"
+  },
+  {
+    "class": "IBillingClientStateListener",
+    "namespace": "UnityEngine.Purchasing.Interfaces",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "ControlTrack",
+    "namespace": "UnityEngine.Timeline",
+    "assembly": "Unity.Timeline"
+  },
+  {
+    "class": "ConfirmedOrder",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "RegionlessAttachmentLoader",
+    "namespace": "Spine.Unity",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "AppleIDCredential",
+    "namespace": "AppleAuth.Native",
+    "assembly": "AppleAuth"
+  },
+  {
+    "class": "PlayerLoopHelper",
+    "namespace": "Cysharp.Threading.Tasks",
+    "assembly": "UniTask"
+  },
+  {
+    "class": "IStoreListener",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "IAppleExtensions",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "SubscriptionInfoHelper",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "SetAppAccountTokenUseCase",
+    "namespace": "UnityEngine.Purchasing.UseCases",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "SerializableProjectConfiguration",
+    "namespace": "Unity.Services.Core.Configuration",
+    "assembly": "Unity.Services.Core.Configuration"
+  },
+  {
+    "class": "TelemetryMetricDefinition",
+    "namespace": "UnityEngine.Purchasing.Telemetry",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "JSONSerializer",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "BattleBoss_02",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "IAppleStoreCallbacks",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "TelemetryMetricParams",
+    "namespace": "UnityEngine.Purchasing.Telemetry",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "IInfiniteScrollSetup",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "AsyncOperation",
+    "namespace": "Unity.Services.Core.Internal",
+    "assembly": "Unity.Services.Core.Internal"
+  },
+  {
+    "class": "LongCount",
+    "namespace": "Cysharp.Threading.Tasks.Linq",
+    "assembly": "UniTask.Linq"
+  },
+  {
+    "class": "EnumerableTestMethodCommand",
+    "namespace": "UnityEngine.TestTools",
+    "assembly": "UnityEngine.TestRunner"
+  },
+  {
+    "class": "UniTaskAsyncEnumerable",
+    "namespace": "Cysharp.Threading.Tasks.Linq",
+    "assembly": "UniTask.Linq"
+  },
+  {
+    "class": "TaskPool",
+    "namespace": "Cysharp.Threading.Tasks",
+    "assembly": "UniTask"
+  },
+  {
+    "class": "IRetryPolicyInformation",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "BattleEffectData",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "ScrollRect",
+    "namespace": "UnityEngine.UI",
+    "assembly": "UnityEngine.UI"
+  },
+  {
+    "class": "NewtonsoftSerializer",
+    "namespace": "Unity.Services.Core.Internal.Serialization",
+    "assembly": "Unity.Services.Core.Internal"
+  },
+  {
+    "class": "FirstLoadingUI",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "AppleExtensions",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "ExponentialBackOffRetryPolicy",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "UniTaskAsyncEnumerable",
+    "namespace": "Cysharp.Threading.Tasks.Linq",
+    "assembly": "UniTask.Linq"
+  },
+  {
+    "class": "SkeletonPartsRenderer",
+    "namespace": "Spine.Unity.Modules",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "EquipUIDragHandle",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "DismantlingUI",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "IAssemblyWrapper",
+    "namespace": "UnityEngine.TestTools.Utils",
+    "assembly": "UnityEngine.TestRunner"
+  },
+  {
+    "class": "IPlayerId",
+    "namespace": "Unity.Services.Authentication.Internal",
+    "assembly": "Unity.Services.Core.Internal"
+  },
+  {
+    "class": "ExtensionProvider",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "StoreFactory",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing.Stores"
+  },
+  {
+    "class": "SectionTable",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "TimeControlPlayable",
+    "namespace": "UnityEngine.Timeline",
+    "assembly": "Unity.Timeline"
+  },
+  {
+    "class": "ServiceRegistry",
+    "namespace": "Unity.Services.Core.Internal",
+    "assembly": "Unity.Services.Core.Internal"
+  },
+  {
+    "class": "ILayerable",
+    "namespace": "UnityEngine.Timeline",
+    "assembly": "Unity.Timeline"
+  },
+  {
+    "class": "SwordLight2",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "NavMeshModifier",
+    "namespace": "Unity.AI.Navigation",
+    "assembly": "Unity.AI.Navigation"
+  },
+  {
+    "class": "CFX_Demo_Translate",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "TutorialManager",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "GoogleBillingStrings",
+    "namespace": "UnityEngine.Purchasing.Models",
+    "assembly": "Unity.Purchasing.Stores"
+  },
+  {
+    "class": "AssemblyInfoUtilities",
+    "namespace": "UnityEngine.Advertisements.Utilities",
+    "assembly": "UnityEngine.Advertisements"
+  },
+  {
+    "class": "BaseInputModule",
+    "namespace": "UnityEngine.EventSystems",
+    "assembly": "UnityEngine.UI"
+  },
+  {
+    "class": "UniTaskAsyncEnumerable",
+    "namespace": "Cysharp.Threading.Tasks.Linq",
+    "assembly": "UniTask.Linq"
+  },
+  {
+    "class": "ArmModel",
+    "namespace": "UnityEngine.XR.LegacyInputHelpers",
+    "assembly": "UnityEngine.XR.LegacyInputHelpers"
+  },
+  {
+    "class": "AnalyticsContainer",
+    "namespace": "Unity.Services.Analytics",
+    "assembly": "Unity.Services.Analytics"
+  },
+  {
+    "class": "TimelineUndo",
+    "namespace": "UnityEngine.Timeline",
+    "assembly": "Unity.Timeline"
+  },
+  {
+    "class": "RealmTouchUI",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "IStoreInternal",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing.Stores"
+  },
+  {
+    "class": "TMP_SpriteCharacter",
+    "namespace": "TMPro",
+    "assembly": "Unity.TextMeshPro"
+  },
+  {
+    "class": "RemoteTestResultSender",
+    "namespace": "UnityEngine.TestTools.TestRunner.Callbacks",
+    "assembly": "UnityEngine.TestRunner"
+  },
+  {
+    "class": "TMP_FontStyleStack",
+    "namespace": "TMPro",
+    "assembly": "Unity.TextMeshPro"
+  },
+  {
+    "class": "IMaterialModifier",
+    "namespace": "UnityEngine.UI",
+    "assembly": "UnityEngine.UI"
+  },
+  {
+    "class": "TMP_Compatibility",
+    "namespace": "TMPro",
+    "assembly": "Unity.TextMeshPro"
+  },
+  {
+    "class": "StoreConfiguration",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "ActivationTrack",
+    "namespace": "UnityEngine.Timeline",
+    "assembly": "Unity.Timeline"
+  },
+  {
+    "class": "TradeUI",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "MapTable",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "CancellationTokenSourceExtensions",
+    "namespace": "Cysharp.Threading.Tasks",
+    "assembly": "UniTask"
+  },
+  {
+    "class": "IOnEntitlementRevokedCallback",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "IVivoxTokenProviderInternal",
+    "namespace": "Unity.Services.Vivox.Internal",
+    "assembly": "Unity.Services.Core.Internal"
+  },
+  {
+    "class": "ArrayUtil",
+    "namespace": "Cysharp.Threading.Tasks.Internal",
+    "assembly": "UniTask"
+  },
+  {
+    "class": "IUnityServicesInitializationChecker",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "IEventSystemHandler",
+    "namespace": "UnityEngine.EventSystems",
+    "assembly": "UnityEngine.UI"
+  },
+  {
+    "class": "GoogleFinishTransactionUseCase",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing.Stores"
+  },
+  {
+    "class": "IAnalyticsClient",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "Order",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "ProjectConfiguration",
+    "namespace": "Unity.Services.Core.Configuration",
+    "assembly": "Unity.Services.Core.Configuration"
+  },
+  {
+    "class": "ConfigurationUtils",
+    "namespace": "Unity.Services.Core.Configuration",
+    "assembly": "Unity.Services.Core.Configuration"
+  },
+  {
+    "class": "ComponentRegistry",
+    "namespace": "Unity.Services.Core.Internal",
+    "assembly": "Unity.Services.Core.Internal"
+  },
+  {
+    "class": "CoroutineRunner",
+    "namespace": "UnityEngine.TestTools.Utils",
+    "assembly": "UnityEngine.TestRunner"
+  },
+  {
+    "class": "CFX3_Demo",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "WeaponSkillDesc",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "AndroidReceivedNotificationMainThreadDispatcher",
+    "namespace": "Unity.Notifications.Android",
+    "assembly": "Unity.Notifications.Android"
+  },
+  {
+    "class": "CoreRegistryInitializer",
+    "namespace": "Unity.Services.Core.Internal",
+    "assembly": "Unity.Services.Core.Internal"
+  },
+  {
+    "class": "ChestProportionUI",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "SpriteState",
+    "namespace": "UnityEngine.UI",
+    "assembly": "UnityEngine.UI"
+  },
+  {
+    "class": "AndroidNotificationIntentData",
+    "namespace": "Unity.Notifications.Android",
+    "assembly": "Unity.Notifications.Android"
+  },
+  {
+    "class": "PlatinumTrialRewardTable",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "IInternalStore",
+    "namespace": "UnityEngine.Purchasing.Extension",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "SettingsMoonMoonItemUI",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "Subscribe",
+    "namespace": "Cysharp.Threading.Tasks.Linq",
+    "assembly": "UniTask.Linq"
+  },
+  {
+    "class": "RaycasterManager",
+    "namespace": "UnityEngine.EventSystems",
+    "assembly": "UnityEngine.UI"
+  },
+  {
+    "class": "RestoreTestContextAfterDomainReload",
+    "namespace": "UnityEngine.TestRunner.NUnitExtensions.Runner",
+    "assembly": "UnityEngine.TestRunner"
+  },
+  {
+    "class": "SkeletonRendererCustomMaterials",
+    "namespace": "Spine.Unity.Modules",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "RootMotionScript",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "TMP_Settings",
+    "namespace": "TMPro",
+    "assembly": "Unity.TextMeshPro"
+  },
+  {
+    "class": "CoreMetrics",
+    "namespace": "Unity.Services.Core.Internal",
+    "assembly": "Unity.Services.Core.Internal"
+  },
+  {
+    "class": "PurchaseServiceDependencyFactoryInjector",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing.Stores"
+  },
+  {
+    "class": "IPlatform",
+    "namespace": "UnityEngine.Advertisements.Platform",
+    "assembly": "UnityEngine.Advertisements"
+  },
+  {
+    "class": "CFX_ShurikenThreadFix",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "CFX_Demo_RandomDir",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "UnityUtilDependencyInjector",
+    "namespace": "UnityEngine.Purchasing.Utilities",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "StoreController",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "PlaymodeTestsControllerSettings",
+    "namespace": "UnityEngine.TestTools.TestRunner",
+    "assembly": "UnityEngine.TestRunner"
+  },
+  {
+    "class": "DependencyTreeSortFailedException",
+    "namespace": "Unity.Services.Core.Internal",
+    "assembly": "Unity.Services.Core.Internal"
+  },
+  {
+    "class": "Locale",
+    "namespace": "Unity.Services.Analytics.Internal",
+    "assembly": "Unity.Services.Analytics"
+  },
+  {
+    "class": "TMP_GlyphValueRecord",
+    "namespace": "TMPro",
+    "assembly": "Unity.TextMeshPro"
+  },
+  {
+    "class": "ShowOptions",
+    "namespace": "UnityEngine.Advertisements",
+    "assembly": "UnityEngine.Advertisements"
+  },
+  {
+    "class": "SeniaLocalizationText",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "IServerAccessToken",
+    "namespace": "Unity.Services.Authentication.Server.Internal",
+    "assembly": "Unity.Services.Core.Internal"
+  },
+  {
+    "class": "IAccessToken",
+    "namespace": "Unity.Services.Authentication.Internal",
+    "assembly": "Unity.Services.Core.Internal"
+  },
+  {
+    "class": "AndroidUtils",
+    "namespace": "Unity.Services.Core.Device",
+    "assembly": "Unity.Services.Core.Device"
+  },
+  {
+    "class": "SwingArmModel",
+    "namespace": "UnityEngine.XR.LegacyInputHelpers",
+    "assembly": "UnityEngine.XR.LegacyInputHelpers"
+  },
+  {
+    "class": "IUnityServices",
+    "namespace": "Unity.Services.Core",
+    "assembly": "Unity.Services.Core"
+  },
+  {
+    "class": "StoreServiceDependencyFactoryInjector",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing.Stores"
+  },
+  {
+    "class": "MarkerTrack",
+    "namespace": "UnityEngine.Timeline",
+    "assembly": "Unity.Timeline"
+  },
+  {
+    "class": "Scrollbar",
+    "namespace": "UnityEngine.UI",
+    "assembly": "UnityEngine.UI"
+  },
+  {
+    "class": "LocalizationImage",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "IStoreServiceFactoryManagerInjectionPoint",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "SingleProductSingleQuantityCartValidator",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "SkeletonData",
+    "namespace": "Spine",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "AsyncDelayer",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "DisabledMetricsFactory",
+    "namespace": "Unity.Services.Core.Telemetry.Internal",
+    "assembly": "Unity.Services.Core.Telemetry"
+  },
+  {
+    "class": "InjectionDetector",
+    "namespace": "CodeStage.AntiCheat.Detectors",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "RankingTopUnit",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "IInstallationId",
+    "namespace": "Unity.Services.Core.Device.Internal",
+    "assembly": "Unity.Services.Core.Internal"
+  },
+  {
+    "class": "BoneData",
+    "namespace": "Spine",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "Timing",
+    "namespace": "MEC",
+    "assembly": "Assembly-CSharp-firstpass"
+  },
+  {
+    "class": "AndroidShowListener",
+    "namespace": "UnityEngine.Advertisements",
+    "assembly": "UnityEngine.Advertisements"
+  },
+  {
+    "class": "TouchInputModule",
+    "namespace": "UnityEngine.EventSystems",
+    "assembly": "UnityEngine.UI"
+  },
+  {
+    "class": "UniTaskAsyncEnumerable",
+    "namespace": "Cysharp.Threading.Tasks.Linq",
+    "assembly": "UniTask.Linq"
+  },
+  {
+    "class": "TMP_InputField",
+    "namespace": "TMPro",
+    "assembly": "Unity.TextMeshPro"
+  },
+  {
+    "class": "UnityAnalyticsIdentifier",
+    "namespace": "Unity.Services.Core.Device",
+    "assembly": "Unity.Services.Core.Device"
+  },
+  {
+    "class": "TestActionCommand",
+    "namespace": "UnityEngine.TestTools",
+    "assembly": "UnityEngine.TestRunner"
+  },
+  {
+    "class": "FetchProductsException",
+    "namespace": "UnityEngine.Purchasing.Exceptions",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "Ua2CoreInitializeCallback",
+    "namespace": "",
+    "assembly": "Unity.Services.Analytics"
+  },
+  {
+    "class": "MaximumNumberOfAttemptsRetryPolicy",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "FetchStorePromotionOrderUseCase",
+    "namespace": "UnityEngine.Purchasing.UseCases",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "TransformConstraint",
+    "namespace": "Spine",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "AssemblyWrapper",
+    "namespace": "UnityEngine.TestTools.Utils",
+    "assembly": "UnityEngine.TestRunner"
+  },
+  {
+    "class": "UnityAsyncExtensions",
+    "namespace": "Cysharp.Threading.Tasks",
+    "assembly": "UniTask"
+  },
+  {
+    "class": "IAccessTokenObserver",
+    "namespace": "Unity.Services.Authentication.Internal",
+    "assembly": "Unity.Services.Core.Internal"
+  },
+  {
+    "class": "IStoreExtension",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "ToggleGroup",
+    "namespace": "UnityEngine.UI",
+    "assembly": "UnityEngine.UI"
+  },
+  {
+    "class": "SeniaLogData",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "OutOfOrderExpectedLogMessageException",
+    "namespace": "UnityEngine.TestTools.TestRunner",
+    "assembly": "UnityEngine.TestRunner"
+  },
+  {
+    "class": "IProductDetailsQueryResponse",
+    "namespace": "UnityEngine.Purchasing.Interfaces",
+    "assembly": "Unity.Purchasing.Stores"
+  },
+  {
+    "class": "NotificationSchedule",
+    "namespace": "Unity.Notifications",
+    "assembly": "Unity.Notifications.Unified"
+  },
+  {
+    "class": "DisabledDiagnostics",
+    "namespace": "Unity.Services.Core.Telemetry.Internal",
+    "assembly": "Unity.Services.Core.Telemetry"
+  },
+  {
+    "class": "HorizontalLayoutGroup",
+    "namespace": "UnityEngine.UI",
+    "assembly": "UnityEngine.UI"
+  },
+  {
+    "class": "LayoutElement",
+    "namespace": "UnityEngine.UI",
+    "assembly": "UnityEngine.UI"
+  },
+  {
+    "class": "UnityAsyncExtensions",
+    "namespace": "Cysharp.Threading.Tasks",
+    "assembly": "UniTask"
+  },
+  {
+    "class": "TMP_Style",
+    "namespace": "TMPro",
+    "assembly": "Unity.TextMeshPro"
+  },
+  {
+    "class": "DisabledDiagnosticsFactory",
+    "namespace": "Unity.Services.Core.Telemetry.Internal",
+    "assembly": "Unity.Services.Core.Telemetry"
+  },
+  {
+    "class": "CartItem",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "GooglePurchaseService",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing.Stores"
+  },
+  {
+    "class": "IGooglePurchase",
+    "namespace": "UnityEngine.Purchasing.Interfaces",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "Mask",
+    "namespace": "UnityEngine.UI",
+    "assembly": "UnityEngine.UI"
+  },
+  {
+    "class": "RealmUI",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "RadialBlur",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "TMP_DefaultControls",
+    "namespace": "TMPro",
+    "assembly": "Unity.TextMeshPro"
+  },
+  {
+    "class": "ContentSizeFitter",
+    "namespace": "UnityEngine.UI",
+    "assembly": "UnityEngine.UI"
+  },
+  {
+    "class": "Extrapolation",
+    "namespace": "UnityEngine.Timeline",
+    "assembly": "Unity.Timeline"
+  },
+  {
+    "class": "UniTaskAsyncEnumerable",
+    "namespace": "Cysharp.Threading.Tasks.Linq",
+    "assembly": "UniTask.Linq"
+  },
+  {
+    "class": "CoroutineExecutor",
+    "namespace": "UnityEngine.Advertisements.Utilities",
+    "assembly": "UnityEngine.Advertisements"
+  },
+  {
+    "class": "SingleQuantityCartValidator",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "Event",
+    "namespace": "Unity.Services.Analytics",
+    "assembly": "Unity.Services.Analytics"
+  },
+  {
+    "class": "IConfigurationLoader",
+    "namespace": "Unity.Services.Core.Configuration",
+    "assembly": "Unity.Services.Core.Configuration"
+  },
+  {
+    "class": "IInitializablePackageV2",
+    "namespace": "Unity.Services.Core.Internal",
+    "assembly": "Unity.Services.Core.Internal"
+  },
+  {
+    "class": "TextContainer",
+    "namespace": "TMPro",
+    "assembly": "Unity.TextMeshPro"
+  },
+  {
+    "class": "Vector4EqualityComparer",
+    "namespace": "UnityEngine.TestTools.Utils",
+    "assembly": "UnityEngine.TestRunner"
+  },
+  {
+    "class": "NativeStoreProvider",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing.Stores"
+  },
+  {
+    "class": "AndroidNotificationCenter",
+    "namespace": "Unity.Notifications.Android",
+    "assembly": "Unity.Notifications.Android"
+  },
+  {
+    "class": "RectMask2D",
+    "namespace": "UnityEngine.UI",
+    "assembly": "UnityEngine.UI"
+  },
+  {
+    "class": "AppTrackingTransparency",
+    "namespace": "Balaso",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "ClippingAttachment",
+    "namespace": "Spine",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "IGooglePurchasesUpdatedHandler",
+    "namespace": "Stores.Android.GooglePlay.AAR.Interfaces",
+    "assembly": "Unity.Purchasing.Stores"
+  },
+  {
+    "class": "ConfigurationProvider",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "TestCommandPcHelper",
+    "namespace": "UnityEngine.TestTools",
+    "assembly": "UnityEngine.TestRunner"
+  },
+  {
+    "class": "PlayerLoopRunner",
+    "namespace": "Cysharp.Threading.Tasks.Internal",
+    "assembly": "UniTask"
+  },
+  {
+    "class": "InvalidCartItemException",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "TMP_ScrollbarEventHandler",
+    "namespace": "TMPro",
+    "assembly": "Unity.TextMeshPro"
+  },
+  {
+    "class": "ILogScope",
+    "namespace": "UnityEngine.TestTools.Logging",
+    "assembly": "UnityEngine.TestRunner"
+  },
+  {
+    "class": "LockedServiceRegistry",
+    "namespace": "Unity.Services.Core.Internal",
+    "assembly": "Unity.Services.Core.Internal"
+  },
+  {
+    "class": "RaycastResult",
+    "namespace": "UnityEngine.EventSystems",
+    "assembly": "UnityEngine.UI"
+  },
+  {
+    "class": "UniTask",
+    "namespace": "Cysharp.Threading.Tasks",
+    "assembly": "UniTask"
+  },
+  {
+    "class": "EnumerableTestState",
+    "namespace": "UnityEngine.TestTools",
+    "assembly": "UnityEngine.TestRunner"
+  },
+  {
+    "class": "IGooglePlayStoreExtensions",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "DynamicBackground",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "SimulateAskToBuyUseCase",
+    "namespace": "UnityEngine.Purchasing.UseCases",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "IPurchaseService",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "BattleBoss_01",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "NavMeshModifierVolume",
+    "namespace": "Unity.AI.Navigation",
+    "assembly": "Unity.AI.Navigation"
+  },
+  {
+    "class": "BattleScene",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "ShopChestMob",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "IGooglePurchaseStateEnumProvider",
+    "namespace": "UnityEngine.Purchasing.Interfaces",
+    "assembly": "Unity.Purchasing.Stores"
+  },
+  {
+    "class": "PurchaseUseCase",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "SkeletonUtilityGroundConstraint",
+    "namespace": "Spine.Unity.Modules",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "ILayoutElement",
+    "namespace": "UnityEngine.UI",
+    "assembly": "UnityEngine.UI"
+  },
+  {
+    "class": "IAPButton",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing.Codeless"
+  },
+  {
+    "class": "Contains",
+    "namespace": "Cysharp.Threading.Tasks.Linq",
+    "assembly": "UniTask.Linq"
+  },
+  {
+    "class": "ObscuredUInt",
+    "namespace": "CodeStage.AntiCheat.ObscuredTypes",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "IClipper",
+    "namespace": "UnityEngine.UI",
+    "assembly": "UnityEngine.UI"
+  },
+  {
+    "class": "Json",
+    "namespace": "Spine",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "BagUIItem",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "SkeletonRagdoll",
+    "namespace": "Spine.Unity.Modules",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "EventData",
+    "namespace": "Spine",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "UnityAdsInitializationListenerMainDispatch",
+    "namespace": "UnityEngine.Advertisements",
+    "assembly": "UnityEngine.Advertisements"
+  },
+  {
+    "class": "BaseDelegator",
+    "namespace": "UnityEngine.TestTools.NUnitExtensions",
+    "assembly": "UnityEngine.TestRunner"
+  },
+  {
+    "class": "TestMustExpectAllLogsAttribute",
+    "namespace": "UnityEngine.TestTools",
+    "assembly": "UnityEngine.TestRunner"
+  },
+  {
+    "class": "DestroyParticleSystemEventReceiver",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "UniTaskAsyncEnumerable",
+    "namespace": "Cysharp.Threading.Tasks.Linq",
+    "assembly": "UniTask.Linq"
+  },
+  {
+    "class": "LTDescr",
+    "namespace": "",
+    "assembly": "Assembly-CSharp-firstpass"
+  },
+  {
+    "class": "Timer",
+    "namespace": "Cysharp.Threading.Tasks.Linq",
+    "assembly": "UniTask.Linq"
+  },
+  {
+    "class": "BreakShieldUI",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "ToList",
+    "namespace": "Cysharp.Threading.Tasks.Linq",
+    "assembly": "UniTask.Linq"
+  },
+  {
+    "class": "GooglePlayStoreCheckEntitlementService",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing.Stores"
+  },
+  {
+    "class": "AppleErrorExtensions",
+    "namespace": "AppleAuth.Extensions",
+    "assembly": "AppleAuth"
+  },
+  {
+    "class": "UniTaskAsyncEnumerable",
+    "namespace": "Cysharp.Threading.Tasks.Linq",
+    "assembly": "UniTask.Linq"
+  },
+  {
+    "class": "GoogleCachedQueryProductDetailsService",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing.Stores"
+  },
+  {
+    "class": "ITestRunCallback",
+    "namespace": "UnityEngine.TestRunner",
+    "assembly": "UnityEngine.TestRunner"
+  },
+  {
+    "class": "ICanMakePaymentsUseCase",
+    "namespace": "UnityEngine.Purchasing.UseCases.Interfaces",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "ServicesBehaviour",
+    "namespace": "Unity.Services.Core.Components",
+    "assembly": "Unity.Services.Core.Components"
+  },
+  {
+    "class": "ICheckEntitlementUseCase",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "IActionScheduler",
+    "namespace": "Unity.Services.Core.Scheduler.Internal",
+    "assembly": "Unity.Services.Core.Internal"
+  },
+  {
+    "class": "FontUpdateTracker",
+    "namespace": "UnityEngine.UI",
+    "assembly": "UnityEngine.UI"
+  },
+  {
+    "class": "IGoogleQueryPurchasesUseCase",
+    "namespace": "UnityEngine.Purchasing.Interfaces",
+    "assembly": "Unity.Purchasing.Stores"
+  },
+  {
+    "class": "TutorialUI",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "RankingTopUI",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "IGooglePlayStoreExtendedService",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "AreaTable",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "DisabledMetrics",
+    "namespace": "Unity.Services.Core.Telemetry.Internal",
+    "assembly": "Unity.Services.Core.Telemetry"
+  },
+  {
+    "class": "TrackAsset",
+    "namespace": "UnityEngine.Timeline",
+    "assembly": "Unity.Timeline"
+  },
+  {
+    "class": "StoreConnectUseCase",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "QuaternionEqualityComparer",
+    "namespace": "UnityEngine.TestTools.Utils",
+    "assembly": "UnityEngine.TestRunner"
+  },
+  {
+    "class": "SubStoryUI",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "EnumerableApplyChangesToContextCommand",
+    "namespace": "UnityEngine.TestTools",
+    "assembly": "UnityEngine.TestRunner"
+  },
+  {
+    "class": "IDiagnosticsComponentProvider",
+    "namespace": "Unity.Services.Core.Telemetry.Internal",
+    "assembly": "Unity.Services.Core.Internal"
+  },
+  {
+    "class": "AppleAuthLoginArgs",
+    "namespace": "AppleAuth",
+    "assembly": "AppleAuth"
+  },
+  {
+    "class": "AppleOrderInfo",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "TMP_Asset",
+    "namespace": "TMPro",
+    "assembly": "Unity.TextMeshPro"
+  },
+  {
+    "class": "AutoDestroyGameObject",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "PurchaseFailedEventArgs",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "SpTrailMotion",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "Notification",
+    "namespace": "Unity.Notifications",
+    "assembly": "Unity.Notifications.Unified"
+  },
+  {
+    "class": "SetStorePromotionVisibilityUseCase",
+    "namespace": "UnityEngine.Purchasing.UseCases",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "PlayModeRunnerCallback",
+    "namespace": "UnityEngine.TestTools.TestRunner.Callbacks",
+    "assembly": "UnityEngine.TestRunner"
+  },
+  {
+    "class": "GooglePlay",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "RealmRandomDot",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "StoryTable",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "IUniTaskSource",
+    "namespace": "Cysharp.Threading.Tasks",
+    "assembly": "UniTask"
+  },
+  {
+    "class": "AtlasAttachmentLoader",
+    "namespace": "Spine",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "TrackClipTypeAttribute",
+    "namespace": "UnityEngine.Timeline",
+    "assembly": "Unity.Timeline"
+  },
+  {
+    "class": "IStoreWrapper",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "SceneManager",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "AppleProductMetadata",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "GooglePlayPurchaseCallback",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing.Stores"
+  },
+  {
+    "class": "StreamingAssetsUtils",
+    "namespace": "Unity.Services.Core.Configuration",
+    "assembly": "Unity.Services.Core.Configuration"
+  },
+  {
+    "class": "IGetIntroductoryPriceDictionaryUseCase",
+    "namespace": "UnityEngine.Purchasing.UseCases.Interfaces",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "BattleBoss_05",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "WeaponItemInfoUI",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "SeniaUtility",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "IAppleStoreExtendedPurchaseService",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "TimelineCreateUtilities",
+    "namespace": "UnityEngine.Timeline",
+    "assembly": "Unity.Timeline"
+  },
+  {
+    "class": "SkeletonBinary",
+    "namespace": "Spine",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "QuestClearUI",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "IGooglePlayCheckEntitlementUseCase",
+    "namespace": "UnityEngine.Purchasing.Interfaces",
+    "assembly": "Unity.Purchasing.Stores"
+  },
+  {
+    "class": "UniTask",
+    "namespace": "Cysharp.Threading.Tasks",
+    "assembly": "UniTask"
+  },
+  {
+    "class": "UniTaskAsyncEnumerable",
+    "namespace": "Cysharp.Threading.Tasks.Linq",
+    "assembly": "UniTask.Linq"
+  },
+  {
+    "class": "SwitchScene",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "Sum",
+    "namespace": "Cysharp.Threading.Tasks.Linq",
+    "assembly": "UniTask.Linq"
+  },
+  {
+    "class": "First",
+    "namespace": "Cysharp.Threading.Tasks.Linq",
+    "assembly": "UniTask.Linq"
+  },
+  {
+    "class": "GoogleReceipt",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing.Stores"
+  },
+  {
+    "class": "ICatalogProvider",
+    "namespace": "UnityEngine.Purchasing.Extension",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "PlayerConnectionMessageIds",
+    "namespace": "UnityEngine.TestRunner.TestLaunchers",
+    "assembly": "UnityEngine.TestRunner"
+  },
+  {
+    "class": "LoginScene",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "AdsManager",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "ArrayPoolUtil",
+    "namespace": "Cysharp.Threading.Tasks.Internal",
+    "assembly": "UniTask"
+  },
+  {
+    "class": "ISetAppAccountTokenUseCase",
+    "namespace": "UnityEngine.Purchasing.UseCases.Interfaces",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "BaseRaycaster",
+    "namespace": "UnityEngine.EventSystems",
+    "assembly": "UnityEngine.UI"
+  },
+  {
+    "class": "ShopVioletItemUI",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "ObscuredDecimal",
+    "namespace": "CodeStage.AntiCheat.ObscuredTypes",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "AnalyticsServiceInstance",
+    "namespace": "Unity.Services.Analytics",
+    "assembly": "Unity.Services.Analytics"
+  },
+  {
+    "class": "PurchaseUseCaseFactory",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "PurchaseServiceFactory",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing.Stores"
+  },
+  {
+    "class": "UniTaskAsyncEnumerable",
+    "namespace": "Cysharp.Threading.Tasks.Linq",
+    "assembly": "UniTask.Linq"
+  },
+  {
+    "class": "UniTaskAsyncEnumerable",
+    "namespace": "Cysharp.Threading.Tasks.Linq",
+    "assembly": "UniTask.Linq"
+  },
+  {
+    "class": "MarkerList",
+    "namespace": "UnityEngine.Timeline",
+    "assembly": "Unity.Timeline"
+  },
+  {
+    "class": "PrefabControlPlayable",
+    "namespace": "UnityEngine.Timeline",
+    "assembly": "Unity.Timeline"
+  },
+  {
+    "class": "PlayerTestAssemblyProvider",
+    "namespace": "UnityEngine.TestTools.Utils",
+    "assembly": "UnityEngine.TestRunner"
+  },
+  {
+    "class": "ProductServiceDependencyFactoryInjector",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing.Stores"
+  },
+  {
+    "class": "ProductServiceFactory",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing.Stores"
+  },
+  {
+    "class": "IStoreManager",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "GooglePlayStoreChangeSubscriptionService",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing.Stores"
+  },
+  {
+    "class": "Vector4ComparerWithEqualsOperator",
+    "namespace": "UnityEngine.TestTools.Utils",
+    "assembly": "UnityEngine.TestRunner"
+  },
+  {
+    "class": "IUnityCallback",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "FetchPurchasesUseCase",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "GraphicRebuildTracker",
+    "namespace": "UnityEngine.UI",
+    "assembly": "UnityEngine.UI"
+  },
+  {
+    "class": "IUpdatable",
+    "namespace": "Spine",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "StoreConnectionFailureDescription",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "ShakeCameraEventReceiver",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "StoreService",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "TransactionFailedEventHelper",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing.Stores"
+  },
+  {
+    "class": "AppleReceipt",
+    "namespace": "UnityEngine.Purchasing.Security",
+    "assembly": "Unity.Purchasing.SecurityCore"
+  },
+  {
+    "class": "ObscuredShort",
+    "namespace": "CodeStage.AntiCheat.ObscuredTypes",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "RemoteTestResultDataWithTestData",
+    "namespace": "UnityEngine.TestRunner.TestLaunchers",
+    "assembly": "UnityEngine.TestRunner"
+  },
+  {
+    "class": "ShopTable",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "RankingScoreUI",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "IStoreController",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "UnityLogCheckDelegatingCommand",
+    "namespace": "UnityEngine.TestRunner.NUnitExtensions.Runner",
+    "assembly": "UnityEngine.TestRunner"
+  },
+  {
+    "class": "Json",
+    "namespace": "UnityEngine.Advertisements.Utilities",
+    "assembly": "UnityEngine.Advertisements"
+  },
+  {
+    "class": "IUnityLifecycleManager",
+    "namespace": "UnityEngine.Advertisements.Utilities",
+    "assembly": "UnityEngine.Advertisements"
+  },
+  {
+    "class": "TMP_ResourceManager",
+    "namespace": "TMPro",
+    "assembly": "Unity.TextMeshPro"
+  },
+  {
+    "class": "ControlPlayableAsset",
+    "namespace": "UnityEngine.Timeline",
+    "assembly": "Unity.Timeline"
+  },
+  {
+    "class": "BattleMobData",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "CMDialogCallback",
+    "namespace": "MacacaGames",
+    "assembly": "MacacaAPIs"
+  },
+  {
+    "class": "StoreCartValidator",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "IUserIdentifierProvider",
+    "namespace": "Unity.Services.Core.Device",
+    "assembly": "Unity.Services.Core.Device"
+  },
+  {
+    "class": "IStore",
+    "namespace": "UnityEngine.Purchasing.Extension",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "IGooglePlayStorePurchaseService",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing.Stores"
+  },
+  {
+    "class": "IStoreServiceFactoryManager",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "BattleBoss_04",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "IStoreConnectCallback",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "TMP_Character",
+    "namespace": "TMPro",
+    "assembly": "Unity.TextMeshPro"
+  },
+  {
+    "class": "DialogTable",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "TMP_TextInfo",
+    "namespace": "TMPro",
+    "assembly": "Unity.TextMeshPro"
+  },
+  {
+    "class": "UniTaskAsyncEnumerable",
+    "namespace": "Cysharp.Threading.Tasks.Linq",
+    "assembly": "UniTask.Linq"
+  },
+  {
+    "class": "UniTaskExtensions",
+    "namespace": "Cysharp.Threading.Tasks",
+    "assembly": "UniTask"
+  },
+  {
+    "class": "LogScope",
+    "namespace": "UnityEngine.TestTools.Logging",
+    "assembly": "UnityEngine.TestRunner"
+  },
+  {
+    "class": "Vector3EqualityComparer",
+    "namespace": "UnityEngine.TestTools.Utils",
+    "assembly": "UnityEngine.TestRunner"
+  },
+  {
+    "class": "QueryLastRespondedNotificationOp",
+    "namespace": "Unity.Notifications",
+    "assembly": "Unity.Notifications.Unified"
+  },
+  {
+    "class": "CancellationTokenExtensions",
+    "namespace": "Cysharp.Threading.Tasks",
+    "assembly": "UniTask"
+  },
+  {
+    "class": "ITestSuiteModifier",
+    "namespace": "UnityEngine.TestRunner.NUnitExtensions",
+    "assembly": "UnityEngine.TestRunner"
+  },
+  {
+    "class": "ServiceCreationException",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "IGooglePlayStoreService",
+    "namespace": "UnityEngine.Purchasing.Interfaces",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "AppleAuthManager",
+    "namespace": "AppleAuth",
+    "assembly": "AppleAuth"
+  },
+  {
+    "class": "IMarker",
+    "namespace": "UnityEngine.Timeline",
+    "assembly": "Unity.Timeline"
+  },
+  {
+    "class": "IServiceRegistry",
+    "namespace": "Unity.Services.Core.Internal",
+    "assembly": "Unity.Services.Core.Internal"
+  },
+  {
+    "class": "CoreAnalyticsAdapter",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing.Stores"
+  },
+  {
+    "class": "WeaponStatTable",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "IPurchaseServiceFactory",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "ICoreServicesEnvironmentObserver",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "BootupScene",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "SetStorePromotionOrderUseCase",
+    "namespace": "UnityEngine.Purchasing.UseCases",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "UniTask",
+    "namespace": "Cysharp.Threading.Tasks",
+    "assembly": "UniTask"
+  },
+  {
+    "class": "Button",
+    "namespace": "UnityEngine.UI",
+    "assembly": "UnityEngine.UI"
+  },
+  {
+    "class": "UnityUtilContainer",
+    "namespace": "UnityEngine.Purchasing.Utilities",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "IGooglePlayStoreFetchProductsService",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing.Stores"
+  },
+  {
+    "class": "SeniaLoginManager",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "TMP_TextUtilities",
+    "namespace": "TMPro",
+    "assembly": "Unity.TextMeshPro"
+  },
+  {
+    "class": "AudioPlayableAsset",
+    "namespace": "UnityEngine.Timeline",
+    "assembly": "Unity.Timeline"
+  },
+  {
+    "class": "StandaloneInputModule",
+    "namespace": "UnityEngine.EventSystems",
+    "assembly": "UnityEngine.UI"
+  },
+  {
+    "class": "GooglePlayStoreFetchProductsService",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing.Stores"
+  },
+  {
+    "class": "ActionDelegator",
+    "namespace": "UnityEngine.TestTools.NUnitExtensions",
+    "assembly": "UnityEngine.TestRunner"
+  },
+  {
+    "class": "AsyncUnit",
+    "namespace": "Cysharp.Threading.Tasks",
+    "assembly": "UniTask"
+  },
+  {
+    "class": "UniTaskAsyncEnumerable",
+    "namespace": "Cysharp.Threading.Tasks.Linq",
+    "assembly": "UniTask.Linq"
+  },
+  {
+    "class": "GoogleOrderInfo",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "PointAttachment",
+    "namespace": "Spine",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "DialogManager2",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "IntervalTable",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "INotificationOptionProvider",
+    "namespace": "UnityEngine.Timeline",
+    "assembly": "Unity.Timeline"
+  },
+  {
+    "class": "BufferX",
+    "namespace": "Unity.Services.Analytics.Internal",
+    "assembly": "Unity.Services.Analytics"
+  },
+  {
+    "class": "IOrderInfo",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "AppleJsonProductDescriptionsDeserializer",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing.Stores"
+  },
+  {
+    "class": "LanguageUI",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "UniTaskAsyncEnumerable",
+    "namespace": "Cysharp.Threading.Tasks.Linq",
+    "assembly": "UniTask.Linq"
+  },
+  {
+    "class": "UniTask",
+    "namespace": "Cysharp.Threading.Tasks",
+    "assembly": "UniTask"
+  },
+  {
+    "class": "TMP_Text",
+    "namespace": "TMPro",
+    "assembly": "Unity.TextMeshPro"
+  },
+  {
+    "class": "SkeletonUtilityConstraint",
+    "namespace": "Spine.Unity",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "SelectedAndroidStoreHelper",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "GoogleAcknowledgePurchaseListener",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing.Stores"
+  },
+  {
+    "class": "LeanAudio",
+    "namespace": "",
+    "assembly": "Assembly-CSharp-firstpass"
+  },
+  {
+    "class": "LocalizationText",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "DependencyTreeInitializeOrderSorter",
+    "namespace": "Unity.Services.Core.Internal",
+    "assembly": "Unity.Services.Core.Internal"
+  },
+  {
+    "class": "IFetchStorePromotionVisibilityUseCase",
+    "namespace": "UnityEngine.Purchasing.UseCases.Interfaces",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "DontDestroyOnLoad",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "TextGradient",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "ITimeControl",
+    "namespace": "UnityEngine.Timeline",
+    "assembly": "Unity.Timeline"
+  },
+  {
+    "class": "LoginWithAppleIdResponse",
+    "namespace": "AppleAuth.Native",
+    "assembly": "AppleAuth"
+  },
+  {
+    "class": "TMP_TextElement",
+    "namespace": "TMPro",
+    "assembly": "Unity.TextMeshPro"
+  },
+  {
+    "class": "UnityPlatformAttribute",
+    "namespace": "UnityEngine.TestTools",
+    "assembly": "UnityEngine.TestRunner"
+  },
+  {
+    "class": "CameraMotion",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "CoinDropout",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "StoreWrapper",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "GooglePurchaseConverter",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing.Stores"
+  },
+  {
+    "class": "ErrorMessages",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "StoreSpecificIds",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "TMP_ColorGradient",
+    "namespace": "TMPro",
+    "assembly": "Unity.TextMeshPro"
+  },
+  {
+    "class": "GooglePlayStoreConnectionUseCase",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "StoryReviewUI",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "CameraFadeUI",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "FullPersonName",
+    "namespace": "AppleAuth.Native",
+    "assembly": "AppleAuth"
+  },
+  {
+    "class": "IMonoBehaviourUtil",
+    "namespace": "Purchasing.Utilities",
+    "assembly": "Unity.Purchasing.Utilities"
+  },
+  {
+    "class": "DescriptionItemIconUI",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "UIFakeStoreDropdown",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing.Stores"
+  },
+  {
+    "class": "PartnerItemUI",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "StoreConnectUseCaseFactory",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "Physics2DRaycaster",
+    "namespace": "UnityEngine.EventSystems",
+    "assembly": "UnityEngine.UI"
+  },
+  {
+    "class": "IAppReceiptUseCase",
+    "namespace": "UnityEngine.Purchasing.UseCases.Interfaces",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "GoogleIapSettings",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "PartnerDragView",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "Config",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "WeaponTable",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "SessionManager",
+    "namespace": "Unity.Services.Analytics.Internal",
+    "assembly": "Unity.Services.Analytics"
+  },
+  {
+    "class": "PlayerLoopTimer",
+    "namespace": "Cysharp.Threading.Tasks",
+    "assembly": "UniTask"
+  },
+  {
+    "class": "ReadOnlyHttpResponse",
+    "namespace": "Unity.Services.Core.Networking.Internal",
+    "assembly": "Unity.Services.Core.Internal"
+  },
+  {
+    "class": "Min",
+    "namespace": "Cysharp.Threading.Tasks.Linq",
+    "assembly": "UniTask.Linq"
+  },
+  {
+    "class": "PlayerPosForEditor",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "ToLookup",
+    "namespace": "Cysharp.Threading.Tasks.Linq",
+    "assembly": "UniTask.Linq"
+  },
+  {
+    "class": "ActionScheduler",
+    "namespace": "Unity.Services.Core.Scheduler.Internal",
+    "assembly": "Unity.Services.Core.Scheduler"
+  },
+  {
+    "class": "IAsyncDelayer",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "UnityAdsIdentifier",
+    "namespace": "Unity.Services.Core.Device",
+    "assembly": "Unity.Services.Core.Device"
+  },
+  {
+    "class": "Average",
+    "namespace": "Cysharp.Threading.Tasks.Linq",
+    "assembly": "UniTask.Linq"
+  },
+  {
+    "class": "Vector2EqualityComparer",
+    "namespace": "UnityEngine.TestTools.Utils",
+    "assembly": "UnityEngine.TestRunner"
+  },
+  {
+    "class": "OfflineRewardUI",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "SkeletonGhostRenderer",
+    "namespace": "Spine.Unity.Modules",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "FacebookManager",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "AndroidNotification",
+    "namespace": "Unity.Notifications.Android",
+    "assembly": "Unity.Notifications.Android"
+  },
+  {
+    "class": "BattleBoss_Rita01",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "GoogleProductMetadata",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "IPackageRegistry",
+    "namespace": "Unity.Services.Core.Internal",
+    "assembly": "Unity.Services.Core.Internal"
+  },
+  {
+    "class": "AppleConfiguration",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "ProductServiceProvider",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "AsyncTriggerExtensions",
+    "namespace": "Cysharp.Threading.Tasks.Triggers",
+    "assembly": "UniTask"
+  },
+  {
+    "class": "PersonName",
+    "namespace": "AppleAuth.Native",
+    "assembly": "AppleAuth"
+  },
+  {
+    "class": "VerticalLayoutGroup",
+    "namespace": "UnityEngine.UI",
+    "assembly": "UnityEngine.UI"
+  },
+  {
+    "class": "UnityTestExecutionContext",
+    "namespace": "UnityEngine.TestRunner.NUnitExtensions.Runner",
+    "assembly": "UnityEngine.TestRunner"
+  },
+  {
+    "class": "TrackedPoseDriver",
+    "namespace": "UnityEngine.SpatialTracking",
+    "assembly": "UnityEngine.SpatialTracking"
+  },
+  {
+    "class": "ChannelToken",
+    "namespace": "Unity.Services.Wire.Internal",
+    "assembly": "Unity.Services.Core.Internal"
+  },
+  {
+    "class": "ChangeScene",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "IAppleError",
+    "namespace": "AppleAuth.Interfaces",
+    "assembly": "AppleAuth"
+  },
+  {
+    "class": "BattleBoss_Slime01",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "INativePlatform",
+    "namespace": "UnityEngine.Advertisements",
+    "assembly": "UnityEngine.Advertisements"
+  },
+  {
+    "class": "IServerEnvironmentId",
+    "namespace": "Unity.Services.Authentication.Server.Internal",
+    "assembly": "Unity.Services.Core.Internal"
+  },
+  {
+    "class": "TipManager",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "UnexpectedLogMessageException",
+    "namespace": "UnityEngine.TestTools.TestRunner",
+    "assembly": "UnityEngine.TestRunner"
+  },
+  {
+    "class": "UnityWorkItemDataHolder",
+    "namespace": "UnityEngine.TestRunner.NUnitExtensions.Runner",
+    "assembly": "UnityEngine.TestRunner"
+  },
+  {
+    "class": "TMP_SpriteGlyph",
+    "namespace": "TMPro",
+    "assembly": "Unity.TextMeshPro"
+  },
+  {
+    "class": "MobStatsTable",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "Vector3ComparerWithEqualsOperator",
+    "namespace": "UnityEngine.TestTools.Utils",
+    "assembly": "UnityEngine.TestRunner"
+  },
+  {
+    "class": "WorkItemFactory",
+    "namespace": "UnityEngine.TestRunner.NUnitExtensions.Runner",
+    "assembly": "UnityEngine.TestRunner"
+  },
+  {
+    "class": "SkeletonRenderSeparator",
+    "namespace": "Spine.Unity.Modules",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "Max",
+    "namespace": "Cysharp.Threading.Tasks.Linq",
+    "assembly": "UniTask.Linq"
+  },
+  {
+    "class": "IWire",
+    "namespace": "Unity.Services.Wire.Internal",
+    "assembly": "Unity.Services.Core.Internal"
+  },
+  {
+    "class": "DialogRequest",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing.Stores"
+  },
+  {
+    "class": "Channel",
+    "namespace": "Cysharp.Threading.Tasks",
+    "assembly": "UniTask"
+  },
+  {
+    "class": "StoreServiceFactoryManager",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "ICredential",
+    "namespace": "AppleAuth.Interfaces",
+    "assembly": "AppleAuth"
+  },
+  {
+    "class": "ITimeProvider",
+    "namespace": "Unity.Services.Core.Scheduler.Internal",
+    "assembly": "Unity.Services.Core.Scheduler"
+  },
+  {
+    "class": "CoreRegistration",
+    "namespace": "Unity.Services.Core.Internal",
+    "assembly": "Unity.Services.Core.Internal"
+  },
+  {
+    "class": "GooglePlayStoreFinishTransactionService",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing.Stores"
+  },
+  {
+    "class": "CommonTransactionEventHelper",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing.Stores"
+  },
+  {
+    "class": "Aggregate",
+    "namespace": "Cysharp.Threading.Tasks.Linq",
+    "assembly": "UniTask.Linq"
+  },
+  {
+    "class": "IAppleIDCredential",
+    "namespace": "AppleAuth.Interfaces",
+    "assembly": "AppleAuth"
+  },
+  {
+    "class": "MissingComponent",
+    "namespace": "Unity.Services.Core.Internal",
+    "assembly": "Unity.Services.Core.Internal"
+  },
+  {
+    "class": "LoginMenuHandler",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "TableManager",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "SkillTable",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "TMP_FontFeatureTable",
+    "namespace": "TMPro",
+    "assembly": "Unity.TextMeshPro"
+  },
+  {
+    "class": "TestResultRenderer",
+    "namespace": "UnityEngine.TestTools.TestRunner.Callbacks",
+    "assembly": "UnityEngine.TestRunner"
+  },
+  {
+    "class": "MultipleDisplayUtilities",
+    "namespace": "UnityEngine.UI",
+    "assembly": "UnityEngine.UI"
+  },
+  {
+    "class": "LifecycleNotifier",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing.Stores"
+  },
+  {
+    "class": "Configuration",
+    "namespace": "UnityEngine.Advertisements",
+    "assembly": "UnityEngine.Advertisements"
+  },
+  {
+    "class": "NativeFuture",
+    "namespace": "Google.Impl",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "Error",
+    "namespace": "Cysharp.Threading.Tasks.Internal",
+    "assembly": "UniTask"
+  },
+  {
+    "class": "PartnerIconUI",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "Text",
+    "namespace": "UnityEngine.UI",
+    "assembly": "UnityEngine.UI"
+  },
+  {
+    "class": "IStateSerializer",
+    "namespace": "UnityEngine.TestTools.NUnitExtensions",
+    "assembly": "UnityEngine.TestRunner"
+  },
+  {
+    "class": "GoogleProductTypeEnum",
+    "namespace": "UnityEngine.Purchasing.Models",
+    "assembly": "Unity.Purchasing.Stores"
+  },
+  {
+    "class": "ITelemetryMetricsInstanceWrapper",
+    "namespace": "UnityEngine.Purchasing.Telemetry",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "Reporter",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "UnityTearDownAttribute",
+    "namespace": "UnityEngine.TestTools",
+    "assembly": "UnityEngine.TestRunner"
+  },
+  {
+    "class": "Atlas",
+    "namespace": "Spine",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "PurchaseServiceDependencyInjector",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "ACTkByte8",
+    "namespace": "CodeStage.AntiCheat.Common",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "IPurchaseReceipt",
+    "namespace": "UnityEngine.Purchasing.Security",
+    "assembly": "Unity.Purchasing.SecurityCore"
+  },
+  {
+    "class": "StateTuple",
+    "namespace": "Cysharp.Threading.Tasks.Internal",
+    "assembly": "UniTask"
+  },
+  {
+    "class": "IGoogleOrderInfo",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "IndexSetTable",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "SerializationTools",
+    "namespace": "AppleAuth.Native",
+    "assembly": "AppleAuth"
+  },
+  {
+    "class": "GoogleReceiptEncoder",
+    "namespace": "UnityEngine.Purchasing.Utils",
+    "assembly": "Unity.Purchasing.Stores"
+  },
+  {
+    "class": "IAnalyticsUserId",
+    "namespace": "Unity.Services.Core.Analytics.Internal",
+    "assembly": "Unity.Services.Core.Internal"
+  },
+  {
+    "class": "IMaskable",
+    "namespace": "UnityEngine.UI",
+    "assembly": "UnityEngine.UI"
+  },
+  {
+    "class": "Navigation",
+    "namespace": "UnityEngine.UI",
+    "assembly": "UnityEngine.UI"
+  },
+  {
+    "class": "PostBuildCleanupAttribute",
+    "namespace": "UnityEngine.TestTools",
+    "assembly": "UnityEngine.TestRunner"
+  },
+  {
+    "class": "ExecuteEvents",
+    "namespace": "UnityEngine.EventSystems",
+    "assembly": "UnityEngine.UI"
+  },
+  {
+    "class": "PermanentUI",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "IQueryProductDetailsService",
+    "namespace": "UnityEngine.Purchasing.Interfaces",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "AndroidBanner",
+    "namespace": "UnityEngine.Advertisements.Platform.Android",
+    "assembly": "UnityEngine.Advertisements"
+  },
+  {
+    "class": "AssetBundleManager",
+    "namespace": "AssetBundles",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "Entitlement",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "TimeoutController",
+    "namespace": "Cysharp.Threading.Tasks",
+    "assembly": "UniTask"
+  },
+  {
+    "class": "IUnityThreadUtils",
+    "namespace": "Unity.Services.Core.Threading.Internal",
+    "assembly": "Unity.Services.Core.Internal"
+  },
+  {
+    "class": "GooglePlayTangle",
+    "namespace": "UnityEngine.Purchasing.Security",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "TMP_SpriteAnimator",
+    "namespace": "TMPro",
+    "assembly": "Unity.TextMeshPro"
+  },
+  {
+    "class": "MemoryConfigurationLoader",
+    "namespace": "Unity.Services.Core.Configuration",
+    "assembly": "Unity.Services.Core.Configuration"
+  },
+  {
+    "class": "AdsUI",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "TimeLimitRetryPolicy",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "FlagTable",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "MetaData",
+    "namespace": "UnityEngine.Advertisements",
+    "assembly": "UnityEngine.Advertisements"
+  },
+  {
+    "class": "CoreLogger",
+    "namespace": "Unity.Services.Core.Internal",
+    "assembly": "Unity.Services.Core.Internal"
+  },
+  {
+    "class": "IServiceComponent",
+    "namespace": "Unity.Services.Core.Internal",
+    "assembly": "Unity.Services.Core.Internal"
+  },
+  {
+    "class": "Vector2ComparerWithEqualsOperator",
+    "namespace": "UnityEngine.TestTools.Utils",
+    "assembly": "UnityEngine.TestRunner"
+  },
+  {
+    "class": "ITweenValue",
+    "namespace": "TMPro",
+    "assembly": "Unity.TextMeshPro"
+  },
+  {
+    "class": "RankRewardTable",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "TimelineClip",
+    "namespace": "UnityEngine.Timeline",
+    "assembly": "Unity.Timeline"
+  },
+  {
+    "class": "TestResultExtensions",
+    "namespace": "UnityEngine.TestRunner.NUnitExtensions",
+    "assembly": "UnityEngine.TestRunner"
+  },
+  {
+    "class": "Platform",
+    "namespace": "UnityEngine.Advertisements.Platform",
+    "assembly": "UnityEngine.Advertisements"
+  },
+  {
+    "class": "IGoogleLastKnownProductService",
+    "namespace": "UnityEngine.Purchasing.Interfaces",
+    "assembly": "Unity.Purchasing.Stores"
+  },
+  {
+    "class": "TimelineClipCapsExtensions",
+    "namespace": "UnityEngine.Timeline",
+    "assembly": "Unity.Timeline"
+  },
+  {
+    "class": "BattleBoss_03",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "IPropertyCollector",
+    "namespace": "UnityEngine.Timeline",
+    "assembly": "Unity.Timeline"
+  },
+  {
+    "class": "IPasswordCredential",
+    "namespace": "AppleAuth.Interfaces",
+    "assembly": "AppleAuth"
+  },
+  {
+    "class": "ReporterMessageReceiver",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "TelemetryDiagnosticNames",
+    "namespace": "UnityEngine.Purchasing.Telemetry",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "AndroidLoadListener",
+    "namespace": "UnityEngine.Advertisements",
+    "assembly": "UnityEngine.Advertisements"
+  },
+  {
+    "class": "Slider",
+    "namespace": "UnityEngine.UI",
+    "assembly": "UnityEngine.UI"
+  },
+  {
+    "class": "Clipping",
+    "namespace": "UnityEngine.UI",
+    "assembly": "UnityEngine.UI"
+  },
+  {
+    "class": "UnityAsyncExtensions",
+    "namespace": "Cysharp.Threading.Tasks",
+    "assembly": "UniTask"
+  },
+  {
+    "class": "SettingsRestoringItemUI",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "HttpOptions",
+    "namespace": "Unity.Services.Core.Networking.Internal",
+    "assembly": "Unity.Services.Core.Internal"
+  },
+  {
+    "class": "SimpleCatalogProvider",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "ConstraintExtensions",
+    "namespace": "UnityEngine.TestTools.Constraints",
+    "assembly": "UnityEngine.TestRunner"
+  },
+  {
+    "class": "AsyncUniTaskMethodBuilder",
+    "namespace": "Cysharp.Threading.Tasks.CompilerServices",
+    "assembly": "UniTask"
+  },
+  {
+    "class": "FailCommand",
+    "namespace": "UnityEngine.TestRunner.NUnitExtensions.Runner",
+    "assembly": "UnityEngine.TestRunner"
+  },
+  {
+    "class": "TestRunCallbackListener",
+    "namespace": "UnityEngine.TestRunner.Utils",
+    "assembly": "UnityEngine.TestRunner"
+  },
+  {
+    "class": "TMP_UpdateManager",
+    "namespace": "TMPro",
+    "assembly": "Unity.TextMeshPro"
+  },
+  {
+    "class": "DistinctProductsCartValidator",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "Slot",
+    "namespace": "Spine",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "SeniaTypewriterEffect",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "UniTaskAsyncEnumerable",
+    "namespace": "Cysharp.Threading.Tasks.Linq",
+    "assembly": "UniTask.Linq"
+  },
+  {
+    "class": "StencilMaterial",
+    "namespace": "UnityEngine.UI",
+    "assembly": "UnityEngine.UI"
+  },
+  {
+    "class": "GraphicRegistry",
+    "namespace": "UnityEngine.UI",
+    "assembly": "UnityEngine.UI"
+  },
+  {
+    "class": "CheckEntitlementUseCase",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "OrderedTestSuiteModifier",
+    "namespace": "UnityEngine.TestRunner.NUnitExtensions",
+    "assembly": "UnityEngine.TestRunner"
+  },
+  {
+    "class": "TimelineClip",
+    "namespace": "UnityEngine.Timeline",
+    "assembly": "Unity.Timeline"
+  },
+  {
+    "class": "RetryRequest",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "SubscriptionInfo",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "CommonInfoUI",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "HelpUrls",
+    "namespace": "Unity.AI.Navigation",
+    "assembly": "Unity.AI.Navigation"
+  },
+  {
+    "class": "TMP_TextParsingUtilities",
+    "namespace": "TMPro",
+    "assembly": "Unity.TextMeshPro"
+  },
+  {
+    "class": "PartnerAnimController",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "TMP_EditorResourceManager",
+    "namespace": "TMPro",
+    "assembly": "Unity.TextMeshPro"
+  },
+  {
+    "class": "IPurchaseUseCase",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "IProductCache",
+    "namespace": "UnityEngine.Purchasing.Extension",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "Store",
+    "namespace": "UnityEngine.Purchasing.Extension",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "ObscuredPrefs",
+    "namespace": "CodeStage.AntiCheat.ObscuredTypes",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "IGooglePlayStoreChangeSubscriptionService",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing.Stores"
+  },
+  {
+    "class": "BattleBoss_Shield01",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "TrackColorAttribute",
+    "namespace": "UnityEngine.Timeline",
+    "assembly": "Unity.Timeline"
+  },
+  {
+    "class": "SkeletonJson",
+    "namespace": "Spine",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "SetPromotionalPurchaseInterceptorCallbackUseCase",
+    "namespace": "UnityEngine.Purchasing.UseCases",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "CM_APIController",
+    "namespace": "MacacaGames",
+    "assembly": "MacacaAPIs"
+  },
+  {
+    "class": "PartnerCollectTable",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "UniTaskAsyncEnumerable",
+    "namespace": "Cysharp.Threading.Tasks.Linq",
+    "assembly": "UniTask.Linq"
+  },
+  {
+    "class": "UnityUtil",
+    "namespace": "UnityEngine.Purchasing.Extension",
+    "assembly": "Unity.Purchasing.Utilities"
+  },
+  {
+    "class": "RankingInputUI",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "Is",
+    "namespace": "UnityEngine.TestTools.Constraints",
+    "assembly": "UnityEngine.TestRunner"
+  },
+  {
+    "class": "TMP_MaterialManager",
+    "namespace": "TMPro",
+    "assembly": "Unity.TextMeshPro"
+  },
+  {
+    "class": "EnumerableRetryTestCommand",
+    "namespace": "UnityEngine.TestTools",
+    "assembly": "UnityEngine.TestRunner"
+  },
+  {
+    "class": "AnimationReferenceAsset",
+    "namespace": "Spine.Unity",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "ActDetectorBase",
+    "namespace": "CodeStage.AntiCheat.Detectors",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "TutorialTable",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "NavMeshLink",
+    "namespace": "Unity.AI.Navigation",
+    "assembly": "Unity.AI.Navigation"
+  },
+  {
+    "class": "IRefreshAppReceiptUseCase",
+    "namespace": "UnityEngine.Purchasing.UseCases.Interfaces",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "AndroidNotificationChannel",
+    "namespace": "Unity.Notifications.Android",
+    "assembly": "Unity.Notifications.Android"
+  },
+  {
+    "class": "IGoogleBillingResult",
+    "namespace": "UnityEngine.Purchasing.Models",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "ProductFetchRequest",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "ThankYouUI",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "CFX_AutoDestructShuriken",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "MenuUI",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "IUnityAdsShowListener",
+    "namespace": "UnityEngine.Advertisements",
+    "assembly": "UnityEngine.Advertisements"
+  },
+  {
+    "class": "RuntimeClip",
+    "namespace": "UnityEngine.Timeline",
+    "assembly": "Unity.Timeline"
+  },
+  {
+    "class": "GetRewardUI",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "RuntimeClipBase",
+    "namespace": "UnityEngine.Timeline",
+    "assembly": "Unity.Timeline"
+  },
+  {
+    "class": "IJsonSerializer",
+    "namespace": "Unity.Services.Core.Internal.Serialization",
+    "assembly": "Unity.Services.Core.Internal"
+  },
+  {
+    "class": "BagUI",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "BaseMeshEffect",
+    "namespace": "UnityEngine.UI",
+    "assembly": "UnityEngine.UI"
+  },
+  {
+    "class": "TMP_FontAsset",
+    "namespace": "TMPro",
+    "assembly": "Unity.TextMeshPro"
+  },
+  {
+    "class": "PurchaseServiceFactoryManager",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "GooglePlayRestoreTransactionUseCase",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "All",
+    "namespace": "Cysharp.Threading.Tasks.Linq",
+    "assembly": "UniTask.Linq"
+  },
+  {
+    "class": "BattleDamageEffect",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "IGooglePlayStoreExtendedPurchaseService",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "PathConstraint",
+    "namespace": "Spine",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "IdentityManager",
+    "namespace": "Unity.Services.Analytics.Internal",
+    "assembly": "Unity.Services.Analytics"
+  },
+  {
+    "class": "CorePackageInitializer",
+    "namespace": "Unity.Services.Core.Registration",
+    "assembly": "Unity.Services.Core.Registration"
+  },
+  {
+    "class": "ProductFetchFailureDescription",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "LocalizationManager",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "AnalyticsOptionsExtensions",
+    "namespace": "Unity.Services.Core.Analytics",
+    "assembly": "Unity.Services.Core.Analytics"
+  },
+  {
+    "class": "IClearAppleTransactionLogsUseCase",
+    "namespace": "UnityEngine.Purchasing.UseCases.Interfaces",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "TestListenerWrapper",
+    "namespace": "UnityEngine.TestTools.TestRunner",
+    "assembly": "UnityEngine.TestRunner"
+  },
+  {
+    "class": "BattleSkillButton",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "PurchaseService",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "TestPlatformEnumExtensions",
+    "namespace": "UnityEngine.TestTools",
+    "assembly": "UnityEngine.TestRunner"
+  },
+  {
+    "class": "ITelemetryDiagnostics",
+    "namespace": "UnityEngine.Purchasing.Telemetry",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "TestEnumerator",
+    "namespace": "UnityEngine.TestTools",
+    "assembly": "UnityEngine.TestRunner"
+  },
+  {
+    "class": "EnumerableExtensions",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing.Utilities"
+  },
+  {
+    "class": "AnimationPreviewUpdateCallback",
+    "namespace": "UnityEngine.Timeline",
+    "assembly": "Unity.Timeline"
+  },
+  {
+    "class": "TelemetryMetricsInstanceWrapper",
+    "namespace": "UnityEngine.Purchasing.Telemetry",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "PointerEventData",
+    "namespace": "UnityEngine.EventSystems",
+    "assembly": "UnityEngine.UI"
+  },
+  {
+    "class": "EnvironmentsOptionsExtensions",
+    "namespace": "Unity.Services.Core.Environments",
+    "assembly": "Unity.Services.Core.Environments"
+  },
+  {
+    "class": "INativeBanner",
+    "namespace": "UnityEngine.Advertisements",
+    "assembly": "UnityEngine.Advertisements"
+  },
+  {
+    "class": "JavaBridge",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "GooglePurchaseStateEnum",
+    "namespace": "UnityEngine.Purchasing.Models",
+    "assembly": "Unity.Purchasing.Stores"
+  },
+  {
+    "class": "GetAppleProductMetadataExtension",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "TestRunCallbackAttribute",
+    "namespace": "UnityEngine.TestRunner",
+    "assembly": "UnityEngine.TestRunner"
+  },
+  {
+    "class": "RuntimeElement",
+    "namespace": "UnityEngine.Timeline",
+    "assembly": "Unity.Timeline"
+  },
+  {
+    "class": "EventSystem",
+    "namespace": "UnityEngine.EventSystems",
+    "assembly": "UnityEngine.UI"
+  },
+  {
+    "class": "IGooglePlayConfiguration",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "TMPro_ExtensionMethods",
+    "namespace": "TMPro",
+    "assembly": "Unity.TextMeshPro"
+  },
+  {
+    "class": "LoadingUI",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "ISimulateAskToBuyUseCase",
+    "namespace": "UnityEngine.Purchasing.UseCases.Interfaces",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "SeniaPlayerData",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "TelemetryDiagnosticsInstanceWrapper",
+    "namespace": "UnityEngine.Purchasing.Telemetry",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "TaskAsyncOperation",
+    "namespace": "Unity.Services.Core.Internal",
+    "assembly": "Unity.Services.Core.Internal"
+  },
+  {
+    "class": "IPlatformNotification",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "ITelemetryMetricEvent",
+    "namespace": "UnityEngine.Purchasing.Telemetry",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "IFetchPurchasesUseCase",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "PartnerUI",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "ShopUI",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "BossSkillEffectUI",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "MetricizedAppleStoreImpl",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing.Stores"
+  },
+  {
+    "class": "PendingOrder",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "CFX_InspectorHelp",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "UnityWorkItem",
+    "namespace": "UnityEngine.TestRunner.NUnitExtensions.Runner",
+    "assembly": "UnityEngine.TestRunner"
+  },
+  {
+    "class": "TextMeshProAsyncExtensions",
+    "namespace": "Cysharp.Threading.Tasks",
+    "assembly": "UniTask.TextMeshPro"
+  },
+  {
+    "class": "IAnalyticsStandardEventComponent",
+    "namespace": "Unity.Services.Core.Analytics.Internal",
+    "assembly": "Unity.Services.Core.Internal"
+  },
+  {
+    "class": "TMP_InputValidator",
+    "namespace": "TMPro",
+    "assembly": "Unity.TextMeshPro"
+  },
+  {
+    "class": "TimelineClipExtensions",
+    "namespace": "UnityEngine.Timeline",
+    "assembly": "Unity.Timeline"
+  },
+  {
+    "class": "ToHashSet",
+    "namespace": "Cysharp.Threading.Tasks.Linq",
+    "assembly": "UniTask.Linq"
+  },
+  {
+    "class": "NavMeshSurface",
+    "namespace": "Unity.AI.Navigation",
+    "assembly": "Unity.AI.Navigation"
+  },
+  {
+    "class": "PanelRaycaster",
+    "namespace": "UnityEngine.UIElements",
+    "assembly": "UnityEngine.UI"
+  },
+  {
+    "class": "Selectable",
+    "namespace": "UnityEngine.UI",
+    "assembly": "UnityEngine.UI"
+  },
+  {
+    "class": "AcquisitionSourceEvent",
+    "namespace": "Unity.Services.Analytics",
+    "assembly": "Unity.Services.Analytics"
+  },
+  {
+    "class": "UnityCombinatorialStrategy",
+    "namespace": "UnityEngine.TestTools",
+    "assembly": "UnityEngine.TestRunner"
+  },
+  {
+    "class": "UnityWebRequestUtils",
+    "namespace": "Unity.Services.Core.Internal",
+    "assembly": "Unity.Services.Core.Internal"
+  },
+  {
+    "class": "TMP_Dropdown",
+    "namespace": "TMPro",
+    "assembly": "Unity.TextMeshPro"
+  },
+  {
+    "class": "CodelessIAPButton",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing.Codeless"
+  },
+  {
+    "class": "MaskUtilities",
+    "namespace": "UnityEngine.UI",
+    "assembly": "UnityEngine.UI"
+  },
+  {
+    "class": "ITweenValue",
+    "namespace": "UnityEngine.UI.CoroutineTween",
+    "assembly": "UnityEngine.UI"
+  },
+  {
+    "class": "UniTaskAsyncEnumerable",
+    "namespace": "Cysharp.Threading.Tasks.Linq",
+    "assembly": "UniTask.Linq"
+  },
+  {
+    "class": "StoryReviewUiUnit",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "Orders",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "UnityServicesInternal",
+    "namespace": "Unity.Services.Core.Internal",
+    "assembly": "Unity.Services.Core.Internal"
+  },
+  {
+    "class": "UniTaskAsyncEnumerable",
+    "namespace": "Cysharp.Threading.Tasks.Linq",
+    "assembly": "UniTask.Linq"
+  },
+  {
+    "class": "IProductServiceExtension",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "CancellationTokenEqualityComparer",
+    "namespace": "Cysharp.Threading.Tasks",
+    "assembly": "UniTask"
+  },
+  {
+    "class": "TableBase",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "SkeletonClipping",
+    "namespace": "Spine",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "PlayGamesHelperObject",
+    "namespace": "GooglePlayGames.OurUtils",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "Skin",
+    "namespace": "Spine",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "PayloadDeserializer",
+    "namespace": "AppleAuth.Native",
+    "assembly": "AppleAuth"
+  },
+  {
+    "class": "MenuUITip",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "IStorePurchaseFetchCallback",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "FieldOfGodUI",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "PlaymodeWorkItemFactory",
+    "namespace": "UnityEngine.TestRunner.NUnitExtensions.Runner",
+    "assembly": "UnityEngine.TestRunner"
+  },
+  {
+    "class": "BeforeAfterTestCommandState",
+    "namespace": "UnityEngine.TestTools",
+    "assembly": "UnityEngine.TestRunner"
+  },
+  {
+    "class": "SkeletonUtility",
+    "namespace": "Spine.Unity",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "GoogleExtensions",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "BlurOptimized",
+    "namespace": "UnityStandardAssets.ImageEffects",
+    "assembly": "Assembly-CSharp-firstpass"
+  },
+  {
+    "class": "ConfirmOrderRequest",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "FileReference",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing.Utilities"
+  },
+  {
+    "class": "SubscriptionManager",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing.Stores"
+  },
+  {
+    "class": "WaitForSpineTrackEntryEnd",
+    "namespace": "Spine.Unity",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "IGooglePlayChangeSubscriptionUseCase",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "TimelinePlayable",
+    "namespace": "UnityEngine.Timeline",
+    "assembly": "Unity.Timeline"
+  },
+  {
+    "class": "MetricizedGooglePlayStoreService",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing.Stores"
+  },
+  {
+    "class": "ACTkByte16",
+    "namespace": "CodeStage.AntiCheat.Common",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "AnalyticsForgetter",
+    "namespace": "Unity.Services.Analytics.Internal",
+    "assembly": "Unity.Services.Analytics"
+  },
+  {
+    "class": "UnityServicesInitializer",
+    "namespace": "Unity.Services.Core.Internal",
+    "assembly": "Unity.Services.Core.Internal"
+  },
+  {
+    "class": "IContinuePromotionalPurchasesUseCase",
+    "namespace": "UnityEngine.Purchasing.UseCases.Interfaces",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "IInitializablePackage",
+    "namespace": "Unity.Services.Core.Internal",
+    "assembly": "Unity.Services.Core.Internal"
+  },
+  {
+    "class": "ExchangeTable",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "GooglePlayStoreFetchPurchasesService",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing.Stores"
+  },
+  {
+    "class": "PlatinumTrialTable",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "LeanTest",
+    "namespace": "",
+    "assembly": "Assembly-CSharp-firstpass"
+  },
+  {
+    "class": "IProductService",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "RemoteTestResultDataFactory",
+    "namespace": "UnityEngine.TestRunner.TestLaunchers",
+    "assembly": "UnityEngine.TestRunner"
+  },
+  {
+    "class": "Misc",
+    "namespace": "UnityEngine.UI",
+    "assembly": "UnityEngine.UI"
+  },
+  {
+    "class": "CoinAnimEventReceiver",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "DiskCache",
+    "namespace": "Unity.Services.Analytics.Internal",
+    "assembly": "Unity.Services.Analytics"
+  },
+  {
+    "class": "LayoutUtility",
+    "namespace": "UnityEngine.UI",
+    "assembly": "UnityEngine.UI"
+  },
+  {
+    "class": "PlayableTrack",
+    "namespace": "UnityEngine.Timeline",
+    "assembly": "Unity.Timeline"
+  },
+  {
+    "class": "IGooglePlayChangeSubscriptionCallback",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "ColorBlock",
+    "namespace": "UnityEngine.UI",
+    "assembly": "UnityEngine.UI"
+  },
+  {
+    "class": "WeaponUIElementImage",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "ImmediateEnumerableCommand",
+    "namespace": "UnityEngine.TestTools",
+    "assembly": "UnityEngine.TestRunner"
+  },
+  {
+    "class": "IGooglePlayStore",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "CFX_Demo_RandomDirectionTranslate",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "IGooglePurchaseBuilder",
+    "namespace": "UnityEngine.Purchasing.Interfaces",
+    "assembly": "Unity.Purchasing.Stores"
+  },
+  {
+    "class": "IThreadUtils",
+    "namespace": "Uniject",
+    "assembly": "Unity.Purchasing.Utilities"
+  },
+  {
+    "class": "EditorPlatform",
+    "namespace": "UnityEngine.Advertisements.Platform.Editor",
+    "assembly": "UnityEngine.Advertisements"
+  },
+  {
+    "class": "IProjectConfiguration",
+    "namespace": "Unity.Services.Core.Configuration.Internal",
+    "assembly": "Unity.Services.Core.Internal"
+  },
+  {
+    "class": "BannerBundle",
+    "namespace": "UnityEngine.Advertisements.Platform.Android",
+    "assembly": "UnityEngine.Advertisements"
+  },
+  {
+    "class": "AppleReceiptExtensions",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing.Stores"
+  },
+  {
+    "class": "IapCoreInitializeCallback",
+    "namespace": "UnityEngine.Purchasing.Registration",
+    "assembly": "Unity.Purchasing.Stores"
+  },
+  {
+    "class": "GetProductDetailsUseCase",
+    "namespace": "UnityEngine.Purchasing.UseCases",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "ConfigurationCollectionHelper",
+    "namespace": "Unity.Services.Core.Configuration",
+    "assembly": "Unity.Services.Core.Configuration"
+  },
+  {
+    "class": "BattleElementInhabitEffect",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "CFX_Demo",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "UniTask",
+    "namespace": "Cysharp.Threading.Tasks",
+    "assembly": "UniTask"
+  },
+  {
+    "class": "FieldOfGodUiUnit",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "TMP_SpriteAsset",
+    "namespace": "TMPro",
+    "assembly": "Unity.TextMeshPro"
+  },
+  {
+    "class": "Product",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "BattleBoss_Counter01",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "MobTable",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "OfflineRewardTable",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "CommonCostInfoUI",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "IMeshModifier",
+    "namespace": "UnityEngine.UI",
+    "assembly": "UnityEngine.UI"
+  },
+  {
+    "class": "IStoreServiceFactory",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "ObscuredSByte",
+    "namespace": "CodeStage.AntiCheat.ObscuredTypes",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "PresentCodeRedemptionSheetUseCase",
+    "namespace": "UnityEngine.Purchasing.UseCases",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "InvalidCartException",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "Placeholder",
+    "namespace": "UnityEngine.Advertisements",
+    "assembly": "UnityEngine.Advertisements"
+  },
+  {
+    "class": "AspectRatioFitter",
+    "namespace": "UnityEngine.UI",
+    "assembly": "UnityEngine.UI"
+  },
+  {
+    "class": "FastAction",
+    "namespace": "TMPro",
+    "assembly": "Unity.TextMeshPro"
+  },
+  {
+    "class": "UnityThreadUtils",
+    "namespace": "Unity.Services.Core",
+    "assembly": "Unity.Services.Core"
+  },
+  {
+    "class": "IRemoteTestResultDataFactory",
+    "namespace": "UnityEngine.TestRunner.TestLaunchers",
+    "assembly": "UnityEngine.TestRunner"
+  },
+  {
+    "class": "LogoScene",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "UnityTestAssemblyRunner",
+    "namespace": "UnityEngine.TestRunner.NUnitExtensions.Runner",
+    "assembly": "UnityEngine.TestRunner"
+  },
+  {
+    "class": "GoogleLastKnownProductService",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing.Stores"
+  },
+  {
+    "class": "TMP_TextElement_Legacy",
+    "namespace": "TMPro",
+    "assembly": "Unity.TextMeshPro"
+  },
+  {
+    "class": "UniTask",
+    "namespace": "Cysharp.Threading.Tasks",
+    "assembly": "UniTask"
+  },
+  {
+    "class": "RealmTable",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "Json",
+    "namespace": "UnityEngine.Purchasing.MiniJSON",
+    "assembly": "Unity.Purchasing.Utilities"
+  },
+  {
+    "class": "TransactionLog",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing.Stores"
+  },
+  {
+    "class": "AppleAuthQuickLoginArgs",
+    "namespace": "AppleAuth",
+    "assembly": "AppleAuth"
+  },
+  {
+    "class": "CharacterTachieController",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "IAnalyticsAdapter",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "IapException",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "UniTask",
+    "namespace": "Cysharp.Threading.Tasks",
+    "assembly": "UniTask"
+  },
+  {
+    "class": "IEditModeTestYieldInstruction",
+    "namespace": "UnityEngine.TestTools",
+    "assembly": "UnityEngine.TestRunner"
+  },
+  {
+    "class": "ICurvesOwner",
+    "namespace": "UnityEngine.Timeline",
+    "assembly": "Unity.Timeline"
+  },
+  {
+    "class": "Marker",
+    "namespace": "UnityEngine.Timeline",
+    "assembly": "Unity.Timeline"
+  },
+  {
+    "class": "RegionAttachment",
+    "namespace": "Spine",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "NotificationCenter",
+    "namespace": "Unity.Notifications",
+    "assembly": "Unity.Notifications.Unified"
+  },
+  {
+    "class": "PanelEventHandler",
+    "namespace": "UnityEngine.UIElements",
+    "assembly": "UnityEngine.UI"
+  },
+  {
+    "class": "GridLayoutGroup",
+    "namespace": "UnityEngine.UI",
+    "assembly": "UnityEngine.UI"
+  },
+  {
+    "class": "VersionCheck",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing.Utilities"
+  },
+  {
+    "class": "MoviePlayerUI",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "ServicesInitializationException",
+    "namespace": "Unity.Services.Core",
+    "assembly": "Unity.Services.Core"
+  },
+  {
+    "class": "IAPSecurityException",
+    "namespace": "UnityEngine.Purchasing.Security",
+    "assembly": "Unity.Purchasing.SecurityCore"
+  },
+  {
+    "class": "CFX_Demo_New",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "AudioTrack",
+    "namespace": "UnityEngine.Timeline",
+    "assembly": "Unity.Timeline"
+  },
+  {
+    "class": "UniTaskAsyncEnumerable",
+    "namespace": "Cysharp.Threading.Tasks.Linq",
+    "assembly": "UniTask.Linq"
+  },
+  {
+    "class": "VertexAttachment",
+    "namespace": "Spine",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "GooglePurchasesResponseListener",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing.Stores"
+  },
+  {
+    "class": "IAppleAuthManager",
+    "namespace": "AppleAuth",
+    "assembly": "AppleAuth"
+  },
+  {
+    "class": "TestExtensions",
+    "namespace": "UnityEngine.TestRunner.NUnitExtensions",
+    "assembly": "UnityEngine.TestRunner"
+  },
+  {
+    "class": "DiscreteTime",
+    "namespace": "UnityEngine.Timeline",
+    "assembly": "Unity.Timeline"
+  },
+  {
+    "class": "SubscriptionChangeRequest",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "TransactionEvent",
+    "namespace": "Unity.Services.Analytics",
+    "assembly": "Unity.Services.Analytics"
+  },
+  {
+    "class": "ReporterGUI",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "UnityAsyncExtensions",
+    "namespace": "Cysharp.Threading.Tasks",
+    "assembly": "UniTask"
+  },
+  {
+    "class": "MacAppStore",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "WeaponEvoItemDesc",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "GooglePlayStoreService",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing.Stores"
+  },
+  {
+    "class": "CommonErrorCodes",
+    "namespace": "Unity.Services.Core",
+    "assembly": "Unity.Services.Core"
+  },
+  {
+    "class": "IStoreManagerFactoryInjectionPoint",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "ProductDetailsResponseListener",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing.Stores"
+  },
+  {
+    "class": "AttachmentRegionExtensions",
+    "namespace": "Spine.Unity.Modules.AttachmentTools",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "GooglePlayReceipt",
+    "namespace": "UnityEngine.Purchasing.Security",
+    "assembly": "Unity.Purchasing.SecurityCore"
+  },
+  {
+    "class": "TelemetryMetricEvent",
+    "namespace": "UnityEngine.Purchasing.Telemetry",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "DynamicBackground_2",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "DeferredOrder",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "EventDataReferenceAsset",
+    "namespace": "Spine.Unity",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "ProductCache",
+    "namespace": "UnityEngine.Purchasing.Extension",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "UniTaskAsyncEnumerable",
+    "namespace": "Cysharp.Threading.Tasks.Linq",
+    "assembly": "UniTask.Linq"
+  },
+  {
+    "class": "JsonStore",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing.Stores"
+  },
+  {
+    "class": "IInterval",
+    "namespace": "UnityEngine.Timeline",
+    "assembly": "Unity.Timeline"
+  },
+  {
+    "class": "IAPListener",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing.Codeless"
+  },
+  {
+    "class": "PasswordCredential",
+    "namespace": "AppleAuth.Native",
+    "assembly": "AppleAuth"
+  },
+  {
+    "class": "IGooglePlayStoreCheckEntitlementService",
+    "namespace": "UnityEngine.Purchasing.Interfaces",
+    "assembly": "Unity.Purchasing.Stores"
+  },
+  {
+    "class": "IStoreService",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "StoryUI",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "DependencyTree",
+    "namespace": "Unity.Services.Core.Internal",
+    "assembly": "Unity.Services.Core.Internal"
+  },
+  {
+    "class": "Toggle",
+    "namespace": "UnityEngine.UI",
+    "assembly": "UnityEngine.UI"
+  },
+  {
+    "class": "Triangulator",
+    "namespace": "Spine",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "LoggerExtensions",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing.Utilities"
+  },
+  {
+    "class": "TMP_CharacterInfo",
+    "namespace": "TMPro",
+    "assembly": "Unity.TextMeshPro"
+  },
+  {
+    "class": "GarbageCollector",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "AssemblyNameFilter",
+    "namespace": "UnityEngine.TestRunner.NUnitExtensions.Filters",
+    "assembly": "UnityEngine.TestRunner"
+  },
+  {
+    "class": "IkConstraint",
+    "namespace": "Spine",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "SettingsVolumeUI",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "BaseEventData",
+    "namespace": "UnityEngine.EventSystems",
+    "assembly": "UnityEngine.UI"
+  },
+  {
+    "class": "ExternalUserIdProperty",
+    "namespace": "Unity.Services.Core",
+    "assembly": "Unity.Services.Core"
+  },
+  {
+    "class": "IGraphicEnabledDisabled",
+    "namespace": "UnityEngine.UI",
+    "assembly": "UnityEngine.UI"
+  },
+  {
+    "class": "ExceptionExtensions",
+    "namespace": "Cysharp.Threading.Tasks",
+    "assembly": "UniTask"
+  },
+  {
+    "class": "TransitionArmModel",
+    "namespace": "UnityEngine.XR.LegacyInputHelpers",
+    "assembly": "UnityEngine.XR.LegacyInputHelpers"
+  },
+  {
+    "class": "ServicesCreationException",
+    "namespace": "Unity.Services.Core",
+    "assembly": "Unity.Services.Core"
+  },
+  {
+    "class": "GooglePurchaseBuilder",
+    "namespace": "UnityEngine.Purchasing.Utils",
+    "assembly": "Unity.Purchasing.Stores"
+  },
+  {
+    "class": "IGooglePlayStoreSetObfuscatedIdUseCase",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "UniTaskAsyncEnumerable",
+    "namespace": "Cysharp.Threading.Tasks.Linq",
+    "assembly": "UniTask.Linq"
+  },
+  {
+    "class": "AnalyticsService",
+    "namespace": "Unity.Services.Analytics",
+    "assembly": "Unity.Services.Analytics"
+  },
+  {
+    "class": "UniTaskAsyncEnumerable",
+    "namespace": "Cysharp.Threading.Tasks.Linq",
+    "assembly": "UniTask.Linq"
+  },
+  {
+    "class": "UnsupportedPlatform",
+    "namespace": "UnityEngine.Advertisements.Platform.Unsupported",
+    "assembly": "UnityEngine.Advertisements"
+  },
+  {
+    "class": "RuntimeHelpersAbstraction",
+    "namespace": "Cysharp.Threading.Tasks.Internal",
+    "assembly": "UniTask"
+  },
+  {
+    "class": "IkConstraintData",
+    "namespace": "Spine",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "Utils",
+    "namespace": "UnityEngine.TestTools.Utils",
+    "assembly": "UnityEngine.TestRunner"
+  },
+  {
+    "class": "UniTaskAsyncEnumerable",
+    "namespace": "Cysharp.Threading.Tasks.Linq",
+    "assembly": "UniTask.Linq"
+  },
+  {
+    "class": "TextMeshPro",
+    "namespace": "TMPro",
+    "assembly": "Unity.TextMeshPro"
+  },
+  {
+    "class": "AttachmentLoader",
+    "namespace": "Spine",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "StandardPurchasingModule",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "GooglePlayStorePurchaseService",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing.Stores"
+  },
+  {
+    "class": "JsonProductDescriptionsDeserializer",
+    "namespace": "Stores.Util",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "CustomEvent",
+    "namespace": "Unity.Services.Analytics",
+    "assembly": "Unity.Services.Analytics"
+  },
+  {
+    "class": "InvalidSignatureException",
+    "namespace": "UnityEngine.TestTools.TestRunner",
+    "assembly": "UnityEngine.TestRunner"
+  },
+  {
+    "class": "TMP_Sprite",
+    "namespace": "TMPro",
+    "assembly": "Unity.TextMeshPro"
+  },
+  {
+    "class": "IConfirmOrderUseCase",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "TMPro_EventManager",
+    "namespace": "TMPro",
+    "assembly": "Unity.TextMeshPro"
+  },
+  {
+    "class": "AppleError",
+    "namespace": "AppleAuth.Native",
+    "assembly": "AppleAuth"
+  },
+  {
+    "class": "FinishEventArgs",
+    "namespace": "UnityEngine.Advertisements.Events",
+    "assembly": "UnityEngine.Advertisements"
+  },
+  {
+    "class": "WeaponChangeUIItemController",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "SeniaACTkManager",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "MaskableGraphic",
+    "namespace": "UnityEngine.UI",
+    "assembly": "UnityEngine.UI"
+  },
+  {
+    "class": "IGooglePurchaseConverter",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing.Stores"
+  },
+  {
+    "class": "ItemTable",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "AppleStoreImpl",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing.Stores"
+  },
+  {
+    "class": "TradeItemUI",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "IBaseCatalogProvider",
+    "namespace": "UnityEngine.Purchasing.Extension",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "SettingsToggleSlider",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "EnumUtilities",
+    "namespace": "UnityEngine.Advertisements.Utilities",
+    "assembly": "UnityEngine.Advertisements"
+  },
+  {
+    "class": "IStateMachineRunner",
+    "namespace": "Cysharp.Threading.Tasks.CompilerServices",
+    "assembly": "UniTask"
+  },
+  {
+    "class": "UnityTestAssemblyBuilder",
+    "namespace": "UnityEngine.TestTools.NUnitExtensions",
+    "assembly": "UnityEngine.TestRunner"
+  },
+  {
+    "class": "UnityAsyncExtensions",
+    "namespace": "Cysharp.Threading.Tasks",
+    "assembly": "UniTask"
+  },
+  {
+    "class": "LogMatch",
+    "namespace": "UnityEngine.TestTools.Logging",
+    "assembly": "UnityEngine.TestRunner"
+  },
+  {
+    "class": "IGooglePlayGetGooglePurchaseUseCase",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "ShopItemUI_3",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "IStoreFactory",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "ICommonData",
+    "namespace": "Unity.Services.Analytics.Data",
+    "assembly": "Unity.Services.Analytics"
+  },
+  {
+    "class": "GestureInput",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "IapTelemetryException",
+    "namespace": "UnityEngine.Purchasing.Telemetry",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "ShopItemUI_2",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "TestEnumeratorWrapper",
+    "namespace": "UnityEngine.TestTools.TestRunner",
+    "assembly": "UnityEngine.TestRunner"
+  },
+  {
+    "class": "GoogleSignInImpl",
+    "namespace": "Google.Impl",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "ClearAppleTransactionLogsUseCase",
+    "namespace": "UnityEngine.Purchasing.UseCases.Interfaces",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "InfiniteRuntimeClip",
+    "namespace": "UnityEngine.Timeline",
+    "assembly": "Unity.Timeline"
+  },
+  {
+    "class": "CredentialStateResponse",
+    "namespace": "AppleAuth.Native",
+    "assembly": "AppleAuth"
+  },
+  {
+    "class": "UnityThreadUtils",
+    "namespace": "Uniject",
+    "assembly": "Unity.Purchasing.Utilities"
+  },
+  {
+    "class": "AnalyticsServiceWrapper",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing.Stores"
+  },
+  {
+    "class": "IEnvironments",
+    "namespace": "Unity.Services.Core.Environments.Internal",
+    "assembly": "Unity.Services.Core.Internal"
+  },
+  {
+    "class": "ShopItemUI_4",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "LeanTween",
+    "namespace": "",
+    "assembly": "Assembly-CSharp-firstpass"
+  },
+  {
+    "class": "UniTaskAsyncEnumerable",
+    "namespace": "Cysharp.Threading.Tasks.Linq",
+    "assembly": "UniTask.Linq"
+  },
+  {
+    "class": "FakeStore",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing.Stores"
+  },
+  {
+    "class": "AndroidJavaObjectExtensions",
+    "namespace": "UnityEngine.Purchasing.Models",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "PackageRegistry",
+    "namespace": "Unity.Services.Core.Internal",
+    "assembly": "Unity.Services.Core.Internal"
+  },
+  {
+    "class": "IGetProductDetailsUseCase",
+    "namespace": "UnityEngine.Purchasing.UseCases.Interfaces",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "BillingClientStateListener",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing.Stores"
+  },
+  {
+    "class": "UnityServicesBuilder",
+    "namespace": "Unity.Services.Core",
+    "assembly": "Unity.Services.Core"
+  },
+  {
+    "class": "UniTaskAsyncEnumerable",
+    "namespace": "Cysharp.Threading.Tasks.Linq",
+    "assembly": "UniTask.Linq"
+  },
+  {
+    "class": "IStoreConnectUseCase",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "IExtensionProvider",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "IGooglePurchasesUpdatedListener",
+    "namespace": "UnityEngine.Purchasing.Interfaces",
+    "assembly": "Unity.Purchasing.Stores"
+  },
+  {
+    "class": "BattleMobHpSlider",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "PathConstraintData",
+    "namespace": "Spine",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "IComponentRegistry",
+    "namespace": "Unity.Services.Core.Internal",
+    "assembly": "Unity.Services.Core.Internal"
+  },
+  {
+    "class": "IGoogleBillingClient",
+    "namespace": "UnityEngine.Purchasing.Interfaces",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "IPresentCodeRedemptionSheetUseCase",
+    "namespace": "UnityEngine.Purchasing.UseCases.Interfaces",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "ProductTypeExtensions",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "ConfirmOrderUseCase",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "ICart",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "ClipperRegistry",
+    "namespace": "UnityEngine.UI",
+    "assembly": "UnityEngine.UI"
+  },
+  {
+    "class": "AppleRestoreTransactionsUseCase",
+    "namespace": "UnityEngine.Purchasing.UseCases",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "HttpRequestExtensions",
+    "namespace": "Unity.Services.Core.Networking.Internal",
+    "assembly": "Unity.Services.Core.Internal"
+  },
+  {
+    "class": "CoreDiagnostics",
+    "namespace": "Unity.Services.Core.Internal",
+    "assembly": "Unity.Services.Core.Internal"
+  },
+  {
+    "class": "PartnerRankupTable",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "GoogleQueryPurchasesUseCase",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing.Stores"
+  },
+  {
+    "class": "IMonoBehaviourTest",
+    "namespace": "UnityEngine.TestTools",
+    "assembly": "UnityEngine.TestRunner"
+  },
+  {
+    "class": "RuntimeTestRunnerFilter",
+    "namespace": "UnityEngine.TestTools.TestRunner.GUI",
+    "assembly": "UnityEngine.TestRunner"
+  },
+  {
+    "class": "RealmItemIcon",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "Last",
+    "namespace": "Cysharp.Threading.Tasks.Linq",
+    "assembly": "UniTask.Linq"
+  },
+  {
+    "class": "DeviceVolumeProvider",
+    "namespace": "Unity.Services.Analytics.Platform",
+    "assembly": "Unity.Services.Analytics"
+  },
+  {
+    "class": "IBuffer",
+    "namespace": "Unity.Services.Analytics.Internal",
+    "assembly": "Unity.Services.Analytics"
+  },
+  {
+    "class": "ServicesInitializationEvents",
+    "namespace": "Unity.Services.Core.Components",
+    "assembly": "Unity.Services.Core.Components"
+  },
+  {
+    "class": "IMetrics",
+    "namespace": "Unity.Services.Core.Telemetry.Internal",
+    "assembly": "Unity.Services.Core.Internal"
+  },
+  {
+    "class": "IapSettings",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "BoneFollower",
+    "namespace": "Spine.Unity",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "TaskTracker",
+    "namespace": "Cysharp.Threading.Tasks",
+    "assembly": "UniTask"
+  },
+  {
+    "class": "UnityThreadUtilsInternal",
+    "namespace": "Unity.Services.Core.Threading.Internal",
+    "assembly": "Unity.Services.Core.Threading"
+  },
+  {
+    "class": "CameraOffset",
+    "namespace": "UnityEditor.XR.LegacyInputHelpers",
+    "assembly": "UnityEngine.XR.LegacyInputHelpers"
+  },
+  {
+    "class": "SdkVersion",
+    "namespace": "Unity.Services.Analytics",
+    "assembly": "Unity.Services.Analytics"
+  },
+  {
+    "class": "UniTaskAsyncEnumerable",
+    "namespace": "Cysharp.Threading.Tasks.Linq",
+    "assembly": "UniTask.Linq"
+  },
+  {
+    "class": "IGooglePlayStoreFinishTransactionService",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing.Stores"
+  },
+  {
+    "class": "ObscuredCheatingDetector",
+    "namespace": "CodeStage.AntiCheat.Detectors",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "SeniaSkillCutinUI",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "DescriptionUI",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "GoogleFetchProductException",
+    "namespace": "UnityEngine.Purchasing.Exceptions",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "ISetPromotionalPurchaseInterceptorCallbackUseCase",
+    "namespace": "UnityEngine.Purchasing.UseCases.Interfaces",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "AnimationOutputWeightProcessor",
+    "namespace": "UnityEngine.Timeline",
+    "assembly": "Unity.Timeline"
+  },
+  {
+    "class": "SeniaUIBase",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "GameObjectPoolManager",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "CoreRegistry",
+    "namespace": "Unity.Services.Core.Internal",
+    "assembly": "Unity.Services.Core.Internal"
+  },
+  {
+    "class": "FPSCounter",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "TMP_UpdateRegistry",
+    "namespace": "TMPro",
+    "assembly": "Unity.TextMeshPro"
+  },
+  {
+    "class": "HorizontalOrVerticalLayoutGroup",
+    "namespace": "UnityEngine.UI",
+    "assembly": "UnityEngine.UI"
+  },
+  {
+    "class": "DataPrivacyButton",
+    "namespace": "UnityEngine.Analytics",
+    "assembly": "Unity.Analytics.DataPrivacy"
+  },
+  {
+    "class": "Graphic",
+    "namespace": "UnityEngine.UI",
+    "assembly": "UnityEngine.UI"
+  },
+  {
+    "class": "StoreManager",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "SingleProductCartValidator",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "AtlasAsset",
+    "namespace": "Spine.Unity",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "ProductDefinition",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "AppleAppStore",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "ISkeletonAnimation",
+    "namespace": "Spine.Unity",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "CustomSignalEventDrawer",
+    "namespace": "UnityEngine.Timeline",
+    "assembly": "Unity.Timeline"
+  },
+  {
+    "class": "WaitForSpineAnimationComplete",
+    "namespace": "Spine.Unity",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "TelemetryDiagnostics",
+    "namespace": "UnityEngine.Purchasing.Telemetry",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "UnhandledLogMessageException",
+    "namespace": "UnityEngine.TestTools.TestRunner",
+    "assembly": "UnityEngine.TestRunner"
+  },
+  {
+    "class": "SeniaScientificNotation",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "UnityAdsShowListenerMainDispatch",
+    "namespace": "UnityEngine.Advertisements",
+    "assembly": "UnityEngine.Advertisements"
+  },
+  {
+    "class": "ShopPackWindowUI",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "RankingTrialRuleUnit",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "ACTkByte4",
+    "namespace": "CodeStage.AntiCheat.Common",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "CanMakePaymentsUseCase",
+    "namespace": "UnityEngine.Purchasing.UseCases",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "SeniaAnimEventReceiver",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "IStorePurchaseCallback",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "INativeAppleStore",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "CoreStatsHelper",
+    "namespace": "Unity.Services.Analytics",
+    "assembly": "Unity.Services.Analytics"
+  },
+  {
+    "class": "BasePoseProvider",
+    "namespace": "UnityEngine.Experimental.XR.Interaction",
+    "assembly": "UnityEngine.SpatialTracking"
+  },
+  {
+    "class": "INativeStoreProvider",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing.Stores"
+  },
+  {
+    "class": "TMP_StyleSheet",
+    "namespace": "TMPro",
+    "assembly": "Unity.TextMeshPro"
+  },
+  {
+    "class": "PartnerInfoUI",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "GooglePurchasesUpdatedListener",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing.Stores"
+  },
+  {
+    "class": "UniTaskSynchronizationContext",
+    "namespace": "Cysharp.Threading.Tasks",
+    "assembly": "UniTask"
+  },
+  {
+    "class": "SoundManager",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "AndroidPlatform",
+    "namespace": "UnityEngine.Advertisements.Platform.Android",
+    "assembly": "UnityEngine.Advertisements"
+  },
+  {
+    "class": "IEnvironmentId",
+    "namespace": "Unity.Services.Authentication.Internal",
+    "assembly": "Unity.Services.Core.Internal"
+  },
+  {
+    "class": "CloudProjectId",
+    "namespace": "Unity.Services.Core.Configuration",
+    "assembly": "Unity.Services.Core.Configuration"
+  },
+  {
+    "class": "FakeAppStore",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "IPrebuildSetup",
+    "namespace": "UnityEngine.TestTools",
+    "assembly": "UnityEngine.TestRunner"
+  },
+  {
+    "class": "UniTaskAsyncEnumerable",
+    "namespace": "Cysharp.Threading.Tasks.Linq",
+    "assembly": "UniTask.Linq"
+  },
+  {
+    "class": "SigninSampleScript",
+    "namespace": "SignInSample",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "SignInHelperObject",
+    "namespace": "Google.Impl",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "EdStaffRollUI",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "TransactionCurrencyConverter",
+    "namespace": "Unity.Services.Analytics",
+    "assembly": "Unity.Services.Analytics"
+  },
+  {
+    "class": "UniTaskAsyncEnumerable",
+    "namespace": "Cysharp.Threading.Tasks.Linq",
+    "assembly": "UniTask.Linq"
+  },
+  {
+    "class": "CircularDependencyException",
+    "namespace": "Unity.Services.Core.Internal",
+    "assembly": "Unity.Services.Core.Internal"
+  },
+  {
+    "class": "AppleTangle",
+    "namespace": "UnityEngine.Purchasing.Security",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "AttributeHelper",
+    "namespace": "UnityEngine.TestTools",
+    "assembly": "UnityEngine.TestRunner"
+  },
+  {
+    "class": "CFX_AutodestructWhenNoChildren",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "IPurchasedProductInfo",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "UnityIAPServices",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "EditorBanner",
+    "namespace": "UnityEngine.Advertisements.Platform.Editor",
+    "assembly": "UnityEngine.Advertisements"
+  },
+  {
+    "class": "FloatEqualityComparer",
+    "namespace": "UnityEngine.TestTools.Utils",
+    "assembly": "UnityEngine.TestRunner"
+  },
+  {
+    "class": "UtcTimeProvider",
+    "namespace": "Unity.Services.Core.Scheduler.Internal",
+    "assembly": "Unity.Services.Core.Scheduler"
+  },
+  {
+    "class": "UnityAdsLoadListenerMainDispatch",
+    "namespace": "UnityEngine.Advertisements",
+    "assembly": "UnityEngine.Advertisements"
+  },
+  {
+    "class": "MenuUIv3",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "DependencyTreeExtensions",
+    "namespace": "Unity.Services.Core.Internal",
+    "assembly": "Unity.Services.Core.Internal"
+  },
+  {
+    "class": "IStoreProductsCallback",
+    "namespace": "UnityEngine.Purchasing.Extension",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "ITextPreprocessor",
+    "namespace": "TMPro",
+    "assembly": "Unity.TextMeshPro"
+  },
+  {
+    "class": "IPayloadDeserializer",
+    "namespace": "AppleAuth.Interfaces",
+    "assembly": "AppleAuth"
+  },
+  {
+    "class": "UnityLifecycleManager",
+    "namespace": "UnityEngine.Advertisements.Utilities",
+    "assembly": "UnityEngine.Advertisements"
+  },
+  {
+    "class": "ITelemetryDiagnosticsInstanceWrapper",
+    "namespace": "UnityEngine.Purchasing.Telemetry",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "TimeNotificationBehaviour",
+    "namespace": "UnityEngine.Timeline",
+    "assembly": "Unity.Timeline"
+  },
+  {
+    "class": "RealmFinder",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "IPurchaseServiceFactoryManagerInjectionPoint",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "IGoogleCachedQueryProductDetailsService",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing.Stores"
+  },
+  {
+    "class": "RemoteTestData",
+    "namespace": "UnityEngine.TestRunner.TestLaunchers",
+    "assembly": "UnityEngine.TestRunner"
+  },
+  {
+    "class": "RetireUI",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "AxisEventData",
+    "namespace": "UnityEngine.EventSystems",
+    "assembly": "UnityEngine.UI"
+  },
+  {
+    "class": "LevelTable",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "BattleEffect",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "StartEventArgs",
+    "namespace": "UnityEngine.Advertisements.Events",
+    "assembly": "UnityEngine.Advertisements"
+  },
+  {
+    "class": "TransactionEventHelper",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing.Stores"
+  },
+  {
+    "class": "BattleTpSlider",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "SkeletonUtilityBone",
+    "namespace": "Spine.Unity",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "ScheduleRuntimeClip",
+    "namespace": "UnityEngine.Timeline",
+    "assembly": "Unity.Timeline"
+  },
+  {
+    "class": "ObscuredVector2",
+    "namespace": "CodeStage.AntiCheat.ObscuredTypes",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "UniTaskAsyncEnumerable",
+    "namespace": "Cysharp.Threading.Tasks.Linq",
+    "assembly": "UniTask.Linq"
+  },
+  {
+    "class": "HappyNewYearUI",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "IAppleConfiguration",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "SequenceEqual",
+    "namespace": "Cysharp.Threading.Tasks.Linq",
+    "assembly": "UniTask.Linq"
+  },
+  {
+    "class": "UnityPurchasing",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "ISetStorePromotionOrderUseCase",
+    "namespace": "UnityEngine.Purchasing.UseCases.Interfaces",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "CorePackageRegistry",
+    "namespace": "Unity.Services.Core.Internal",
+    "assembly": "Unity.Services.Core.Internal"
+  },
+  {
+    "class": "BoneFollowerGraphic",
+    "namespace": "Spine.Unity",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "ConstructDelegator",
+    "namespace": "UnityEngine.TestTools.NUnitExtensions",
+    "assembly": "UnityEngine.TestRunner"
+  },
+  {
+    "class": "UIFakeStore",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing.Stores"
+  },
+  {
+    "class": "IFetchProductsUseCase",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "CodePoint",
+    "namespace": "TMPro",
+    "assembly": "Unity.TextMeshPro"
+  },
+  {
+    "class": "SignalTrack",
+    "namespace": "UnityEngine.Timeline",
+    "assembly": "Unity.Timeline"
+  },
+  {
+    "class": "GodRealmTable",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "IRetryPolicy",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "SkillUnlockUI",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "UniTaskAsyncEnumerable",
+    "namespace": "Cysharp.Threading.Tasks.Linq",
+    "assembly": "UniTask.Linq"
+  },
+  {
+    "class": "AsyncStartTrigger",
+    "namespace": "Cysharp.Threading.Tasks.Triggers",
+    "assembly": "UniTask"
+  },
+  {
+    "class": "ClockUI",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "ObscuredQuaternion",
+    "namespace": "CodeStage.AntiCheat.ObscuredTypes",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "CoroutineTestWorkItem",
+    "namespace": "UnityEngine.TestRunner.NUnitExtensions.Runner",
+    "assembly": "UnityEngine.TestRunner"
+  },
+  {
+    "class": "IPropertyPreview",
+    "namespace": "UnityEngine.Timeline",
+    "assembly": "Unity.Timeline"
+  },
+  {
+    "class": "GooglePlayGetGooglePurchaseUseCase",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "CodelessIAPStoreListener",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing.Codeless"
+  },
+  {
+    "class": "TextMeshProAsyncExtensions",
+    "namespace": "Cysharp.Threading.Tasks",
+    "assembly": "UniTask.TextMeshPro"
+  },
+  {
+    "class": "UnsupportedBanner",
+    "namespace": "UnityEngine.Advertisements.Platform.Unsupported",
+    "assembly": "UnityEngine.Advertisements"
+  },
+  {
+    "class": "TMP_LineInfo",
+    "namespace": "TMPro",
+    "assembly": "Unity.TextMeshPro"
+  },
+  {
+    "class": "PostEffectsBase",
+    "namespace": "UnityStandardAssets.ImageEffects",
+    "assembly": "Assembly-CSharp-firstpass"
+  },
+  {
+    "class": "ObscuredString",
+    "namespace": "CodeStage.AntiCheat.ObscuredTypes",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "StoreException",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "ShopItemUI_1",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "CFX_AutoRotate",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "UniTaskAsyncEnumerable",
+    "namespace": "Cysharp.Threading.Tasks.Linq",
+    "assembly": "UniTask.Linq"
+  },
+  {
+    "class": "TransformConstraintData",
+    "namespace": "Spine",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "MeshAttachment",
+    "namespace": "Spine",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "SeniaAnalyticsManager",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "HomeTopController",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "SkillInfoUIv2",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "InterConectUI",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "InternalStore",
+    "namespace": "Purchasing.Extension",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "HashException",
+    "namespace": "Unity.Services.Core.Internal",
+    "assembly": "Unity.Services.Core.Internal"
+  },
+  {
+    "class": "NotificationUtilities",
+    "namespace": "UnityEngine.Timeline",
+    "assembly": "Unity.Timeline"
+  },
+  {
+    "class": "AndroidNotificationExtensions",
+    "namespace": "Unity.Notifications.Android",
+    "assembly": "Unity.Notifications.Android"
+  },
+  {
+    "class": "SynchronousFilter",
+    "namespace": "UnityEngine.TestTools.TestRunner.GUI",
+    "assembly": "UnityEngine.TestRunner"
+  },
+  {
+    "class": "SetPropertyUtility",
+    "namespace": "UnityEngine.UI",
+    "assembly": "UnityEngine.UI"
+  },
+  {
+    "class": "IOuterUnityTestAction",
+    "namespace": "UnityEngine.TestTools",
+    "assembly": "UnityEngine.TestRunner"
+  },
+  {
+    "class": "ProductDetailsConverter",
+    "namespace": "UnityEngine.Purchasing.Utils",
+    "assembly": "Unity.Purchasing.Stores"
+  },
+  {
+    "class": "IPersistence",
+    "namespace": "Unity.Services.Analytics.Internal",
+    "assembly": "Unity.Services.Analytics"
+  },
+  {
+    "class": "SettingsUI",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "ObscuredULong",
+    "namespace": "CodeStage.AntiCheat.ObscuredTypes",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "BattleBoss_Fairy02",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "IAndroidJavaStore",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "IRetryService",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "IOnEntitlementRevokedUseCase",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "PartnerTable",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "StandardEventServiceComponent",
+    "namespace": "Unity.Services.Analytics.Internal",
+    "assembly": "Unity.Services.Analytics"
+  },
+  {
+    "class": "DefaultStoreHelper",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "EnumeratorAsyncExtensions",
+    "namespace": "Cysharp.Threading.Tasks",
+    "assembly": "UniTask"
+  },
+  {
+    "class": "UniTaskAsyncEnumerable",
+    "namespace": "Cysharp.Threading.Tasks.Linq",
+    "assembly": "UniTask.Linq"
+  },
+  {
+    "class": "IPurchaseServiceExtension",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "BattleFormula",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "AsyncOperationExtensions",
+    "namespace": "Unity.Services.Core.Internal",
+    "assembly": "Unity.Services.Core.Internal"
+  },
+  {
+    "class": "SeniaNotificationManager",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "IExternalUserId",
+    "namespace": "Unity.Services.Core.Configuration.Internal",
+    "assembly": "Unity.Services.Core.Internal"
+  },
+  {
+    "class": "UniTask",
+    "namespace": "Cysharp.Threading.Tasks",
+    "assembly": "UniTask"
+  },
+  {
+    "class": "ProductDefinitionExtensions",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "IStorePurchaseConfirmCallback",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "LogUIItem",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "DirectorControlPlayable",
+    "namespace": "UnityEngine.Timeline",
+    "assembly": "Unity.Timeline"
+  },
+  {
+    "class": "IRestoreTransactionsUseCase",
+    "namespace": "UnityEngine.Purchasing.Interfaces",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "Metrics",
+    "namespace": "Unity.Services.Core.Telemetry.Internal",
+    "assembly": "Unity.Services.Core.Telemetry"
+  },
+  {
+    "class": "ILoginWithAppleIdResponse",
+    "namespace": "AppleAuth.Interfaces",
+    "assembly": "AppleAuth"
+  },
+  {
+    "class": "RankingProgressUnit",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "BannerLoadOptions",
+    "namespace": "UnityEngine.Advertisements",
+    "assembly": "UnityEngine.Advertisements"
+  },
+  {
+    "class": "DefaultControls",
+    "namespace": "UnityEngine.UI",
+    "assembly": "UnityEngine.UI"
+  },
+  {
+    "class": "CanvasUpdateRegistry",
+    "namespace": "UnityEngine.UI",
+    "assembly": "UnityEngine.UI"
+  },
+  {
+    "class": "TimelineAsset",
+    "namespace": "UnityEngine.Timeline",
+    "assembly": "Unity.Timeline"
+  },
+  {
+    "class": "DataPrivacy",
+    "namespace": "UnityEngine.Analytics",
+    "assembly": "Unity.Analytics.DataPrivacy"
+  },
+  {
+    "class": "ProductServiceDependencyInjector",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "LTDescrOptional",
+    "namespace": "",
+    "assembly": "Assembly-CSharp-firstpass"
+  },
+  {
+    "class": "IGooglePurchaseCallback",
+    "namespace": "UnityEngine.Purchasing.Interfaces",
+    "assembly": "Unity.Purchasing.Stores"
+  },
+  {
+    "class": "CFX_LightIntensityFade",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "ExternalUserId",
+    "namespace": "Unity.Services.Core.Configuration",
+    "assembly": "Unity.Services.Core.Configuration"
+  },
+  {
+    "class": "IAsyncFixedUpdateHandler",
+    "namespace": "Cysharp.Threading.Tasks.Triggers",
+    "assembly": "UniTask"
+  },
+  {
+    "class": "UniTask",
+    "namespace": "Cysharp.Threading.Tasks",
+    "assembly": "UniTask"
+  },
+  {
+    "class": "TimelineHelpURLAttribute",
+    "namespace": "UnityEngine.Timeline",
+    "assembly": "Unity.Timeline"
+  },
+  {
+    "class": "AsyncOperationAwaiter",
+    "namespace": "Unity.Services.Core.Internal",
+    "assembly": "Unity.Services.Core.Internal"
+  },
+  {
+    "class": "InstallationId",
+    "namespace": "Unity.Services.Core.Device",
+    "assembly": "Unity.Services.Core.Device"
+  },
+  {
+    "class": "IAsyncTestAssemblyBuilder",
+    "namespace": "UnityEngine.TestTools.NUnitExtensions",
+    "assembly": "UnityEngine.TestRunner"
+  },
+  {
+    "class": "RankingFirstUI",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "PurchaseServiceProvider",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "TransactionFailedEvent",
+    "namespace": "Unity.Services.Analytics",
+    "assembly": "Unity.Services.Analytics"
+  },
+  {
+    "class": "ObscuredUShort",
+    "namespace": "CodeStage.AntiCheat.ObscuredTypes",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "VertexHelper",
+    "namespace": "UnityEngine.UI",
+    "assembly": "UnityEngine.UI"
+  },
+  {
+    "class": "CFX_Demo_GTButton",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "AssetBundleLoadOperation",
+    "namespace": "AssetBundles",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "PhysicsRaycaster",
+    "namespace": "UnityEngine.EventSystems",
+    "assembly": "UnityEngine.UI"
+  },
+  {
+    "class": "RankingFlagUI",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "RankingRewardUI",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "IProductDetailsConverter",
+    "namespace": "UnityEngine.Purchasing.Interfaces",
+    "assembly": "Unity.Purchasing.Stores"
+  },
+  {
+    "class": "GoogleSignInUser",
+    "namespace": "Google",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "ChestProportionUIItem",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "RectangularVertexClipper",
+    "namespace": "UnityEngine.UI",
+    "assembly": "UnityEngine.UI"
+  },
+  {
+    "class": "OnEntitlementRevokedUseCase",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "RankingRuleUnit",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "PreserveDependencyAttribute",
+    "namespace": "System.Runtime.CompilerServices",
+    "assembly": "Unity.Services.Core"
+  },
+  {
+    "class": "AnimationTriggers",
+    "namespace": "UnityEngine.UI",
+    "assembly": "UnityEngine.UI"
+  },
+  {
+    "class": "IBanner",
+    "namespace": "UnityEngine.Advertisements",
+    "assembly": "UnityEngine.Advertisements"
+  },
+  {
+    "class": "SkillInfoUIRuneButton",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "IAsyncOperationAwaiter",
+    "namespace": "Unity.Services.Core.Internal",
+    "assembly": "Unity.Services.Core.Internal"
+  },
+  {
+    "class": "IGoogleFinishTransactionUseCase",
+    "namespace": "UnityEngine.Purchasing.Interfaces",
+    "assembly": "Unity.Purchasing.Stores"
+  },
+  {
+    "class": "StoreManagerFactoryInjector",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing.Stores"
+  },
+  {
+    "class": "CoreServicesEnvironmentSubject",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "PathAttachment",
+    "namespace": "Spine",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "ChestTable",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "StoreServiceContainer",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "MonoBehaviourUtil",
+    "namespace": "Purchasing.Utilities",
+    "assembly": "Unity.Purchasing.Utilities"
+  },
+  {
+    "class": "DefaultTestWorkItem",
+    "namespace": "UnityEngine.TestRunner.NUnitExtensions.Runner",
+    "assembly": "UnityEngine.TestRunner"
+  },
+  {
+    "class": "NoRetriesPolicy",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "AnalyticsClient",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing.Stores"
+  },
+  {
+    "class": "ConditionalIgnoreAttribute",
+    "namespace": "UnityEngine.TestTools",
+    "assembly": "UnityEngine.TestRunner"
+  },
+  {
+    "class": "ElementAt",
+    "namespace": "Cysharp.Threading.Tasks.Linq",
+    "assembly": "UniTask.Linq"
+  },
+  {
+    "class": "BattleBossBase",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "StoreServiceDependencyInjector",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "IAnalyticsService",
+    "namespace": "Unity.Services.Analytics",
+    "assembly": "Unity.Services.Analytics"
+  },
+  {
+    "class": "IStoreConfiguration",
+    "namespace": "UnityEngine.Purchasing.Extension",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "LogAssert",
+    "namespace": "UnityEngine.TestTools",
+    "assembly": "UnityEngine.TestRunner"
+  },
+  {
+    "class": "ListExtension",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "MainStoryUI",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "StoreServiceProvider",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "xxHash",
+    "namespace": "CodeStage.AntiCheat.Utils",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "TMP_SelectionCaret",
+    "namespace": "TMPro",
+    "assembly": "Unity.TextMeshPro"
+  },
+  {
+    "class": "ForEach",
+    "namespace": "Cysharp.Threading.Tasks.Linq",
+    "assembly": "UniTask.Linq"
+  },
+  {
+    "class": "GooglePlayCartValidator",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "TestReporter",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "BannerPlaceholder",
+    "namespace": "UnityEngine.Advertisements.Platform.Editor",
+    "assembly": "UnityEngine.Advertisements"
+  },
+  {
+    "class": "PurchaseFailureDescription",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "IChannelTokenProvider",
+    "namespace": "Unity.Services.Wire.Internal",
+    "assembly": "Unity.Services.Core.Internal"
+  },
+  {
+    "class": "QuestTable",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "LayoutGroup",
+    "namespace": "UnityEngine.UI",
+    "assembly": "UnityEngine.UI"
+  },
+  {
+    "class": "BtnPartnerSkill",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "PointerInputModule",
+    "namespace": "UnityEngine.EventSystems",
+    "assembly": "UnityEngine.UI"
+  },
+  {
+    "class": "WeaponUI",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "UnitySetUpAttribute",
+    "namespace": "UnityEngine.TestTools",
+    "assembly": "UnityEngine.TestRunner"
+  },
+  {
+    "class": "StoryReviewSubUiUnit",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "PurchaseServiceContainer",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "FetchProductsUseCase",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "IUnityAdsInitializationListener",
+    "namespace": "UnityEngine.Advertisements",
+    "assembly": "UnityEngine.Advertisements"
+  },
+  {
+    "class": "IRetryRequest",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "PurchasingFactory",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "BoundingBoxAttachment",
+    "namespace": "Spine",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "ChestEventTable",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "UniTaskAsyncEnumerable",
+    "namespace": "Cysharp.Threading.Tasks.Linq",
+    "assembly": "UniTask.Linq"
+  },
+  {
+    "class": "PurchasesFetchFailureDescription",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "SelectStoryMenuUI",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "SpineAttributeBase",
+    "namespace": "Spine.Unity",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "IPurchaseServiceFactoryManager",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "GooglePlayCheckEntitlementUseCase",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing.Stores"
+  },
+  {
+    "class": "OrderInfo",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "TelemetryMetricsService",
+    "namespace": "UnityEngine.Purchasing.Telemetry",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "IMask",
+    "namespace": "UnityEngine.UI",
+    "assembly": "UnityEngine.UI"
+  },
+  {
+    "class": "IQosResults",
+    "namespace": "Unity.Services.Qos.Internal",
+    "assembly": "Unity.Services.Core.Internal"
+  },
+  {
+    "class": "ProductServiceContainer",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "TMP_PackageResourceImporter",
+    "namespace": "TMPro",
+    "assembly": "Unity.TextMeshPro"
+  },
+  {
+    "class": "NotificationsPermissionRequest",
+    "namespace": "Unity.Notifications",
+    "assembly": "Unity.Notifications.Unified"
+  },
+  {
+    "class": "GoogleBillingResult",
+    "namespace": "UnityEngine.Purchasing.Models",
+    "assembly": "Unity.Purchasing.Stores"
+  },
+  {
+    "class": "Shadow",
+    "namespace": "UnityEngine.UI",
+    "assembly": "UnityEngine.UI"
+  },
+  {
+    "class": "SkeletonUtilityKinematicShadow",
+    "namespace": "Spine.Unity.Modules",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "AnimatorBindingCache",
+    "namespace": "UnityEngine.Timeline",
+    "assembly": "Unity.Timeline"
+  },
+  {
+    "class": "ResourceManager",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "IAppleOrderInfo",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "AppTrackingTransparencyExample",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "AllocatingGCMemoryConstraint",
+    "namespace": "UnityEngine.TestTools.Constraints",
+    "assembly": "UnityEngine.TestRunner"
+  },
+  {
+    "class": "EventTrigger",
+    "namespace": "UnityEngine.EventSystems",
+    "assembly": "UnityEngine.UI"
+  },
+  {
+    "class": "HashUtility",
+    "namespace": "UnityEngine.Timeline",
+    "assembly": "Unity.Timeline"
+  },
+  {
+    "class": "SpeedHackDetector",
+    "namespace": "CodeStage.AntiCheat.Detectors",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "MetricsFactory",
+    "namespace": "Unity.Services.Core.Telemetry.Internal",
+    "assembly": "Unity.Services.Core.Telemetry"
+  },
+  {
+    "class": "GroupTrack",
+    "namespace": "UnityEngine.Timeline",
+    "assembly": "Unity.Timeline"
+  },
+  {
+    "class": "WallHackDetector",
+    "namespace": "CodeStage.AntiCheat.Detectors",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "UnifiedReceiptFormatter",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "DependencyInjectionService",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "InputField",
+    "namespace": "UnityEngine.UI",
+    "assembly": "UnityEngine.UI"
+  },
+  {
+    "class": "GetIntroductoryPriceDictionaryUseCase",
+    "namespace": "UnityEngine.Purchasing.UseCases",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "ITestRunnerListener",
+    "namespace": "UnityEngine.TestTools.TestRunner",
+    "assembly": "UnityEngine.TestRunner"
+  },
+  {
+    "class": "PrebuildSetupAttribute",
+    "namespace": "UnityEngine.TestTools",
+    "assembly": "UnityEngine.TestRunner"
+  },
+  {
+    "class": "FailedOrder",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "ActivationControlPlayable",
+    "namespace": "UnityEngine.Timeline",
+    "assembly": "Unity.Timeline"
+  },
+  {
+    "class": "MetricizedJsonStore",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing.Stores"
+  },
+  {
+    "class": "AnimationTrack",
+    "namespace": "UnityEngine.Timeline",
+    "assembly": "Unity.Timeline"
+  },
+  {
+    "class": "SkeletonAnimation",
+    "namespace": "Spine.Unity",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "DialogUItem",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "RankingManager",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "UnityTestMethodCommand",
+    "namespace": "UnityEngine.TestTools",
+    "assembly": "UnityEngine.TestRunner"
+  },
+  {
+    "class": "ProductDetailsQueryResponse",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing.Stores"
+  },
+  {
+    "class": "IVivox",
+    "namespace": "Unity.Services.Vivox.Internal",
+    "assembly": "Unity.Services.Core.Internal"
+  },
+  {
+    "class": "GameMenuHandler",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "TrackAssetExtensions",
+    "namespace": "UnityEngine.Timeline",
+    "assembly": "Unity.Timeline"
+  },
+  {
+    "class": "DependencyInjectionException",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "TelemetryMetricDefinitions",
+    "namespace": "UnityEngine.Purchasing.Telemetry",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "LockedPackageRegistry",
+    "namespace": "Unity.Services.Core.Internal",
+    "assembly": "Unity.Services.Core.Internal"
+  },
+  {
+    "class": "IProductServiceFactory",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "IServiceDebug",
+    "namespace": "Unity.Services.Analytics.Internal",
+    "assembly": "Unity.Services.Analytics"
+  },
+  {
+    "class": "CharacterTable",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "ColorEqualityComparer",
+    "namespace": "UnityEngine.TestTools.Utils",
+    "assembly": "UnityEngine.TestRunner"
+  },
+  {
+    "class": "ShopVioletTable",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "EquipItemUI",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "CsvRow",
+    "namespace": "CsvReadWriter",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "UniTaskScheduler",
+    "namespace": "Cysharp.Threading.Tasks",
+    "assembly": "UniTask"
+  },
+  {
+    "class": "SignalAsset",
+    "namespace": "UnityEngine.Timeline",
+    "assembly": "Unity.Timeline"
+  },
+  {
+    "class": "IndexSetUiUnit",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "UniTaskAsyncEnumerable",
+    "namespace": "Cysharp.Threading.Tasks.Linq",
+    "assembly": "UniTask.Linq"
+  },
+  {
+    "class": "StoreConnectionStateService",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "UniTaskAsyncEnumerable",
+    "namespace": "Cysharp.Threading.Tasks.Linq",
+    "assembly": "UniTask.Linq"
+  },
+  {
+    "class": "Range",
+    "namespace": "Cysharp.Threading.Tasks.Linq",
+    "assembly": "UniTask.Linq"
+  },
+  {
+    "class": "Diagnostics",
+    "namespace": "Unity.Services.Core.Telemetry.Internal",
+    "assembly": "Unity.Services.Core.Telemetry"
+  },
+  {
+    "class": "SkeletonGraphic",
+    "namespace": "Spine.Unity",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "UniTaskAsyncEnumerable",
+    "namespace": "Cysharp.Threading.Tasks.Linq",
+    "assembly": "UniTask.Linq"
+  },
+  {
+    "class": "AudioMixerProperties",
+    "namespace": "UnityEngine.Timeline",
+    "assembly": "Unity.Timeline"
+  },
+  {
+    "class": "UnifiedReceiptAnalyticsExtensions",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing.Stores"
+  },
+  {
+    "class": "ServicesInitialization",
+    "namespace": "Unity.Services.Core.Components",
+    "assembly": "Unity.Services.Core.Components"
+  },
+  {
+    "class": "CatalogProvider",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "CodelessCatalogProvider",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing.Codeless"
+  },
+  {
+    "class": "ProductCatalog",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "IProductServiceFactoryManagerInjectionPoint",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "CFX_AutoStopLoopedEffect",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "UnityWebRequestClient",
+    "namespace": "Unity.Services.Core.Networking",
+    "assembly": "Unity.Services.Core.Networking"
+  },
+  {
+    "class": "ProductFetchFailed",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "TestFocus",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "WebRequestHelper",
+    "namespace": "Unity.Services.Analytics.Internal",
+    "assembly": "Unity.Services.Analytics"
+  },
+  {
+    "class": "EventManager",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "ITelemetryMetricsService",
+    "namespace": "UnityEngine.Purchasing.Telemetry",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "GoogleConsumeResponseListener",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing.Stores"
+  },
+  {
+    "class": "IFetchStorePromotionOrderUseCase",
+    "namespace": "UnityEngine.Purchasing.UseCases.Interfaces",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "PointFollower",
+    "namespace": "Spine.Unity",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "AppleStoreExtendedProductService",
+    "namespace": "UnityEngine.Purchasing.Services",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "OSXStoreBindings",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing.AppleMacosStub"
+  },
+  {
+    "class": "AsyncOperationBase",
+    "namespace": "Unity.Services.Core.Internal",
+    "assembly": "Unity.Services.Core.Internal"
+  },
+  {
+    "class": "IChannel",
+    "namespace": "Unity.Services.Wire.Internal",
+    "assembly": "Unity.Services.Core.Internal"
+  },
+  {
+    "class": "MainStoryUiUnit",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "IEnumerableTestMethodCommand",
+    "namespace": "UnityEngine.TestRunner.NUnitExtensions.Runner",
+    "assembly": "UnityEngine.TestRunner"
+  },
+  {
+    "class": "UnityProjectNotLinkedException",
+    "namespace": "Unity.Services.Core",
+    "assembly": "Unity.Services.Core"
+  },
+  {
+    "class": "GraphicRaycaster",
+    "namespace": "UnityEngine.UI",
+    "assembly": "UnityEngine.UI"
+  },
+  {
+    "class": "MoveNextSource",
+    "namespace": "Cysharp.Threading.Tasks",
+    "assembly": "UniTask"
+  },
+  {
+    "class": "UniTaskAsyncEnumerable",
+    "namespace": "Cysharp.Threading.Tasks.Linq",
+    "assembly": "UniTask.Linq"
+  },
+  {
+    "class": "UniTaskAsyncEnumerable",
+    "namespace": "Cysharp.Threading.Tasks.Linq",
+    "assembly": "UniTask.Linq"
+  },
+  {
+    "class": "Constants",
+    "namespace": "CodeStage.AntiCheat.Common",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "GooglePlayStoreExtendedService",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "UniTaskAsyncEnumerable",
+    "namespace": "Cysharp.Threading.Tasks.Linq",
+    "assembly": "UniTask.Linq"
+  },
+  {
+    "class": "EnumerableSetUpTearDownCommand",
+    "namespace": "UnityEngine.TestTools",
+    "assembly": "UnityEngine.TestRunner"
+  },
+  {
+    "class": "NonNullCartValidator",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "DismantlingUiUnit",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "UnityServices",
+    "namespace": "Unity.Services.Core",
+    "assembly": "Unity.Services.Core"
+  },
+  {
+    "class": "UniTaskAsyncEnumerable",
+    "namespace": "Cysharp.Threading.Tasks.Linq",
+    "assembly": "UniTask.Linq"
+  },
+  {
+    "class": "ConfigurationEntry",
+    "namespace": "Unity.Services.Core.Configuration",
+    "assembly": "Unity.Services.Core.Configuration"
+  },
+  {
+    "class": "ToArray",
+    "namespace": "Cysharp.Threading.Tasks.Linq",
+    "assembly": "UniTask.Linq"
+  },
+  {
+    "class": "Event",
+    "namespace": "Spine",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "IAPManager",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "UniTaskAsyncEnumerable",
+    "namespace": "Cysharp.Threading.Tasks.Linq",
+    "assembly": "UniTask.Linq"
+  },
+  {
+    "class": "Banner",
+    "namespace": "UnityEngine.Advertisements",
+    "assembly": "UnityEngine.Advertisements"
+  },
+  {
+    "class": "ShopChestUI",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "ObscuredChar",
+    "namespace": "CodeStage.AntiCheat.ObscuredTypes",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "NotificationCallback",
+    "namespace": "Unity.Notifications.Android",
+    "assembly": "Unity.Notifications.Android"
+  },
+  {
+    "class": "HttpRequest",
+    "namespace": "Unity.Services.Core.Networking.Internal",
+    "assembly": "Unity.Services.Core.Internal"
+  },
+  {
+    "class": "TestResultRendererCallback",
+    "namespace": "UnityEngine.TestTools.TestRunner.Callbacks",
+    "assembly": "UnityEngine.TestRunner"
+  },
+  {
+    "class": "TestCanvas",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "ObscuredDouble",
+    "namespace": "CodeStage.AntiCheat.ObscuredTypes",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "AnimationStateData",
+    "namespace": "Spine",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "SkeletonRenderer",
+    "namespace": "Spine.Unity",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "SetUpTearDownCommand",
+    "namespace": "UnityEngine.TestTools",
+    "assembly": "UnityEngine.TestRunner"
+  },
+  {
+    "class": "AnalyticsTransactionReceipt",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing.Stores"
+  },
+  {
+    "class": "MoviePlayer",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "ActivationMixerPlayable",
+    "namespace": "UnityEngine.Timeline",
+    "assembly": "Unity.Timeline"
+  },
+  {
+    "class": "Outline",
+    "namespace": "UnityEngine.UI",
+    "assembly": "UnityEngine.UI"
+  },
+  {
+    "class": "CharacterUI",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "BattleHpSlider",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "TMP_MeshInfo",
+    "namespace": "TMPro",
+    "assembly": "Unity.TextMeshPro"
+  },
+  {
+    "class": "MainMenu",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "EnumerableRepeatedTestCommand",
+    "namespace": "UnityEngine.TestTools",
+    "assembly": "UnityEngine.TestRunner"
+  },
+  {
+    "class": "Any",
+    "namespace": "Cysharp.Threading.Tasks.Linq",
+    "assembly": "UniTask.Linq"
+  },
+  {
+    "class": "IAppleFetchProductsService",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "Progress",
+    "namespace": "Cysharp.Threading.Tasks",
+    "assembly": "UniTask"
+  },
+  {
+    "class": "IGooglePlayStoreConnectionService",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing.Stores"
+  },
+  {
+    "class": "TexturePacker_JsonArray",
+    "namespace": "TMPro.SpriteAssetUtilities",
+    "assembly": "Unity.TextMeshPro"
+  },
+  {
+    "class": "SignalReceiver",
+    "namespace": "UnityEngine.Timeline",
+    "assembly": "Unity.Timeline"
+  },
+  {
+    "class": "ScriptingUnityCallback",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "Utility",
+    "namespace": "AssetBundles",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "RankingRuleUI",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "IAppleAppReceiptViewer",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "Count",
+    "namespace": "Cysharp.Threading.Tasks.Linq",
+    "assembly": "UniTask.Linq"
+  },
+  {
+    "class": "IUnityAdsLoadListener",
+    "namespace": "UnityEngine.Advertisements",
+    "assembly": "UnityEngine.Advertisements"
+  },
+  {
+    "class": "ICloudProjectId",
+    "namespace": "Unity.Services.Core.Configuration.Internal",
+    "assembly": "Unity.Services.Core.Internal"
+  },
+  {
+    "class": "EndPopupUI",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "BattleBoss_Fairy01",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "SkeletonRagdoll2D",
+    "namespace": "Spine.Unity.Modules",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "SettingsSaveUI",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "WeightUtility",
+    "namespace": "UnityEngine.Timeline",
+    "assembly": "Unity.Timeline"
+  },
+  {
+    "class": "UniTaskAsyncEnumerable",
+    "namespace": "Cysharp.Threading.Tasks.Linq",
+    "assembly": "UniTask.Linq"
+  },
+  {
+    "class": "IGooglePlayStoreFetchPurchasesService",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing.Stores"
+  },
+  {
+    "class": "AsyncUniTaskVoidMethodBuilder",
+    "namespace": "Cysharp.Threading.Tasks.CompilerServices",
+    "assembly": "UniTask"
+  },
+  {
+    "class": "GooglePurchase",
+    "namespace": "UnityEngine.Purchasing.Models",
+    "assembly": "Unity.Purchasing.Stores"
+  },
+  {
+    "class": "EquipUI",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "QueryProductDetailsService",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing.Stores"
+  },
+  {
+    "class": "ShopItemUIBase",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "GoogleBillingClient",
+    "namespace": "UnityEngine.Purchasing.Models",
+    "assembly": "Unity.Purchasing.Stores"
+  },
+  {
+    "class": "ApplicationQuit",
+    "namespace": "UnityEngine.Advertisements.Utilities",
+    "assembly": "UnityEngine.Advertisements"
+  },
+  {
+    "class": "UnityAsyncExtensions",
+    "namespace": "Cysharp.Threading.Tasks",
+    "assembly": "UniTask"
+  },
+  {
+    "class": "UniTaskVoid",
+    "namespace": "Cysharp.Threading.Tasks",
+    "assembly": "UniTask"
+  },
+  {
+    "class": "SkeletonExtensions",
+    "namespace": "Spine.Unity",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "IService",
+    "namespace": "Unity.Services.Core",
+    "assembly": "Unity.Services.Core"
+  },
+  {
+    "class": "UniTaskObservableExtensions",
+    "namespace": "Cysharp.Threading.Tasks",
+    "assembly": "UniTask"
+  },
+  {
+    "class": "InjectAttribute",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "ReadOnlyHttpRequest",
+    "namespace": "Unity.Services.Core.Networking.Internal",
+    "assembly": "Unity.Services.Core.Internal"
+  },
+  {
+    "class": "FakeStoreCartValidator",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing.Stores"
+  },
+  {
+    "class": "TimeCode",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "UnityEqualityComparer",
+    "namespace": "Cysharp.Threading.Tasks.Internal",
+    "assembly": "UniTask"
+  },
+  {
+    "class": "CategoryFilterExtended",
+    "namespace": "UnityEngine.TestRunner.NUnitExtensions.Filters",
+    "assembly": "UnityEngine.TestRunner"
+  },
+  {
+    "class": "BarrierMeshAnim",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "CFX_SpawnSystem",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "AnimationState",
+    "namespace": "Spine",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "ConfigurationBuilder",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "IDependencyInjectionService",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "UniTask",
+    "namespace": "Cysharp.Threading.Tasks",
+    "assembly": "UniTask"
+  },
+  {
+    "class": "Bone",
+    "namespace": "Spine",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "UniTaskCompletionSource",
+    "namespace": "Cysharp.Threading.Tasks",
+    "assembly": "UniTask"
+  },
+  {
+    "class": "InitializationOptions",
+    "namespace": "Unity.Services.Core",
+    "assembly": "Unity.Services.Core"
+  },
+  {
+    "class": "StoreServiceFactory",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing.Stores"
+  },
+  {
+    "class": "VioletDropout",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "GooglePlayStoreSetObfuscatedIdUseCase",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "Cart",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "UniTaskAsyncEnumerable",
+    "namespace": "Cysharp.Threading.Tasks.Linq",
+    "assembly": "UniTask.Linq"
+  },
+  {
+    "class": "DeferredPaymentUntilRenewalDateOrder",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "ObscuredVector3",
+    "namespace": "CodeStage.AntiCheat.ObscuredTypes",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "HomeTopUI",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "AggregateCartValidator",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "AsyncAwakeTrigger",
+    "namespace": "Cysharp.Threading.Tasks.Triggers",
+    "assembly": "UniTask"
+  },
+  {
+    "class": "GooglePlayPurchaseUseCase",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "PurchasingManager",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "AggregateRetryPolicy",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "IDiagnosticsFactory",
+    "namespace": "Unity.Services.Core.Telemetry.Internal",
+    "assembly": "Unity.Services.Core.Internal"
+  },
+  {
+    "class": "IAppleStoreExtendedProductService",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "VertexGradient",
+    "namespace": "TMPro",
+    "assembly": "Unity.TextMeshPro"
+  },
+  {
+    "class": "SkillInfoItemUI",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "HttpResponse",
+    "namespace": "Unity.Services.Core.Networking.Internal",
+    "assembly": "Unity.Services.Core.Internal"
+  },
+  {
+    "class": "FullNameFilter",
+    "namespace": "UnityEngine.TestRunner.NUnitExtensions.Filters",
+    "assembly": "UnityEngine.TestRunner"
+  },
+  {
+    "class": "GetGoogleProductMetadataExtension",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "Environments",
+    "namespace": "Unity.Services.Core.Environments.Internal",
+    "assembly": "Unity.Services.Core.Environments.Internal"
+  },
+  {
+    "class": "MobGroupTable",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "ValueStopwatch",
+    "namespace": "Cysharp.Threading.Tasks.Internal",
+    "assembly": "UniTask"
+  },
+  {
+    "class": "SkeletonDataAsset",
+    "namespace": "Spine.Unity",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "AppleStoreExtendedPurchaseService",
+    "namespace": "UnityEngine.Purchasing.Services",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "SlotBlendModes",
+    "namespace": "Spine.Unity.Modules",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "SeniaController",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "PurchasedProductInfo",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "CharacterControllerBase",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "SlotData",
+    "namespace": "Spine",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "MultipleConsumableQuantityCartValidator",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "ScriptingRuntimeProxy",
+    "namespace": "UnityEngine.TestTools.Utils",
+    "assembly": "UnityEngine.TestRunner"
+  },
+  {
+    "class": "AppleRefreshAppReceiptUseCase",
+    "namespace": "UnityEngine.Purchasing.UseCases",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "TestCommandBuilder",
+    "namespace": "UnityEngine.TestRunner.NUnitExtensions.Runner",
+    "assembly": "UnityEngine.TestRunner"
+  },
+  {
+    "class": "Advertisement",
+    "namespace": "UnityEngine.Advertisements",
+    "assembly": "UnityEngine.Advertisements"
+  },
+  {
+    "class": "TextMeshProUGUI",
+    "namespace": "TMPro",
+    "assembly": "Unity.TextMeshPro"
+  },
+  {
+    "class": "AsyncDestroyTrigger",
+    "namespace": "Cysharp.Threading.Tasks.Triggers",
+    "assembly": "UniTask"
+  },
+  {
+    "class": "CameraFocusEventReceiver",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "GooglePurchasesUpdatedHandler",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing.Stores"
+  },
+  {
+    "class": "StreamingAssetsConfigurationLoader",
+    "namespace": "Unity.Services.Core.Configuration",
+    "assembly": "Unity.Services.Core.Configuration"
+  },
+  {
+    "class": "ParticleControlPlayable",
+    "namespace": "UnityEngine.Timeline",
+    "assembly": "Unity.Timeline"
+  },
+  {
+    "class": "IMetricsFactory",
+    "namespace": "Unity.Services.Core.Telemetry.Internal",
+    "assembly": "Unity.Services.Core.Internal"
+  },
+  {
+    "class": "IapSettingsConsts",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "ContinuationQueue",
+    "namespace": "Cysharp.Threading.Tasks.Internal",
+    "assembly": "UniTask"
+  },
+  {
+    "class": "FaceInfo_Legacy",
+    "namespace": "TMPro",
+    "assembly": "Unity.TextMeshPro"
+  },
+  {
+    "class": "PurchaseEventArgs",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "CFX_Demo_RotateCamera",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "UnityActivity",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "SeniaAndroidNotification",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "TimeUtility",
+    "namespace": "UnityEngine.Timeline",
+    "assembly": "Unity.Timeline"
+  },
+  {
+    "class": "EventTouchUI",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "PayoutDefinition",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "RankingTrialRuleUI",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "DiagnosticsExtensions",
+    "namespace": "Cysharp.Threading.Tasks.Internal",
+    "assembly": "UniTask"
+  },
+  {
+    "class": "SpineMesh",
+    "namespace": "Spine.Unity",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "IProductServiceFactoryManager",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "IDiagnostics",
+    "namespace": "Unity.Services.Core.Telemetry.Internal",
+    "assembly": "Unity.Services.Core.Internal"
+  },
+  {
+    "class": "CFX_Demo_GTToggle",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "ChestDropout",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "PlayerQuitHandler",
+    "namespace": "UnityEngine.TestTools.TestRunner.Callbacks",
+    "assembly": "UnityEngine.TestRunner"
+  },
+  {
+    "class": "ItemIconUI",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "GooglePlayConfiguration",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "GodRealmUI",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "SkeletonAnimator",
+    "namespace": "Spine.Unity",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "DiagnosticsFactory",
+    "namespace": "Unity.Services.Core.Telemetry.Internal",
+    "assembly": "Unity.Services.Core.Telemetry"
+  },
+  {
+    "class": "iOSStoreBindings",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing.AppleStub"
+  },
+  {
+    "class": "Rotate",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "TapEffect",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "WeaponChangeUIScrollItem",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "IAsyncOperation",
+    "namespace": "Unity.Services.Core.Internal",
+    "assembly": "Unity.Services.Core.Internal"
+  },
+  {
+    "class": "AssemblyLoadProxy",
+    "namespace": "UnityEngine.TestTools.Utils",
+    "assembly": "UnityEngine.TestRunner"
+  },
+  {
+    "class": "Animation",
+    "namespace": "Spine",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "ContinuePromotionalPurchasesUseCase",
+    "namespace": "UnityEngine.Purchasing.UseCases",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "AppReceiptUseCase",
+    "namespace": "UnityEngine.Purchasing.UseCases",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "IndexDialogTable",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "WaitForSpineEvent",
+    "namespace": "Spine.Unity",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "PackageInitializationInfo",
+    "namespace": "Unity.Services.Core.Internal",
+    "assembly": "Unity.Services.Core.Internal"
+  },
+  {
+    "class": "ShopItemUI_5",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "AnalyticsUserIdServiceComponent",
+    "namespace": "Unity.Services.Analytics.Internal",
+    "assembly": "Unity.Services.Analytics"
+  },
+  {
+    "class": "StackTraceFilter",
+    "namespace": "UnityEngine.TestTools.Utils",
+    "assembly": "UnityEngine.TestRunner"
+  },
+  {
+    "class": "ReflectionMethodsCache",
+    "namespace": "UnityEngine.UI",
+    "assembly": "UnityEngine.UI"
+  },
+  {
+    "class": "IUtil",
+    "namespace": "Uniject",
+    "assembly": "Unity.Purchasing.Utilities"
+  },
+  {
+    "class": "IAppleStoreExtendedService",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "BattleBossHpSlider",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "FetchStorePromotionVisibilityUseCase",
+    "namespace": "UnityEngine.Purchasing.UseCases",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "BannerOptions",
+    "namespace": "UnityEngine.Advertisements",
+    "assembly": "UnityEngine.Advertisements"
+  },
+  {
+    "class": "ActivationPlayableAsset",
+    "namespace": "UnityEngine.Timeline",
+    "assembly": "Unity.Timeline"
+  },
+  {
+    "class": "BasicPlayableBehaviour",
+    "namespace": "UnityEngine.Timeline",
+    "assembly": "Unity.Timeline"
+  },
+  {
+    "class": "BaseObject",
+    "namespace": "Google.Impl",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "IScriptingRuntimeProxy",
+    "namespace": "UnityEngine.TestTools.Utils",
+    "assembly": "UnityEngine.TestRunner"
+  },
+  {
+    "class": "Image",
+    "namespace": "UnityEngine.UI",
+    "assembly": "UnityEngine.UI"
+  },
+  {
+    "class": "ShaderUtilities",
+    "namespace": "TMPro",
+    "assembly": "Unity.TextMeshPro"
+  },
+  {
+    "class": "UnityTestAttribute",
+    "namespace": "UnityEngine.TestTools",
+    "assembly": "UnityEngine.TestRunner"
+  },
+  {
+    "class": "ICartValidator",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "ProductCollection",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "CameraBlurEventReceiver",
+    "namespace": "",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "EnumerableAsyncExtensions",
+    "namespace": "Cysharp.Threading.Tasks",
+    "assembly": "UniTask"
+  },
+  {
+    "class": "IPostBuildCleanup",
+    "namespace": "UnityEngine.TestTools",
+    "assembly": "UnityEngine.TestRunner"
+  },
+  {
+    "class": "RetryPolicyInformation",
+    "namespace": "UnityEngine.Purchasing",
+    "assembly": "Unity.Purchasing"
+  },
+  {
+    "class": "UnityTestTimeoutException",
+    "namespace": "UnityEngine.TestTools.TestRunner",
+    "assembly": "UnityEngine.TestRunner"
+  },
+  {
+    "class": "IGooglePurchaseService",
+    "namespace": "UnityEngine.Purchasing.Interfaces",
+    "assembly": "Unity.Purchasing.Stores"
+  },
+  {
+    "class": "LockedComponentRegistry",
+    "namespace": "Unity.Services.Core.Internal",
+    "assembly": "Unity.Services.Core.Internal"
+  },
+  {
+    "class": "ObscuredByte",
+    "namespace": "CodeStage.AntiCheat.ObscuredTypes",
+    "assembly": "Assembly-CSharp"
+  },
+  {
+    "class": "ILeanTween",
+    "namespace": "",
+    "assembly": "Assembly-CSharp-firstpass"
+  },
+  {
+    "class": "UdpGameManager",
+    "namespace": "UnityEngine.UDP",
+    "assembly": "UDP.dll"
+  },
+  {
+    "class": "AnalyticsTracker",
+    "namespace": "UnityEngine.Analytics",
+    "assembly": "Unity.Analytics.Tracker.dll"
+  },
+  {
+    "class": "CanvasFacebookLoader",
+    "namespace": "Facebook.Unity.Canvas",
+    "assembly": "Facebook.Unity.dll"
+  },
+  {
+    "class": "EditorFacebookGameObject",
+    "namespace": "Facebook.Unity.Editor",
+    "assembly": "Facebook.Unity.dll"
+  },
+  {
+    "class": "FBGamingServices",
+    "namespace": "Facebook.Unity",
+    "assembly": "Facebook.Unity.dll"
+  },
+  {
+    "class": "JsBridge",
+    "namespace": "Facebook.Unity.Canvas",
+    "assembly": "Facebook.Unity.dll"
+  },
+  {
+    "class": "SynchronizationContextBehavoir",
+    "namespace": "Firebase.Unity",
+    "assembly": "Firebase.Platform.dll"
+  },
+  {
+    "class": "EmptyMockDialog",
+    "namespace": "Facebook.Unity.Editor.Dialogs",
+    "assembly": "Facebook.Unity.dll"
+  },
+  {
+    "class": "FacebookScheduler",
+    "namespace": "Facebook.Unity",
+    "assembly": "Facebook.Unity.dll"
+  },
+  {
+    "class": "MainThreadDispatcher",
+    "namespace": "UnityEngine.UDP",
+    "assembly": "UDP.dll"
+  },
+  {
+    "class": "AsyncRequestString",
+    "namespace": "Facebook.Unity",
+    "assembly": "Facebook.Unity.dll"
+  },
+  {
+    "class": "FirebaseMonoBehaviour",
+    "namespace": "Firebase.Platform",
+    "assembly": "Firebase.Platform.dll"
+  },
+  {
+    "class": "CodelessCrawler",
+    "namespace": "Facebook.Unity",
+    "assembly": "Facebook.Unity.dll"
+  },
+  {
+    "class": "EditorFacebookMockDialog",
+    "namespace": "Facebook.Unity.Editor",
+    "assembly": "Facebook.Unity.dll"
+  },
+  {
+    "class": "MockLoginDialog",
+    "namespace": "Facebook.Unity.Editor.Dialogs",
+    "assembly": "Facebook.Unity.dll"
+  },
+  {
+    "class": "FB",
+    "namespace": "Facebook.Unity",
+    "assembly": "Facebook.Unity.dll"
+  },
+  {
+    "class": "CompiledFacebookLoader",
+    "namespace": "Facebook.Unity",
+    "assembly": "Facebook.Unity.dll"
+  },
+  {
+    "class": "XcodeProjectSetting",
+    "namespace": "",
+    "assembly": "MacacaXCode.Editor"
+  }
+]
